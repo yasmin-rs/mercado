@@ -1,0 +1,1445 @@
+compra,fonte,emissao,loja,produto_padrao,categoria_padrao,quantidade,unidade,valor_total
+S001,sintetico,2025-01-04 14:12:00,loja_exemplo,maçã,hortifruti,1.0,UN,10.37
+S001,sintetico,2025-01-04 14:12:00,loja_exemplo,cenoura,hortifruti,1.0,UN,5.3
+S001,sintetico,2025-01-04 14:12:00,loja_exemplo,queijo cremoso,laticinios,1.0,UN,7.99
+S001,sintetico,2025-01-04 14:12:00,loja_exemplo,atum,mercearia,1.0,UN,10.0
+S001,sintetico,2025-01-04 14:12:00,loja_exemplo,pão integral,padaria,1.0,UN,10.02
+S001,sintetico,2025-01-04 14:12:00,loja_exemplo,cheiro-verde,hortifruti,1.0,UN,3.13
+S002,sintetico,2025-01-06 13:21:00,loja_exemplo,carne suína,proteina,1.0,UN,24.16
+S002,sintetico,2025-01-06 13:21:00,loja_exemplo,bolo pronto,padaria,1.0,UN,10.0
+S002,sintetico,2025-01-06 13:21:00,loja_exemplo,presunto,proteina,1.0,UN,8.89
+S002,sintetico,2025-01-06 13:21:00,loja_exemplo,uva,hortifruti,1.0,UN,11.25
+S002,sintetico,2025-01-06 13:21:00,loja_exemplo,água mineral,bebidas,1.0,UN,2.79
+S002,sintetico,2025-01-06 13:21:00,loja_exemplo,macarrão instantâneo,mercearia,1.0,UN,2.63
+S003,sintetico,2025-01-09 18:14:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.64
+S003,sintetico,2025-01-09 18:14:00,loja_exemplo,suco,bebidas,1.0,UN,7.71
+S003,sintetico,2025-01-09 18:14:00,loja_exemplo,chocolate premium,doces_e_snacks,1.0,UN,14.5
+S003,sintetico,2025-01-09 18:14:00,loja_exemplo,pão francês,padaria,1.0,UN,6.16
+S003,sintetico,2025-01-09 18:14:00,loja_exemplo,leite longa vida,laticinios,1.0,UN,4.84
+S003,sintetico,2025-01-09 18:14:00,loja_exemplo,salada pronta,hortifruti,1.0,UN,8.3
+S003,sintetico,2025-01-09 18:14:00,loja_exemplo,carne suína,proteina,1.0,UN,22.97
+S003,sintetico,2025-01-09 18:14:00,loja_exemplo,pão integral,padaria,1.0,UN,10.51
+S004,sintetico,2025-01-23 16:00:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.5
+S004,sintetico,2025-01-23 16:00:00,loja_exemplo,maçã,hortifruti,1.0,UN,9.79
+S004,sintetico,2025-01-23 16:00:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.71
+S004,sintetico,2025-01-23 16:00:00,loja_exemplo,chocolate,doces_e_snacks,1.0,UN,7.1
+S004,sintetico,2025-01-23 16:00:00,loja_exemplo,sobremesa pronta,doces_e_snacks,1.0,UN,5.63
+S005,sintetico,2025-01-25 09:33:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.2
+S005,sintetico,2025-01-25 09:33:00,loja_exemplo,chocolate,doces_e_snacks,1.0,UN,7.5
+S005,sintetico,2025-01-25 09:33:00,loja_exemplo,carne suína,proteina,1.0,UN,26.87
+S005,sintetico,2025-01-25 09:33:00,loja_exemplo,margarina,laticinios,1.0,UN,8.86
+S005,sintetico,2025-01-25 09:33:00,loja_exemplo,açúcar,mercearia,1.0,UN,4.84
+S005,sintetico,2025-01-25 09:33:00,loja_exemplo,queijo parmesão,laticinios,1.0,UN,16.38
+S005,sintetico,2025-01-25 09:33:00,loja_exemplo,leite fermentado,laticinios,1.0,UN,8.25
+S005,sintetico,2025-01-25 09:33:00,loja_exemplo,bolo pronto,padaria,1.0,UN,9.32
+S006,sintetico,2025-02-04 08:54:00,loja_exemplo,linguiça,proteina,1.0,UN,20.35
+S006,sintetico,2025-02-04 08:54:00,loja_exemplo,salsicha,proteina,1.0,UN,11.89
+S006,sintetico,2025-02-04 08:54:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.49
+S006,sintetico,2025-02-04 08:54:00,loja_exemplo,água mineral,bebidas,1.0,UN,3.0
+S006,sintetico,2025-02-04 08:54:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.06
+S006,sintetico,2025-02-04 08:54:00,loja_exemplo,leite,laticinios,1.0,UN,5.2
+S006,sintetico,2025-02-04 08:54:00,loja_exemplo,chiclete,doces_e_snacks,1.0,UN,2.62
+S006,sintetico,2025-02-04 08:54:00,loja_exemplo,margarina,laticinios,1.0,UN,9.15
+S007,sintetico,2025-02-11 16:39:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.98
+S007,sintetico,2025-02-11 16:39:00,loja_exemplo,queijo minas,laticinios,1.0,UN,15.71
+S007,sintetico,2025-02-11 16:39:00,loja_exemplo,queijo cremoso,laticinios,1.0,UN,8.08
+S007,sintetico,2025-02-11 16:39:00,loja_exemplo,leite,laticinios,1.0,UN,5.18
+S007,sintetico,2025-02-11 16:39:00,loja_exemplo,bolo pronto,padaria,1.0,UN,9.41
+S007,sintetico,2025-02-11 16:39:00,loja_exemplo,creme de avelã,doces_e_snacks,1.0,UN,16.61
+S008,sintetico,2025-02-19 16:41:00,loja_exemplo,carne suína,proteina,1.0,UN,23.23
+S008,sintetico,2025-02-19 16:41:00,loja_exemplo,queijo minas,laticinios,1.0,UN,15.51
+S008,sintetico,2025-02-19 16:41:00,loja_exemplo,pão francês,padaria,1.0,UN,6.43
+S008,sintetico,2025-02-19 16:41:00,loja_exemplo,leite fermentado,laticinios,1.0,UN,7.95
+S008,sintetico,2025-02-19 16:41:00,loja_exemplo,manteiga,laticinios,1.0,UN,12.26
+S008,sintetico,2025-02-19 16:41:00,loja_exemplo,carne moída,proteina,1.0,UN,28.37
+S008,sintetico,2025-02-19 16:41:00,loja_exemplo,ração de gato,outro,1.0,UN,26.52
+S008,sintetico,2025-02-19 16:41:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.63
+S008,sintetico,2025-02-19 16:41:00,loja_exemplo,margarina,laticinios,1.0,UN,8.13
+S009,sintetico,2025-02-27 17:41:00,loja_exemplo,produto sazonal,outro,1.0,UN,19.24
+S009,sintetico,2025-02-27 17:41:00,loja_exemplo,leite,laticinios,1.0,UN,5.48
+S009,sintetico,2025-02-27 17:41:00,loja_exemplo,suco,bebidas,1.0,UN,8.1
+S009,sintetico,2025-02-27 17:41:00,loja_exemplo,salgadinho,doces_e_snacks,1.0,UN,8.98
+S009,sintetico,2025-02-27 17:41:00,loja_exemplo,bala,doces_e_snacks,1.0,UN,4.66
+S009,sintetico,2025-02-27 17:41:00,loja_exemplo,creme dental,higiene,1.0,UN,6.7
+S009,sintetico,2025-02-27 17:41:00,loja_exemplo,manteiga,laticinios,1.0,UN,13.7
+S009,sintetico,2025-02-27 17:41:00,loja_exemplo,maçã,hortifruti,1.0,UN,10.21
+S009,sintetico,2025-02-27 17:41:00,loja_exemplo,guardanapo,utilidades,1.0,UN,4.6
+S010,sintetico,2025-03-01 15:59:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.23
+S010,sintetico,2025-03-01 15:59:00,loja_exemplo,bala,doces_e_snacks,1.0,UN,5.2
+S010,sintetico,2025-03-01 15:59:00,loja_exemplo,frango,proteina,1.0,UN,16.63
+S010,sintetico,2025-03-01 15:59:00,loja_exemplo,banana,hortifruti,1.0,UN,6.84
+S010,sintetico,2025-03-01 15:59:00,loja_exemplo,pão francês,padaria,1.0,UN,6.54
+S010,sintetico,2025-03-01 15:59:00,loja_exemplo,destilado,bebidas,1.0,UN,48.61
+S010,sintetico,2025-03-01 15:59:00,loja_exemplo,suco,bebidas,1.0,UN,8.43
+S011,sintetico,2025-03-02 11:55:00,loja_exemplo,sacola,utilidades,1.0,UN,0.15
+S011,sintetico,2025-03-02 11:55:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.77
+S011,sintetico,2025-03-02 11:55:00,loja_exemplo,linguiça,proteina,1.0,UN,21.02
+S011,sintetico,2025-03-02 11:55:00,loja_exemplo,absorvente,higiene,1.0,UN,9.0
+S011,sintetico,2025-03-02 11:55:00,loja_exemplo,carne suína,proteina,1.0,UN,26.53
+S011,sintetico,2025-03-02 11:55:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.12
+S012,sintetico,2025-03-03 17:44:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.85
+S012,sintetico,2025-03-03 17:44:00,loja_exemplo,bombom,doces_e_snacks,1.0,UN,9.74
+S012,sintetico,2025-03-03 17:44:00,loja_exemplo,maçã,hortifruti,1.0,UN,9.99
+S012,sintetico,2025-03-03 17:44:00,loja_exemplo,suco,bebidas,1.0,UN,8.03
+S012,sintetico,2025-03-03 17:44:00,loja_exemplo,óleo,mercearia,1.0,UN,7.49
+S012,sintetico,2025-03-03 17:44:00,loja_exemplo,bolinho,doces_e_snacks,1.0,UN,2.94
+S013,sintetico,2025-03-07 09:37:00,loja_exemplo,maçã,hortifruti,1.0,UN,10.66
+S013,sintetico,2025-03-07 09:37:00,loja_exemplo,água mineral,bebidas,1.0,UN,3.05
+S013,sintetico,2025-03-07 09:37:00,loja_exemplo,bala,doces_e_snacks,1.0,UN,4.73
+S013,sintetico,2025-03-07 09:37:00,loja_exemplo,ovo,proteina,1.0,UN,13.63
+S013,sintetico,2025-03-07 09:37:00,loja_exemplo,leite,laticinios,1.0,UN,5.22
+S013,sintetico,2025-03-07 09:37:00,loja_exemplo,espumante,bebidas,1.0,UN,41.49
+S014,sintetico,2025-03-07 12:27:00,loja_exemplo,pão francês,padaria,1.0,UN,6.94
+S014,sintetico,2025-03-07 12:27:00,loja_exemplo,leite fermentado,laticinios,1.0,UN,7.92
+S014,sintetico,2025-03-07 12:27:00,loja_exemplo,suco,bebidas,1.0,UN,7.74
+S014,sintetico,2025-03-07 12:27:00,loja_exemplo,pão de hot dog,padaria,1.0,UN,7.1
+S014,sintetico,2025-03-07 12:27:00,loja_exemplo,banana,hortifruti,1.0,UN,6.44
+S014,sintetico,2025-03-07 12:27:00,loja_exemplo,leite,laticinios,1.0,UN,5.3
+S015,sintetico,2025-03-07 16:00:00,loja_exemplo,linguiça,proteina,1.0,UN,20.55
+S015,sintetico,2025-03-07 16:00:00,loja_exemplo,cream cheese,laticinios,1.0,UN,10.11
+S015,sintetico,2025-03-07 16:00:00,loja_exemplo,queijo minas,laticinios,1.0,UN,16.05
+S015,sintetico,2025-03-07 16:00:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.37
+S015,sintetico,2025-03-07 16:00:00,loja_exemplo,queijo parmesão,laticinios,1.0,UN,15.84
+S015,sintetico,2025-03-07 16:00:00,loja_exemplo,café,mercearia,1.0,UN,19.69
+S015,sintetico,2025-03-07 16:00:00,loja_exemplo,pão de hot dog,padaria,1.0,UN,7.44
+S015,sintetico,2025-03-07 16:00:00,loja_exemplo,laranja,hortifruti,1.0,UN,6.2
+S015,sintetico,2025-03-07 16:00:00,loja_exemplo,leite,laticinios,1.0,UN,5.9
+S016,sintetico,2025-03-22 20:17:00,loja_exemplo,linguiça,proteina,1.0,UN,20.8
+S016,sintetico,2025-03-22 20:17:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.54
+S016,sintetico,2025-03-22 20:17:00,loja_exemplo,salsicha,proteina,1.0,UN,12.1
+S016,sintetico,2025-03-22 20:17:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.32
+S016,sintetico,2025-03-22 20:17:00,loja_exemplo,guardanapo,utilidades,1.0,UN,4.45
+S016,sintetico,2025-03-22 20:17:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.56
+S016,sintetico,2025-03-22 20:17:00,loja_exemplo,pão de forma,padaria,1.0,UN,8.7
+S017,sintetico,2025-03-23 15:26:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.98
+S017,sintetico,2025-03-23 15:26:00,loja_exemplo,pão pré-assado,padaria,1.0,UN,8.61
+S017,sintetico,2025-03-23 15:26:00,loja_exemplo,leite,laticinios,1.0,UN,5.3
+S017,sintetico,2025-03-23 15:26:00,loja_exemplo,salsicha,proteina,1.0,UN,13.38
+S017,sintetico,2025-03-23 15:26:00,loja_exemplo,pão francês,padaria,1.0,UN,6.76
+S017,sintetico,2025-03-23 15:26:00,loja_exemplo,prato pronto,refeicao_fora,1.0,UN,24.29
+S017,sintetico,2025-03-23 15:26:00,loja_exemplo,jornal,outro,1.0,UN,4.7
+S018,sintetico,2025-03-24 09:53:00,loja_exemplo,salsicha,proteina,1.0,UN,11.95
+S018,sintetico,2025-03-24 09:53:00,loja_exemplo,prato descartável,utilidades,1.0,UN,10.34
+S018,sintetico,2025-03-24 09:53:00,loja_exemplo,artigo de higiene,higiene,1.0,UN,12.88
+S018,sintetico,2025-03-24 09:53:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.99
+S018,sintetico,2025-03-24 09:53:00,loja_exemplo,carne bovina,proteina,1.0,UN,39.68
+S018,sintetico,2025-03-24 09:53:00,loja_exemplo,creme de leite,laticinios,1.0,UN,4.3
+S018,sintetico,2025-03-24 09:53:00,loja_exemplo,linguiça,proteina,1.0,UN,19.62
+S018,sintetico,2025-03-24 09:53:00,loja_exemplo,conserva,mercearia,1.0,UN,9.41
+S019,sintetico,2025-03-25 16:25:00,loja_exemplo,banana,hortifruti,1.0,UN,6.53
+S019,sintetico,2025-03-25 16:25:00,loja_exemplo,sal,mercearia,1.0,UN,3.02
+S019,sintetico,2025-03-25 16:25:00,loja_exemplo,leite fermentado,laticinios,1.0,UN,8.38
+S019,sintetico,2025-03-25 16:25:00,loja_exemplo,laranja,hortifruti,1.0,UN,6.4
+S019,sintetico,2025-03-25 16:25:00,loja_exemplo,frango,proteina,1.0,UN,18.82
+S019,sintetico,2025-03-25 16:25:00,loja_exemplo,produto de limpeza,limpeza,1.0,UN,9.17
+S020,sintetico,2025-03-26 15:06:00,loja_exemplo,sobremesa pronta,doces_e_snacks,1.0,UN,5.87
+S020,sintetico,2025-03-26 15:06:00,loja_exemplo,cerveja lata,bebidas,1.0,UN,3.98
+S020,sintetico,2025-03-26 15:06:00,loja_exemplo,chocolate premium,doces_e_snacks,1.0,UN,13.97
+S020,sintetico,2025-03-26 15:06:00,loja_exemplo,margarina,laticinios,1.0,UN,8.73
+S020,sintetico,2025-03-26 15:06:00,loja_exemplo,chocolate,doces_e_snacks,1.0,UN,7.23
+S020,sintetico,2025-03-26 15:06:00,loja_exemplo,linguiça,proteina,1.0,UN,20.77
+S021,sintetico,2025-03-29 20:37:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.42
+S021,sintetico,2025-03-29 20:37:00,loja_exemplo,carne bovina,proteina,1.0,UN,41.43
+S021,sintetico,2025-03-29 20:37:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.42
+S021,sintetico,2025-03-29 20:37:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.02
+S021,sintetico,2025-03-29 20:37:00,loja_exemplo,manteiga,laticinios,1.0,UN,12.44
+S021,sintetico,2025-03-29 20:37:00,loja_exemplo,pão integral,padaria,1.0,UN,10.18
+S021,sintetico,2025-03-29 20:37:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.54
+S021,sintetico,2025-03-29 20:37:00,loja_exemplo,maçã,hortifruti,1.0,UN,9.2
+S021,sintetico,2025-03-29 20:37:00,loja_exemplo,pão francês,padaria,1.0,UN,6.52
+S022,sintetico,2025-03-30 13:57:00,loja_exemplo,pão integral,padaria,1.0,UN,10.27
+S022,sintetico,2025-03-30 13:57:00,loja_exemplo,margarina,laticinios,1.0,UN,7.85
+S022,sintetico,2025-03-30 13:57:00,loja_exemplo,suco,bebidas,1.0,UN,7.86
+S022,sintetico,2025-03-30 13:57:00,loja_exemplo,sorvete,congelados,1.0,UN,24.35
+S022,sintetico,2025-03-30 13:57:00,loja_exemplo,barra de cereal,doces_e_snacks,1.0,UN,3.07
+S022,sintetico,2025-03-30 13:57:00,loja_exemplo,pão de hot dog,padaria,1.0,UN,6.7
+S023,sintetico,2025-04-01 08:31:00,loja_exemplo,chocolate,doces_e_snacks,1.0,UN,7.38
+S023,sintetico,2025-04-01 08:31:00,loja_exemplo,manteiga,laticinios,1.0,UN,12.67
+S023,sintetico,2025-04-01 08:31:00,loja_exemplo,pão de forma,padaria,1.0,UN,8.97
+S023,sintetico,2025-04-01 08:31:00,loja_exemplo,água mineral,bebidas,1.0,UN,2.89
+S023,sintetico,2025-04-01 08:31:00,loja_exemplo,banana,hortifruti,1.0,UN,7.09
+S023,sintetico,2025-04-01 08:31:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.75
+S024,sintetico,2025-04-03 19:56:00,loja_exemplo,manteiga,laticinios,1.0,UN,12.52
+S024,sintetico,2025-04-03 19:56:00,loja_exemplo,queijo mussarela,laticinios,1.0,UN,10.51
+S024,sintetico,2025-04-03 19:56:00,loja_exemplo,banana,hortifruti,1.0,UN,6.64
+S024,sintetico,2025-04-03 19:56:00,loja_exemplo,maçã,hortifruti,1.0,UN,9.33
+S024,sintetico,2025-04-03 19:56:00,loja_exemplo,leite,laticinios,1.0,UN,5.35
+S024,sintetico,2025-04-03 19:56:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.21
+S024,sintetico,2025-04-03 19:56:00,loja_exemplo,água mineral,bebidas,1.0,UN,3.14
+S024,sintetico,2025-04-03 19:56:00,loja_exemplo,cebola,hortifruti,1.0,UN,4.85
+S025,sintetico,2025-04-05 19:03:00,loja_exemplo,chá gelado,bebidas,1.0,UN,6.28
+S025,sintetico,2025-04-05 19:03:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,5.9
+S025,sintetico,2025-04-05 19:03:00,loja_exemplo,prato descartável,utilidades,1.0,UN,9.32
+S025,sintetico,2025-04-05 19:03:00,loja_exemplo,cebola,hortifruti,1.0,UN,4.54
+S025,sintetico,2025-04-05 19:03:00,loja_exemplo,pão de forma,padaria,1.0,UN,9.17
+S025,sintetico,2025-04-05 19:03:00,loja_exemplo,queijo parmesão,laticinios,1.0,UN,16.41
+S025,sintetico,2025-04-05 19:03:00,loja_exemplo,peito de peru,proteina,1.0,UN,13.1
+S025,sintetico,2025-04-05 19:03:00,loja_exemplo,jornal,outro,1.0,UN,4.91
+S025,sintetico,2025-04-05 19:03:00,loja_exemplo,vinho branco,bebidas,1.0,UN,42.55
+S026,sintetico,2025-04-06 19:20:00,loja_exemplo,maçã,hortifruti,1.0,UN,9.99
+S026,sintetico,2025-04-06 19:20:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.7
+S026,sintetico,2025-04-06 19:20:00,loja_exemplo,pão integral,padaria,1.0,UN,9.77
+S026,sintetico,2025-04-06 19:20:00,loja_exemplo,creme de leite,laticinios,1.0,UN,3.71
+S026,sintetico,2025-04-06 19:20:00,loja_exemplo,carne suína,proteina,1.0,UN,23.71
+S026,sintetico,2025-04-06 19:20:00,loja_exemplo,salgadinho,doces_e_snacks,1.0,UN,8.3
+S027,sintetico,2025-04-06 19:57:00,loja_exemplo,laranja,hortifruti,1.0,UN,5.95
+S027,sintetico,2025-04-06 19:57:00,loja_exemplo,chiclete,doces_e_snacks,1.0,UN,2.54
+S027,sintetico,2025-04-06 19:57:00,loja_exemplo,requeijão,laticinios,1.0,UN,8.76
+S027,sintetico,2025-04-06 19:57:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.24
+S027,sintetico,2025-04-06 19:57:00,loja_exemplo,salsicha,proteina,1.0,UN,13.85
+S027,sintetico,2025-04-06 19:57:00,loja_exemplo,legumes congelados,congelados,1.0,UN,12.38
+S028,sintetico,2025-04-06 20:59:00,loja_exemplo,carne bovina,proteina,1.0,UN,40.16
+S028,sintetico,2025-04-06 20:59:00,loja_exemplo,vinho tinto,bebidas,1.0,UN,38.52
+S028,sintetico,2025-04-06 20:59:00,loja_exemplo,sacola,utilidades,1.0,UN,0.16
+S028,sintetico,2025-04-06 20:59:00,loja_exemplo,banana,hortifruti,1.0,UN,6.69
+S028,sintetico,2025-04-06 20:59:00,loja_exemplo,carne suína,proteina,1.0,UN,24.2
+S028,sintetico,2025-04-06 20:59:00,loja_exemplo,cream cheese,laticinios,1.0,UN,10.55
+S029,sintetico,2025-04-12 11:57:00,loja_exemplo,manteiga,laticinios,1.0,UN,13.05
+S029,sintetico,2025-04-12 11:57:00,loja_exemplo,chiclete,doces_e_snacks,1.0,UN,2.59
+S029,sintetico,2025-04-12 11:57:00,loja_exemplo,café,mercearia,1.0,UN,19.17
+S029,sintetico,2025-04-12 11:57:00,loja_exemplo,salgadinho,doces_e_snacks,1.0,UN,9.21
+S029,sintetico,2025-04-12 11:57:00,loja_exemplo,laranja,hortifruti,1.0,UN,5.8
+S029,sintetico,2025-04-12 11:57:00,loja_exemplo,pão francês,padaria,1.0,UN,6.23
+S029,sintetico,2025-04-12 11:57:00,loja_exemplo,chocolate premium,doces_e_snacks,1.0,UN,14.48
+S029,sintetico,2025-04-12 11:57:00,loja_exemplo,guardanapo,utilidades,1.0,UN,4.24
+S030,sintetico,2025-04-18 11:36:00,loja_exemplo,cerveja lata,bebidas,1.0,UN,4.55
+S030,sintetico,2025-04-18 11:36:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.14
+S030,sintetico,2025-04-18 11:36:00,loja_exemplo,cenoura,hortifruti,1.0,UN,5.04
+S030,sintetico,2025-04-18 11:36:00,loja_exemplo,leite,laticinios,1.0,UN,5.75
+S030,sintetico,2025-04-18 11:36:00,loja_exemplo,pão francês,padaria,1.0,UN,6.8
+S030,sintetico,2025-04-18 11:36:00,loja_exemplo,legumes congelados,congelados,1.0,UN,11.78
+S030,sintetico,2025-04-18 11:36:00,loja_exemplo,vinho branco,bebidas,1.0,UN,39.75
+S031,sintetico,2025-04-24 09:46:00,loja_exemplo,queijo mussarela,laticinios,1.0,UN,10.68
+S031,sintetico,2025-04-24 09:46:00,loja_exemplo,guardanapo,utilidades,1.0,UN,4.62
+S031,sintetico,2025-04-24 09:46:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.82
+S031,sintetico,2025-04-24 09:46:00,loja_exemplo,jornal,outro,1.0,UN,5.32
+S031,sintetico,2025-04-24 09:46:00,loja_exemplo,leite,laticinios,1.0,UN,5.74
+S031,sintetico,2025-04-24 09:46:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.12
+S031,sintetico,2025-04-24 09:46:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.33
+S031,sintetico,2025-04-24 09:46:00,loja_exemplo,planta,outro,1.0,UN,23.31
+S032,sintetico,2025-04-25 10:50:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.21
+S032,sintetico,2025-04-25 10:50:00,loja_exemplo,ovo,proteina,1.0,UN,15.01
+S032,sintetico,2025-04-25 10:50:00,loja_exemplo,leite,laticinios,1.0,UN,5.5
+S032,sintetico,2025-04-25 10:50:00,loja_exemplo,pão francês,padaria,1.0,UN,6.43
+S032,sintetico,2025-04-25 10:50:00,loja_exemplo,bolo pronto,padaria,1.0,UN,8.79
+S032,sintetico,2025-04-25 10:50:00,loja_exemplo,linguiça,proteina,1.0,UN,21.36
+S032,sintetico,2025-04-25 10:50:00,loja_exemplo,espumante,bebidas,1.0,UN,42.05
+S033,sintetico,2025-04-27 18:34:00,loja_exemplo,linguiça,proteina,1.0,UN,18.44
+S033,sintetico,2025-04-27 18:34:00,loja_exemplo,ração de cachorro,outro,1.0,UN,28.69
+S033,sintetico,2025-04-27 18:34:00,loja_exemplo,chá gelado,bebidas,1.0,UN,6.04
+S033,sintetico,2025-04-27 18:34:00,loja_exemplo,água mineral,bebidas,1.0,UN,2.97
+S033,sintetico,2025-04-27 18:34:00,loja_exemplo,maçã,hortifruti,1.0,UN,10.02
+S033,sintetico,2025-04-27 18:34:00,loja_exemplo,pão francês,padaria,1.0,UN,6.31
+S033,sintetico,2025-04-27 18:34:00,loja_exemplo,leite,laticinios,1.0,UN,5.1
+S034,sintetico,2025-04-28 19:29:00,loja_exemplo,presunto,proteina,1.0,UN,8.35
+S034,sintetico,2025-04-28 19:29:00,loja_exemplo,pão francês,padaria,1.0,UN,6.38
+S034,sintetico,2025-04-28 19:29:00,loja_exemplo,chá gelado,bebidas,1.0,UN,6.03
+S034,sintetico,2025-04-28 19:29:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,6.18
+S034,sintetico,2025-04-28 19:29:00,loja_exemplo,carne bovina,proteina,1.0,UN,38.03
+S034,sintetico,2025-04-28 19:29:00,loja_exemplo,banana,hortifruti,1.0,UN,6.77
+S035,sintetico,2025-05-01 09:59:00,loja_exemplo,bala,doces_e_snacks,1.0,UN,4.91
+S035,sintetico,2025-05-01 09:59:00,loja_exemplo,ovo,proteina,1.0,UN,13.8
+S035,sintetico,2025-05-01 09:59:00,loja_exemplo,guardanapo,utilidades,1.0,UN,4.13
+S035,sintetico,2025-05-01 09:59:00,loja_exemplo,mostarda,mercearia,1.0,UN,5.62
+S035,sintetico,2025-05-01 09:59:00,loja_exemplo,presunto,proteina,1.0,UN,9.42
+S035,sintetico,2025-05-01 09:59:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.59
+S035,sintetico,2025-05-01 09:59:00,loja_exemplo,pão francês,padaria,1.0,UN,6.51
+S035,sintetico,2025-05-01 09:59:00,loja_exemplo,requeijão,laticinios,1.0,UN,8.97
+S035,sintetico,2025-05-01 09:59:00,loja_exemplo,leite,laticinios,1.0,UN,5.34
+S035,sintetico,2025-05-01 09:59:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.42
+S035,sintetico,2025-05-01 09:59:00,loja_exemplo,sopa instantânea,mercearia,1.0,UN,4.17
+S036,sintetico,2025-05-02 20:35:00,loja_exemplo,leite,laticinios,1.0,UN,5.79
+S036,sintetico,2025-05-02 20:35:00,loja_exemplo,suco,bebidas,1.0,UN,7.68
+S036,sintetico,2025-05-02 20:35:00,loja_exemplo,banana,hortifruti,1.0,UN,6.79
+S036,sintetico,2025-05-02 20:35:00,loja_exemplo,sorvete,congelados,1.0,UN,21.96
+S036,sintetico,2025-05-02 20:35:00,loja_exemplo,pão francês,padaria,1.0,UN,6.48
+S036,sintetico,2025-05-02 20:35:00,loja_exemplo,cream cheese,laticinios,1.0,UN,10.19
+S037,sintetico,2025-05-06 19:06:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.77
+S037,sintetico,2025-05-06 19:06:00,loja_exemplo,café,mercearia,1.0,UN,18.39
+S037,sintetico,2025-05-06 19:06:00,loja_exemplo,linguiça,proteina,1.0,UN,21.27
+S037,sintetico,2025-05-06 19:06:00,loja_exemplo,jornal,outro,1.0,UN,4.64
+S037,sintetico,2025-05-06 19:06:00,loja_exemplo,cream cheese,laticinios,1.0,UN,9.84
+S037,sintetico,2025-05-06 19:06:00,loja_exemplo,pó para pudim,mercearia,1.0,UN,5.16
+S038,sintetico,2025-05-19 18:02:00,loja_exemplo,sobremesa pronta,doces_e_snacks,1.0,UN,5.65
+S038,sintetico,2025-05-19 18:02:00,loja_exemplo,jornal,outro,1.0,UN,4.64
+S038,sintetico,2025-05-19 18:02:00,loja_exemplo,pão de forma,padaria,1.0,UN,8.0
+S038,sintetico,2025-05-19 18:02:00,loja_exemplo,carne bovina,proteina,1.0,UN,42.57
+S038,sintetico,2025-05-19 18:02:00,loja_exemplo,maçã,hortifruti,1.0,UN,9.21
+S038,sintetico,2025-05-19 18:02:00,loja_exemplo,água mineral,bebidas,1.0,UN,2.84
+S038,sintetico,2025-05-19 18:02:00,loja_exemplo,margarina,laticinios,1.0,UN,7.85
+S038,sintetico,2025-05-19 18:02:00,loja_exemplo,artigo de higiene,higiene,1.0,UN,12.1
+S038,sintetico,2025-05-19 18:02:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.16
+S039,sintetico,2025-05-19 20:31:00,loja_exemplo,açúcar,mercearia,1.0,UN,4.78
+S039,sintetico,2025-05-19 20:31:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.0
+S039,sintetico,2025-05-19 20:31:00,loja_exemplo,leite,laticinios,1.0,UN,5.57
+S039,sintetico,2025-05-19 20:31:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.49
+S039,sintetico,2025-05-19 20:31:00,loja_exemplo,suco,bebidas,1.0,UN,7.36
+S039,sintetico,2025-05-19 20:31:00,loja_exemplo,carne suína,proteina,1.0,UN,26.31
+S039,sintetico,2025-05-19 20:31:00,loja_exemplo,creme de leite,laticinios,1.0,UN,4.07
+S040,sintetico,2025-05-23 13:45:00,loja_exemplo,linguiça,proteina,1.0,UN,18.83
+S040,sintetico,2025-05-23 13:45:00,loja_exemplo,suco,bebidas,1.0,UN,8.34
+S040,sintetico,2025-05-23 13:45:00,loja_exemplo,artigo pet,outro,1.0,UN,21.03
+S040,sintetico,2025-05-23 13:45:00,loja_exemplo,salsicha,proteina,1.0,UN,12.39
+S040,sintetico,2025-05-23 13:45:00,loja_exemplo,salgado folhado,padaria,1.0,UN,8.0
+S040,sintetico,2025-05-23 13:45:00,loja_exemplo,sal,mercearia,1.0,UN,2.97
+S041,sintetico,2025-06-09 09:10:00,loja_exemplo,chá gelado,bebidas,1.0,UN,6.6
+S041,sintetico,2025-06-09 09:10:00,loja_exemplo,biscoito wafer,doces_e_snacks,1.0,UN,4.3
+S041,sintetico,2025-06-09 09:10:00,loja_exemplo,cream cheese,laticinios,1.0,UN,9.68
+S041,sintetico,2025-06-09 09:10:00,loja_exemplo,suco,bebidas,1.0,UN,8.39
+S041,sintetico,2025-06-09 09:10:00,loja_exemplo,leite,laticinios,1.0,UN,5.33
+S041,sintetico,2025-06-09 09:10:00,loja_exemplo,sacola,utilidades,1.0,UN,0.16
+S041,sintetico,2025-06-09 09:10:00,loja_exemplo,salsicha,proteina,1.0,UN,13.11
+S041,sintetico,2025-06-09 09:10:00,loja_exemplo,cerveja lata,bebidas,1.0,UN,4.1
+S042,sintetico,2025-06-11 11:18:00,loja_exemplo,carne bovina,proteina,1.0,UN,39.35
+S042,sintetico,2025-06-11 11:18:00,loja_exemplo,presunto,proteina,1.0,UN,8.64
+S042,sintetico,2025-06-11 11:18:00,loja_exemplo,desodorante,higiene,1.0,UN,14.83
+S042,sintetico,2025-06-11 11:18:00,loja_exemplo,café solúvel,mercearia,1.0,UN,15.63
+S042,sintetico,2025-06-11 11:18:00,loja_exemplo,morango,hortifruti,1.0,UN,9.74
+S042,sintetico,2025-06-11 11:18:00,loja_exemplo,peito de peru,proteina,1.0,UN,11.91
+S042,sintetico,2025-06-11 11:18:00,loja_exemplo,bolo pronto,padaria,1.0,UN,8.98
+S043,sintetico,2025-06-11 18:30:00,loja_exemplo,carne bovina,proteina,1.0,UN,41.34
+S043,sintetico,2025-06-11 18:30:00,loja_exemplo,artigo de higiene,higiene,1.0,UN,13.33
+S043,sintetico,2025-06-11 18:30:00,loja_exemplo,cenoura,hortifruti,1.0,UN,5.18
+S043,sintetico,2025-06-11 18:30:00,loja_exemplo,cheiro-verde,hortifruti,1.0,UN,2.9
+S043,sintetico,2025-06-11 18:30:00,loja_exemplo,cream cheese,laticinios,1.0,UN,10.52
+S043,sintetico,2025-06-11 18:30:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.61
+S044,sintetico,2025-06-21 08:33:00,loja_exemplo,banana,hortifruti,1.0,UN,6.57
+S044,sintetico,2025-06-21 08:33:00,loja_exemplo,laranja,hortifruti,1.0,UN,5.65
+S044,sintetico,2025-06-21 08:33:00,loja_exemplo,achocolatado,bebidas,1.0,UN,10.3
+S044,sintetico,2025-06-21 08:33:00,loja_exemplo,queijo mussarela,laticinios,1.0,UN,9.38
+S044,sintetico,2025-06-21 08:33:00,loja_exemplo,leite,laticinios,1.0,UN,5.5
+S044,sintetico,2025-06-21 08:33:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.7
+S045,sintetico,2025-06-23 15:57:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.59
+S045,sintetico,2025-06-23 15:57:00,loja_exemplo,refrigerante,bebidas,1.0,UN,8.29
+S045,sintetico,2025-06-23 15:57:00,loja_exemplo,maçã,hortifruti,1.0,UN,10.78
+S045,sintetico,2025-06-23 15:57:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.02
+S045,sintetico,2025-06-23 15:57:00,loja_exemplo,linguiça,proteina,1.0,UN,18.71
+S045,sintetico,2025-06-23 15:57:00,loja_exemplo,uva,hortifruti,1.0,UN,12.75
+S046,sintetico,2025-07-02 09:23:00,loja_exemplo,peixe,proteina,1.0,UN,42.33
+S046,sintetico,2025-07-02 09:23:00,loja_exemplo,cenoura,hortifruti,1.0,UN,5.02
+S046,sintetico,2025-07-02 09:23:00,loja_exemplo,banana,hortifruti,1.0,UN,7.13
+S046,sintetico,2025-07-02 09:23:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.58
+S046,sintetico,2025-07-02 09:23:00,loja_exemplo,salsicha,proteina,1.0,UN,11.97
+S046,sintetico,2025-07-02 09:23:00,loja_exemplo,suco,bebidas,1.0,UN,8.11
+S046,sintetico,2025-07-02 09:23:00,loja_exemplo,morango,hortifruti,1.0,UN,9.66
+S046,sintetico,2025-07-02 09:23:00,loja_exemplo,pão francês,padaria,1.0,UN,6.67
+S046,sintetico,2025-07-02 09:23:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.9
+S047,sintetico,2025-07-05 12:33:00,loja_exemplo,pão de forma,padaria,1.0,UN,7.84
+S047,sintetico,2025-07-05 12:33:00,loja_exemplo,linguiça,proteina,1.0,UN,20.2
+S047,sintetico,2025-07-05 12:33:00,loja_exemplo,maçã,hortifruti,1.0,UN,9.56
+S047,sintetico,2025-07-05 12:33:00,loja_exemplo,leite,laticinios,1.0,UN,5.82
+S047,sintetico,2025-07-05 12:33:00,loja_exemplo,pão integral,padaria,1.0,UN,9.6
+S048,sintetico,2025-07-05 14:09:00,loja_exemplo,pão de forma,padaria,1.0,UN,8.64
+S048,sintetico,2025-07-05 14:09:00,loja_exemplo,castanha,doces_e_snacks,1.0,UN,20.07
+S048,sintetico,2025-07-05 14:09:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.91
+S048,sintetico,2025-07-05 14:09:00,loja_exemplo,chocolate,doces_e_snacks,1.0,UN,7.19
+S048,sintetico,2025-07-05 14:09:00,loja_exemplo,suco,bebidas,1.0,UN,8.28
+S048,sintetico,2025-07-05 14:09:00,loja_exemplo,maçã,hortifruti,1.0,UN,10.1
+S049,sintetico,2025-07-17 18:24:00,loja_exemplo,suco,bebidas,1.0,UN,8.32
+S049,sintetico,2025-07-17 18:24:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.59
+S049,sintetico,2025-07-17 18:24:00,loja_exemplo,queijo parmesão,laticinios,1.0,UN,15.69
+S049,sintetico,2025-07-17 18:24:00,loja_exemplo,creme de leite,laticinios,1.0,UN,4.0
+S049,sintetico,2025-07-17 18:24:00,loja_exemplo,leite,laticinios,1.0,UN,5.06
+S049,sintetico,2025-07-17 18:24:00,loja_exemplo,requeijão,laticinios,1.0,UN,9.42
+S050,sintetico,2025-07-22 16:08:00,loja_exemplo,laranja,hortifruti,1.0,UN,6.01
+S050,sintetico,2025-07-22 16:08:00,loja_exemplo,refeição congelada,congelados,1.0,UN,16.65
+S050,sintetico,2025-07-22 16:08:00,loja_exemplo,linguiça,proteina,1.0,UN,18.61
+S050,sintetico,2025-07-22 16:08:00,loja_exemplo,bebida variada,bebidas,1.0,UN,7.43
+S050,sintetico,2025-07-22 16:08:00,loja_exemplo,carne suína,proteina,1.0,UN,24.48
+S050,sintetico,2025-07-22 16:08:00,loja_exemplo,salsicha,proteina,1.0,UN,13.28
+S050,sintetico,2025-07-22 16:08:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.4
+S050,sintetico,2025-07-22 16:08:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.97
+S050,sintetico,2025-07-22 16:08:00,loja_exemplo,adubo,outro,1.0,UN,14.13
+S050,sintetico,2025-07-22 16:08:00,loja_exemplo,margarina,laticinios,1.0,UN,8.08
+S051,sintetico,2025-07-23 10:34:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.54
+S051,sintetico,2025-07-23 10:34:00,loja_exemplo,queijo parmesão,laticinios,1.0,UN,16.95
+S051,sintetico,2025-07-23 10:34:00,loja_exemplo,banana,hortifruti,1.0,UN,6.67
+S051,sintetico,2025-07-23 10:34:00,loja_exemplo,leite,laticinios,1.0,UN,5.46
+S051,sintetico,2025-07-23 10:34:00,loja_exemplo,chocolate,doces_e_snacks,1.0,UN,7.25
+S051,sintetico,2025-07-23 10:34:00,loja_exemplo,carne moída,proteina,1.0,UN,31.71
+S051,sintetico,2025-07-23 10:34:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.36
+S052,sintetico,2025-08-03 20:19:00,loja_exemplo,morango,hortifruti,1.0,UN,10.02
+S052,sintetico,2025-08-03 20:19:00,loja_exemplo,leite,laticinios,1.0,UN,5.7
+S052,sintetico,2025-08-03 20:19:00,loja_exemplo,carne bovina,proteina,1.0,UN,41.38
+S052,sintetico,2025-08-03 20:19:00,loja_exemplo,revelação de foto,outro,1.0,UN,15.68
+S052,sintetico,2025-08-03 20:19:00,loja_exemplo,cebola,hortifruti,1.0,UN,4.54
+S053,sintetico,2025-08-04 09:44:00,loja_exemplo,leite,laticinios,1.0,UN,5.14
+S053,sintetico,2025-08-04 09:44:00,loja_exemplo,manteiga,laticinios,1.0,UN,13.83
+S053,sintetico,2025-08-04 09:44:00,loja_exemplo,biscoito wafer,doces_e_snacks,1.0,UN,4.22
+S053,sintetico,2025-08-04 09:44:00,loja_exemplo,sacola,utilidades,1.0,UN,0.16
+S053,sintetico,2025-08-04 09:44:00,loja_exemplo,salsicha,proteina,1.0,UN,12.07
+S053,sintetico,2025-08-04 09:44:00,loja_exemplo,carne bovina,proteina,1.0,UN,38.01
+S053,sintetico,2025-08-04 09:44:00,loja_exemplo,pão de hot dog,padaria,1.0,UN,7.26
+S053,sintetico,2025-08-04 09:44:00,loja_exemplo,maçã,hortifruti,1.0,UN,9.23
+S054,sintetico,2025-08-05 20:30:00,loja_exemplo,cenoura,hortifruti,1.0,UN,5.37
+S054,sintetico,2025-08-05 20:30:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.35
+S054,sintetico,2025-08-05 20:30:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.31
+S054,sintetico,2025-08-05 20:30:00,loja_exemplo,leite fermentado,laticinios,1.0,UN,8.49
+S054,sintetico,2025-08-05 20:30:00,loja_exemplo,petisco,doces_e_snacks,1.0,UN,7.86
+S054,sintetico,2025-08-05 20:30:00,loja_exemplo,salada pronta,hortifruti,1.0,UN,7.76
+S054,sintetico,2025-08-05 20:30:00,loja_exemplo,pão francês,padaria,1.0,UN,6.61
+S054,sintetico,2025-08-05 20:30:00,loja_exemplo,chocolate,doces_e_snacks,1.0,UN,7.08
+S055,sintetico,2025-08-10 15:05:00,loja_exemplo,pão integral,padaria,1.0,UN,9.84
+S055,sintetico,2025-08-10 15:05:00,loja_exemplo,ração de gato,outro,1.0,UN,25.31
+S055,sintetico,2025-08-10 15:05:00,loja_exemplo,laranja,hortifruti,1.0,UN,6.41
+S055,sintetico,2025-08-10 15:05:00,loja_exemplo,filme plástico,utilidades,1.0,UN,7.95
+S055,sintetico,2025-08-10 15:05:00,loja_exemplo,queijo parmesão,laticinios,1.0,UN,15.13
+S055,sintetico,2025-08-10 15:05:00,loja_exemplo,artigo de higiene,higiene,1.0,UN,12.65
+S055,sintetico,2025-08-10 15:05:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.75
+S056,sintetico,2025-08-13 08:04:00,loja_exemplo,carne bovina,proteina,1.0,UN,37.54
+S056,sintetico,2025-08-13 08:04:00,loja_exemplo,vinho branco,bebidas,1.0,UN,37.75
+S056,sintetico,2025-08-13 08:04:00,loja_exemplo,leite longa vida,laticinios,1.0,UN,5.14
+S056,sintetico,2025-08-13 08:04:00,loja_exemplo,leite fermentado,laticinios,1.0,UN,7.78
+S056,sintetico,2025-08-13 08:04:00,loja_exemplo,sorvete,congelados,1.0,UN,24.57
+S056,sintetico,2025-08-13 08:04:00,loja_exemplo,artigo de higiene,higiene,1.0,UN,12.37
+S056,sintetico,2025-08-13 08:04:00,loja_exemplo,morango,hortifruti,1.0,UN,9.35
+S056,sintetico,2025-08-13 08:04:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.26
+S057,sintetico,2025-08-13 11:07:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.89
+S057,sintetico,2025-08-13 11:07:00,loja_exemplo,carne bovina,proteina,1.0,UN,38.48
+S057,sintetico,2025-08-13 11:07:00,loja_exemplo,lâmpada,utilidades,1.0,UN,12.29
+S057,sintetico,2025-08-13 11:07:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.12
+S057,sintetico,2025-08-13 11:07:00,loja_exemplo,leite longa vida,laticinios,1.0,UN,5.01
+S057,sintetico,2025-08-13 11:07:00,loja_exemplo,fermento,mercearia,1.0,UN,3.97
+S058,sintetico,2025-08-17 09:55:00,loja_exemplo,bala,doces_e_snacks,1.0,UN,4.8
+S058,sintetico,2025-08-17 09:55:00,loja_exemplo,vinho branco,bebidas,1.0,UN,37.0
+S058,sintetico,2025-08-17 09:55:00,loja_exemplo,pão integral,padaria,1.0,UN,9.96
+S058,sintetico,2025-08-17 09:55:00,loja_exemplo,biscoito wafer,doces_e_snacks,1.0,UN,4.28
+S058,sintetico,2025-08-17 09:55:00,loja_exemplo,carne bovina,proteina,1.0,UN,40.87
+S058,sintetico,2025-08-17 09:55:00,loja_exemplo,macarrão,mercearia,1.0,UN,5.49
+S059,sintetico,2025-08-20 16:50:00,loja_exemplo,bolo pronto,padaria,1.0,UN,8.9
+S059,sintetico,2025-08-20 16:50:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.12
+S059,sintetico,2025-08-20 16:50:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.61
+S059,sintetico,2025-08-20 16:50:00,loja_exemplo,barra de cereal,doces_e_snacks,1.0,UN,3.12
+S059,sintetico,2025-08-20 16:50:00,loja_exemplo,salsicha,proteina,1.0,UN,13.68
+S059,sintetico,2025-08-20 16:50:00,loja_exemplo,ração de gato,outro,1.0,UN,26.5
+S060,sintetico,2025-09-05 20:20:00,loja_exemplo,linguiça,proteina,1.0,UN,21.44
+S060,sintetico,2025-09-05 20:20:00,loja_exemplo,maçã,hortifruti,1.0,UN,10.76
+S060,sintetico,2025-09-05 20:20:00,loja_exemplo,leite,laticinios,1.0,UN,5.89
+S060,sintetico,2025-09-05 20:20:00,loja_exemplo,morango,hortifruti,1.0,UN,9.31
+S060,sintetico,2025-09-05 20:20:00,loja_exemplo,cream cheese,laticinios,1.0,UN,9.33
+S060,sintetico,2025-09-05 20:20:00,loja_exemplo,bala,doces_e_snacks,1.0,UN,4.83
+S061,sintetico,2025-09-07 09:32:00,loja_exemplo,requeijão,laticinios,1.0,UN,9.07
+S061,sintetico,2025-09-07 09:32:00,loja_exemplo,biscoito wafer,doces_e_snacks,1.0,UN,3.73
+S061,sintetico,2025-09-07 09:32:00,loja_exemplo,peixe,proteina,1.0,UN,42.11
+S061,sintetico,2025-09-07 09:32:00,loja_exemplo,carne bovina,proteina,1.0,UN,40.65
+S061,sintetico,2025-09-07 09:32:00,loja_exemplo,cenoura,hortifruti,1.0,UN,5.02
+S061,sintetico,2025-09-07 09:32:00,loja_exemplo,leite,laticinios,1.0,UN,5.2
+S062,sintetico,2025-09-08 08:22:00,loja_exemplo,cerveja lata,bebidas,1.0,UN,4.12
+S062,sintetico,2025-09-08 08:22:00,loja_exemplo,uva,hortifruti,1.0,UN,11.34
+S062,sintetico,2025-09-08 08:22:00,loja_exemplo,leite,laticinios,1.0,UN,5.8
+S062,sintetico,2025-09-08 08:22:00,loja_exemplo,sobremesa pronta,doces_e_snacks,1.0,UN,6.07
+S062,sintetico,2025-09-08 08:22:00,loja_exemplo,maçã,hortifruti,1.0,UN,10.37
+S062,sintetico,2025-09-08 08:22:00,loja_exemplo,sorvete,congelados,1.0,UN,22.15
+S062,sintetico,2025-09-08 08:22:00,loja_exemplo,prato pronto,refeicao_fora,1.0,UN,24.39
+S062,sintetico,2025-09-08 08:22:00,loja_exemplo,pão integral,padaria,1.0,UN,9.84
+S062,sintetico,2025-09-08 08:22:00,loja_exemplo,prato descartável,utilidades,1.0,UN,10.31
+S063,sintetico,2025-09-09 19:39:00,loja_exemplo,banana,hortifruti,1.0,UN,7.29
+S063,sintetico,2025-09-09 19:39:00,loja_exemplo,ovo,proteina,1.0,UN,13.33
+S063,sintetico,2025-09-09 19:39:00,loja_exemplo,chocolate,doces_e_snacks,1.0,UN,7.48
+S063,sintetico,2025-09-09 19:39:00,loja_exemplo,refrigerante,bebidas,1.0,UN,8.44
+S063,sintetico,2025-09-09 19:39:00,loja_exemplo,leite,laticinios,1.0,UN,5.84
+S063,sintetico,2025-09-09 19:39:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.33
+S063,sintetico,2025-09-09 19:39:00,loja_exemplo,pão integral,padaria,1.0,UN,9.61
+S064,sintetico,2025-09-15 08:28:00,loja_exemplo,leite longa vida,laticinios,1.0,UN,5.27
+S064,sintetico,2025-09-15 08:28:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.44
+S064,sintetico,2025-09-15 08:28:00,loja_exemplo,cream cheese,laticinios,1.0,UN,9.76
+S064,sintetico,2025-09-15 08:28:00,loja_exemplo,pão francês,padaria,1.0,UN,6.45
+S064,sintetico,2025-09-15 08:28:00,loja_exemplo,carne moída,proteina,1.0,UN,28.68
+S064,sintetico,2025-09-15 08:28:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.75
+S064,sintetico,2025-09-15 08:28:00,loja_exemplo,sacola,utilidades,1.0,UN,0.16
+S065,sintetico,2025-09-17 09:51:00,loja_exemplo,peixe congelado,congelados,1.0,UN,31.69
+S065,sintetico,2025-09-17 09:51:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,5.84
+S065,sintetico,2025-09-17 09:51:00,loja_exemplo,leite,laticinios,1.0,UN,5.52
+S065,sintetico,2025-09-17 09:51:00,loja_exemplo,presunto,proteina,1.0,UN,8.54
+S065,sintetico,2025-09-17 09:51:00,loja_exemplo,maçã,hortifruti,1.0,UN,9.58
+S065,sintetico,2025-09-17 09:51:00,loja_exemplo,queijo parmesão,laticinios,1.0,UN,15.04
+S065,sintetico,2025-09-17 09:51:00,loja_exemplo,sacola,utilidades,1.0,UN,0.16
+S065,sintetico,2025-09-17 09:51:00,loja_exemplo,planta,outro,1.0,UN,26.45
+S065,sintetico,2025-09-17 09:51:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.29
+S065,sintetico,2025-09-17 09:51:00,loja_exemplo,cream cheese,laticinios,1.0,UN,9.93
+S066,sintetico,2025-09-20 16:15:00,loja_exemplo,laranja,hortifruti,1.0,UN,5.98
+S066,sintetico,2025-09-20 16:15:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.31
+S066,sintetico,2025-09-20 16:15:00,loja_exemplo,leite,laticinios,1.0,UN,5.52
+S066,sintetico,2025-09-20 16:15:00,loja_exemplo,amaciante,limpeza,1.0,UN,17.71
+S066,sintetico,2025-09-20 16:15:00,loja_exemplo,refrigerante,bebidas,1.0,UN,8.46
+S066,sintetico,2025-09-20 16:15:00,loja_exemplo,tempero,mercearia,1.0,UN,4.69
+S066,sintetico,2025-09-20 16:15:00,loja_exemplo,sacola,utilidades,1.0,UN,0.16
+S067,sintetico,2025-09-21 11:41:00,loja_exemplo,salsicha,proteina,1.0,UN,12.86
+S067,sintetico,2025-09-21 11:41:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.55
+S067,sintetico,2025-09-21 11:41:00,loja_exemplo,sacola,utilidades,1.0,UN,0.14
+S067,sintetico,2025-09-21 11:41:00,loja_exemplo,fermento,mercearia,1.0,UN,4.02
+S067,sintetico,2025-09-21 11:41:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.19
+S067,sintetico,2025-09-21 11:41:00,loja_exemplo,guardanapo,utilidades,1.0,UN,4.31
+S068,sintetico,2025-10-06 08:41:00,loja_exemplo,artigo pet,outro,1.0,UN,18.4
+S068,sintetico,2025-10-06 08:41:00,loja_exemplo,pão integral,padaria,1.0,UN,9.38
+S068,sintetico,2025-10-06 08:41:00,loja_exemplo,salgado folhado,padaria,1.0,UN,8.0
+S068,sintetico,2025-10-06 08:41:00,loja_exemplo,lava-louças,limpeza,1.0,UN,4.85
+S068,sintetico,2025-10-06 08:41:00,loja_exemplo,banana,hortifruti,1.0,UN,7.11
+S068,sintetico,2025-10-06 08:41:00,loja_exemplo,revelação de foto,outro,1.0,UN,14.92
+S068,sintetico,2025-10-06 08:41:00,loja_exemplo,leite,laticinios,1.0,UN,5.4
+S069,sintetico,2025-10-13 16:27:00,loja_exemplo,açúcar,mercearia,1.0,UN,5.02
+S069,sintetico,2025-10-13 16:27:00,loja_exemplo,sacola,utilidades,1.0,UN,0.14
+S069,sintetico,2025-10-13 16:27:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.69
+S069,sintetico,2025-10-13 16:27:00,loja_exemplo,bolo pronto,padaria,1.0,UN,9.97
+S069,sintetico,2025-10-13 16:27:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.24
+S069,sintetico,2025-10-13 16:27:00,loja_exemplo,legumes congelados,congelados,1.0,UN,11.84
+S070,sintetico,2025-10-14 17:05:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.71
+S070,sintetico,2025-10-14 17:05:00,loja_exemplo,pão de forma,padaria,1.0,UN,9.06
+S070,sintetico,2025-10-14 17:05:00,loja_exemplo,patê de carne,proteina,1.0,UN,6.81
+S070,sintetico,2025-10-14 17:05:00,loja_exemplo,pão francês,padaria,1.0,UN,6.03
+S070,sintetico,2025-10-14 17:05:00,loja_exemplo,maçã,hortifruti,1.0,UN,9.74
+S070,sintetico,2025-10-14 17:05:00,loja_exemplo,uva,hortifruti,1.0,UN,12.55
+S070,sintetico,2025-10-14 17:05:00,loja_exemplo,manteiga,laticinios,1.0,UN,13.25
+S071,sintetico,2025-10-18 09:14:00,loja_exemplo,manteiga,laticinios,1.0,UN,13.51
+S071,sintetico,2025-10-18 09:14:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.41
+S071,sintetico,2025-10-18 09:14:00,loja_exemplo,óleo,mercearia,1.0,UN,7.62
+S071,sintetico,2025-10-18 09:14:00,loja_exemplo,leite longa vida,laticinios,1.0,UN,5.33
+S071,sintetico,2025-10-18 09:14:00,loja_exemplo,leite,laticinios,1.0,UN,5.44
+S071,sintetico,2025-10-18 09:14:00,loja_exemplo,jornal,outro,1.0,UN,5.11
+S071,sintetico,2025-10-18 09:14:00,loja_exemplo,ovo,proteina,1.0,UN,12.88
+S071,sintetico,2025-10-18 09:14:00,loja_exemplo,maçã,hortifruti,1.0,UN,10.78
+S071,sintetico,2025-10-18 09:14:00,loja_exemplo,sacola,utilidades,1.0,UN,0.14
+S072,sintetico,2025-10-23 14:53:00,loja_exemplo,linguiça,proteina,1.0,UN,18.51
+S072,sintetico,2025-10-23 14:53:00,loja_exemplo,cebola,hortifruti,1.0,UN,4.46
+S072,sintetico,2025-10-23 14:53:00,loja_exemplo,mostarda,mercearia,1.0,UN,5.63
+S072,sintetico,2025-10-23 14:53:00,loja_exemplo,queijo cremoso,laticinios,1.0,UN,7.07
+S072,sintetico,2025-10-23 14:53:00,loja_exemplo,destilado,bebidas,1.0,UN,50.96
+S072,sintetico,2025-10-23 14:53:00,loja_exemplo,ovo,proteina,1.0,UN,13.75
+S073,sintetico,2025-10-25 08:18:00,loja_exemplo,chiclete,doces_e_snacks,1.0,UN,2.66
+S073,sintetico,2025-10-25 08:18:00,loja_exemplo,carne bovina,proteina,1.0,UN,38.75
+S073,sintetico,2025-10-25 08:18:00,loja_exemplo,ovo,proteina,1.0,UN,14.5
+S073,sintetico,2025-10-25 08:18:00,loja_exemplo,refrigerante,bebidas,1.0,UN,8.93
+S073,sintetico,2025-10-25 08:18:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.69
+S073,sintetico,2025-10-25 08:18:00,loja_exemplo,uva,hortifruti,1.0,UN,12.18
+S073,sintetico,2025-10-25 08:18:00,loja_exemplo,creme de leite,laticinios,1.0,UN,3.97
+S074,sintetico,2025-10-25 13:53:00,loja_exemplo,leite fermentado,laticinios,1.0,UN,8.57
+S074,sintetico,2025-10-25 13:53:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.86
+S074,sintetico,2025-10-25 13:53:00,loja_exemplo,carne bovina,proteina,1.0,UN,37.84
+S074,sintetico,2025-10-25 13:53:00,loja_exemplo,sacola,utilidades,1.0,UN,0.15
+S074,sintetico,2025-10-25 13:53:00,loja_exemplo,linguiça,proteina,1.0,UN,21.0
+S074,sintetico,2025-10-25 13:53:00,loja_exemplo,maçã,hortifruti,1.0,UN,9.26
+S075,sintetico,2025-10-27 15:56:00,loja_exemplo,creme de leite,laticinios,1.0,UN,3.96
+S075,sintetico,2025-10-27 15:56:00,loja_exemplo,cenoura,hortifruti,1.0,UN,5.3
+S075,sintetico,2025-10-27 15:56:00,loja_exemplo,frango,proteina,1.0,UN,18.61
+S075,sintetico,2025-10-27 15:56:00,loja_exemplo,salsicha,proteina,1.0,UN,13.92
+S075,sintetico,2025-10-27 15:56:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.94
+S075,sintetico,2025-10-27 15:56:00,loja_exemplo,ovo,proteina,1.0,UN,14.35
+S075,sintetico,2025-10-27 15:56:00,loja_exemplo,cheiro-verde,hortifruti,1.0,UN,2.9
+S076,sintetico,2025-10-30 14:39:00,loja_exemplo,maçã,hortifruti,1.0,UN,10.71
+S076,sintetico,2025-10-30 14:39:00,loja_exemplo,queijo cremoso,laticinios,1.0,UN,7.33
+S076,sintetico,2025-10-30 14:39:00,loja_exemplo,cenoura,hortifruti,1.0,UN,5.18
+S076,sintetico,2025-10-30 14:39:00,loja_exemplo,refrigerante,bebidas,1.0,UN,8.85
+S076,sintetico,2025-10-30 14:39:00,loja_exemplo,salsicha,proteina,1.0,UN,13.03
+S076,sintetico,2025-10-30 14:39:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.21
+S076,sintetico,2025-10-30 14:39:00,loja_exemplo,maionese,mercearia,1.0,UN,9.0
+S077,sintetico,2025-11-01 08:12:00,loja_exemplo,leite,laticinios,1.0,UN,5.85
+S077,sintetico,2025-11-01 08:12:00,loja_exemplo,laranja,hortifruti,1.0,UN,5.91
+S077,sintetico,2025-11-01 08:12:00,loja_exemplo,manteiga,laticinios,1.0,UN,13.3
+S077,sintetico,2025-11-01 08:12:00,loja_exemplo,creme dental,higiene,1.0,UN,6.81
+S077,sintetico,2025-11-01 08:12:00,loja_exemplo,óleo,mercearia,1.0,UN,7.87
+S077,sintetico,2025-11-01 08:12:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.81
+S077,sintetico,2025-11-01 08:12:00,loja_exemplo,banana,hortifruti,1.0,UN,6.57
+S077,sintetico,2025-11-01 08:12:00,loja_exemplo,vinho tinto,bebidas,1.0,UN,37.29
+S078,sintetico,2025-11-08 15:08:00,loja_exemplo,sorvete,congelados,1.0,UN,23.51
+S078,sintetico,2025-11-08 15:08:00,loja_exemplo,leite,laticinios,1.0,UN,5.63
+S078,sintetico,2025-11-08 15:08:00,loja_exemplo,frango,proteina,1.0,UN,18.37
+S078,sintetico,2025-11-08 15:08:00,loja_exemplo,margarina,laticinios,1.0,UN,7.84
+S078,sintetico,2025-11-08 15:08:00,loja_exemplo,sacola,utilidades,1.0,UN,0.15
+S079,sintetico,2025-11-11 12:41:00,loja_exemplo,leite condensado,laticinios,1.0,UN,6.65
+S079,sintetico,2025-11-11 12:41:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.3
+S079,sintetico,2025-11-11 12:41:00,loja_exemplo,cenoura,hortifruti,1.0,UN,5.28
+S079,sintetico,2025-11-11 12:41:00,loja_exemplo,leite fermentado,laticinios,1.0,UN,7.67
+S079,sintetico,2025-11-11 12:41:00,loja_exemplo,pão francês,padaria,1.0,UN,6.67
+S080,sintetico,2025-11-12 10:01:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.37
+S080,sintetico,2025-11-12 10:01:00,loja_exemplo,vinho tinto,bebidas,1.0,UN,38.46
+S080,sintetico,2025-11-12 10:01:00,loja_exemplo,pão integral,padaria,1.0,UN,9.41
+S080,sintetico,2025-11-12 10:01:00,loja_exemplo,leite,laticinios,1.0,UN,5.3
+S080,sintetico,2025-11-12 10:01:00,loja_exemplo,sopa instantânea,mercearia,1.0,UN,4.1
+S080,sintetico,2025-11-12 10:01:00,loja_exemplo,sacola,utilidades,1.0,UN,0.16
+S081,sintetico,2025-11-14 19:25:00,loja_exemplo,laranja,hortifruti,1.0,UN,5.7
+S081,sintetico,2025-11-14 19:25:00,loja_exemplo,cenoura,hortifruti,1.0,UN,5.02
+S081,sintetico,2025-11-14 19:25:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.43
+S081,sintetico,2025-11-14 19:25:00,loja_exemplo,queijo minas,laticinios,1.0,UN,15.98
+S081,sintetico,2025-11-14 19:25:00,loja_exemplo,linguiça,proteina,1.0,UN,20.25
+S081,sintetico,2025-11-14 19:25:00,loja_exemplo,polpa de fruta,congelados,1.0,UN,9.6
+S081,sintetico,2025-11-14 19:25:00,loja_exemplo,morango,hortifruti,1.0,UN,10.19
+S081,sintetico,2025-11-14 19:25:00,loja_exemplo,pão francês,padaria,1.0,UN,6.31
+S082,sintetico,2025-11-16 09:11:00,loja_exemplo,salsicha,proteina,1.0,UN,13.88
+S082,sintetico,2025-11-16 09:11:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.76
+S082,sintetico,2025-11-16 09:11:00,loja_exemplo,sobremesa pronta,doces_e_snacks,1.0,UN,6.17
+S082,sintetico,2025-11-16 09:11:00,loja_exemplo,coalhada,laticinios,1.0,UN,5.99
+S082,sintetico,2025-11-16 09:11:00,loja_exemplo,laranja,hortifruti,1.0,UN,5.89
+S082,sintetico,2025-11-16 09:11:00,loja_exemplo,barra de cereal,doces_e_snacks,1.0,UN,3.17
+S083,sintetico,2025-11-23 12:49:00,loja_exemplo,leite,laticinios,1.0,UN,5.59
+S083,sintetico,2025-11-23 12:49:00,loja_exemplo,chá gelado,bebidas,1.0,UN,6.43
+S083,sintetico,2025-11-23 12:49:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,6.41
+S083,sintetico,2025-11-23 12:49:00,loja_exemplo,laranja,hortifruti,1.0,UN,6.33
+S083,sintetico,2025-11-23 12:49:00,loja_exemplo,batata congelada,congelados,1.0,UN,18.36
+S083,sintetico,2025-11-23 12:49:00,loja_exemplo,suco,bebidas,1.0,UN,8.05
+S083,sintetico,2025-11-23 12:49:00,loja_exemplo,açúcar,mercearia,1.0,UN,4.98
+S083,sintetico,2025-11-23 12:49:00,loja_exemplo,molho de tomate,mercearia,1.0,UN,3.56
+S083,sintetico,2025-11-23 12:49:00,loja_exemplo,óleo,mercearia,1.0,UN,7.78
+S083,sintetico,2025-11-23 12:49:00,loja_exemplo,café,mercearia,1.0,UN,18.13
+S084,sintetico,2025-11-24 15:37:00,loja_exemplo,peito de peru,proteina,1.0,UN,13.75
+S084,sintetico,2025-11-24 15:37:00,loja_exemplo,cenoura,hortifruti,1.0,UN,5.33
+S084,sintetico,2025-11-24 15:37:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.39
+S084,sintetico,2025-11-24 15:37:00,loja_exemplo,morango,hortifruti,1.0,UN,10.75
+S084,sintetico,2025-11-24 15:37:00,loja_exemplo,salgadinho,doces_e_snacks,1.0,UN,9.34
+S084,sintetico,2025-11-24 15:37:00,loja_exemplo,cream cheese,laticinios,1.0,UN,10.32
+S084,sintetico,2025-11-24 15:37:00,loja_exemplo,absorvente,higiene,1.0,UN,9.37
+S085,sintetico,2025-11-24 16:39:00,loja_exemplo,linguiça,proteina,1.0,UN,19.84
+S085,sintetico,2025-11-24 16:39:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.45
+S085,sintetico,2025-11-24 16:39:00,loja_exemplo,lava-louças,limpeza,1.0,UN,4.78
+S085,sintetico,2025-11-24 16:39:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.39
+S085,sintetico,2025-11-24 16:39:00,loja_exemplo,refrigerante,bebidas,1.0,UN,8.69
+S085,sintetico,2025-11-24 16:39:00,loja_exemplo,pão integral,padaria,1.0,UN,9.6
+S085,sintetico,2025-11-24 16:39:00,loja_exemplo,pão francês,padaria,1.0,UN,6.59
+S086,sintetico,2025-11-25 12:07:00,loja_exemplo,vinho branco,bebidas,1.0,UN,39.33
+S086,sintetico,2025-11-25 12:07:00,loja_exemplo,pão integral,padaria,1.0,UN,9.54
+S086,sintetico,2025-11-25 12:07:00,loja_exemplo,cebola,hortifruti,1.0,UN,4.72
+S086,sintetico,2025-11-25 12:07:00,loja_exemplo,carne moída,proteina,1.0,UN,31.62
+S086,sintetico,2025-11-25 12:07:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.43
+S086,sintetico,2025-11-25 12:07:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.6
+S086,sintetico,2025-11-25 12:07:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.3
+S086,sintetico,2025-11-25 12:07:00,loja_exemplo,margarina,laticinios,1.0,UN,8.89
+S087,sintetico,2025-11-26 08:28:00,loja_exemplo,laranja,hortifruti,1.0,UN,6.32
+S087,sintetico,2025-11-26 08:28:00,loja_exemplo,leite,laticinios,1.0,UN,5.17
+S087,sintetico,2025-11-26 08:28:00,loja_exemplo,vinho tinto,bebidas,1.0,UN,41.65
+S087,sintetico,2025-11-26 08:28:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.09
+S087,sintetico,2025-11-26 08:28:00,loja_exemplo,água mineral,bebidas,1.0,UN,2.94
+S087,sintetico,2025-11-26 08:28:00,loja_exemplo,salgadinho,doces_e_snacks,1.0,UN,9.71
+S088,sintetico,2025-12-01 13:26:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.46
+S088,sintetico,2025-12-01 13:26:00,loja_exemplo,refrigerante,bebidas,1.0,UN,8.49
+S088,sintetico,2025-12-01 13:26:00,loja_exemplo,café,mercearia,1.0,UN,18.67
+S088,sintetico,2025-12-01 13:26:00,loja_exemplo,chá gelado,bebidas,1.0,UN,6.61
+S088,sintetico,2025-12-01 13:26:00,loja_exemplo,maçã,hortifruti,1.0,UN,10.68
+S089,sintetico,2025-12-02 20:44:00,loja_exemplo,carne bovina,proteina,1.0,UN,42.97
+S089,sintetico,2025-12-02 20:44:00,loja_exemplo,suco,bebidas,1.0,UN,7.44
+S089,sintetico,2025-12-02 20:44:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.04
+S089,sintetico,2025-12-02 20:44:00,loja_exemplo,açúcar,mercearia,1.0,UN,5.22
+S089,sintetico,2025-12-02 20:44:00,loja_exemplo,pão integral,padaria,1.0,UN,9.62
+S089,sintetico,2025-12-02 20:44:00,loja_exemplo,leite,laticinios,1.0,UN,5.83
+S089,sintetico,2025-12-02 20:44:00,loja_exemplo,óleo,mercearia,1.0,UN,8.2
+S090,sintetico,2025-12-04 18:11:00,loja_exemplo,leite,laticinios,1.0,UN,5.15
+S090,sintetico,2025-12-04 18:11:00,loja_exemplo,pão integral,padaria,1.0,UN,10.52
+S090,sintetico,2025-12-04 18:11:00,loja_exemplo,presunto,proteina,1.0,UN,8.44
+S090,sintetico,2025-12-04 18:11:00,loja_exemplo,pão francês,padaria,1.0,UN,6.42
+S090,sintetico,2025-12-04 18:11:00,loja_exemplo,banana,hortifruti,1.0,UN,7.05
+S090,sintetico,2025-12-04 18:11:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.29
+S090,sintetico,2025-12-04 18:11:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.68
+S090,sintetico,2025-12-04 18:11:00,loja_exemplo,margarina,laticinios,1.0,UN,8.7
+S091,sintetico,2025-12-11 18:39:00,loja_exemplo,cebola,hortifruti,1.0,UN,4.84
+S091,sintetico,2025-12-11 18:39:00,loja_exemplo,creme de leite,laticinios,1.0,UN,4.31
+S091,sintetico,2025-12-11 18:39:00,loja_exemplo,salsicha,proteina,1.0,UN,12.93
+S091,sintetico,2025-12-11 18:39:00,loja_exemplo,pão francês,padaria,1.0,UN,6.08
+S091,sintetico,2025-12-11 18:39:00,loja_exemplo,laranja,hortifruti,1.0,UN,6.21
+S091,sintetico,2025-12-11 18:39:00,loja_exemplo,bala,doces_e_snacks,1.0,UN,5.37
+S091,sintetico,2025-12-11 18:39:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,5.82
+S091,sintetico,2025-12-11 18:39:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.26
+S091,sintetico,2025-12-11 18:39:00,loja_exemplo,leite,laticinios,1.0,UN,5.42
+S091,sintetico,2025-12-11 18:39:00,loja_exemplo,linguiça,proteina,1.0,UN,18.47
+S091,sintetico,2025-12-11 18:39:00,loja_exemplo,sacola,utilidades,1.0,UN,0.15
+S091,sintetico,2025-12-11 18:39:00,loja_exemplo,pão de forma,padaria,1.0,UN,8.29
+S091,sintetico,2025-12-11 18:39:00,loja_exemplo,ração de cachorro,outro,1.0,UN,31.28
+S091,sintetico,2025-12-11 18:39:00,loja_exemplo,fermento,mercearia,1.0,UN,4.2
+S091,sintetico,2025-12-11 18:39:00,loja_exemplo,queijo mussarela,laticinios,1.0,UN,10.41
+S092,sintetico,2025-12-12 19:13:00,loja_exemplo,morango,hortifruti,1.0,UN,9.86
+S092,sintetico,2025-12-12 19:13:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.29
+S092,sintetico,2025-12-12 19:13:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.25
+S092,sintetico,2025-12-12 19:13:00,loja_exemplo,banana,hortifruti,1.0,UN,7.33
+S092,sintetico,2025-12-12 19:13:00,loja_exemplo,produto sazonal,outro,1.0,UN,19.87
+S092,sintetico,2025-12-12 19:13:00,loja_exemplo,manteiga,laticinios,1.0,UN,13.81
+S092,sintetico,2025-12-12 19:13:00,loja_exemplo,sacola,utilidades,1.0,UN,0.14
+S092,sintetico,2025-12-12 19:13:00,loja_exemplo,cebola,hortifruti,1.0,UN,4.76
+S092,sintetico,2025-12-12 19:13:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,5.6
+S093,sintetico,2025-12-19 09:26:00,loja_exemplo,leite,laticinios,1.0,UN,5.19
+S093,sintetico,2025-12-19 09:26:00,loja_exemplo,jornal,outro,1.0,UN,5.03
+S093,sintetico,2025-12-19 09:26:00,loja_exemplo,água mineral,bebidas,1.0,UN,2.78
+S093,sintetico,2025-12-19 09:26:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.63
+S093,sintetico,2025-12-19 09:26:00,loja_exemplo,chá gelado,bebidas,1.0,UN,5.97
+S093,sintetico,2025-12-19 09:26:00,loja_exemplo,legumes congelados,congelados,1.0,UN,11.78
+S093,sintetico,2025-12-19 09:26:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,6.25
+S094,sintetico,2025-12-21 15:03:00,loja_exemplo,salsicha,proteina,1.0,UN,11.94
+S094,sintetico,2025-12-21 15:03:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.21
+S094,sintetico,2025-12-21 15:03:00,loja_exemplo,patê,proteina,1.0,UN,7.35
+S094,sintetico,2025-12-21 15:03:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,5.67
+S094,sintetico,2025-12-21 15:03:00,loja_exemplo,cerveja lata,bebidas,1.0,UN,4.05
+S094,sintetico,2025-12-21 15:03:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.93
+S094,sintetico,2025-12-21 15:03:00,loja_exemplo,manteiga,laticinios,1.0,UN,13.66
+S095,sintetico,2025-12-23 08:03:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.96
+S095,sintetico,2025-12-23 08:03:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.51
+S095,sintetico,2025-12-23 08:03:00,loja_exemplo,barra de cereal,doces_e_snacks,1.0,UN,2.8
+S095,sintetico,2025-12-23 08:03:00,loja_exemplo,chocolate,doces_e_snacks,1.0,UN,6.87
+S095,sintetico,2025-12-23 08:03:00,loja_exemplo,leite,laticinios,1.0,UN,5.7
+S095,sintetico,2025-12-23 08:03:00,loja_exemplo,óleo,mercearia,1.0,UN,7.68
+S095,sintetico,2025-12-23 08:03:00,loja_exemplo,creme de leite,laticinios,1.0,UN,4.15
+S095,sintetico,2025-12-23 08:03:00,loja_exemplo,maçã,hortifruti,1.0,UN,10.0
+S096,sintetico,2025-12-25 10:23:00,loja_exemplo,cenoura,hortifruti,1.0,UN,5.19
+S096,sintetico,2025-12-25 10:23:00,loja_exemplo,morango,hortifruti,1.0,UN,9.93
+S096,sintetico,2025-12-25 10:23:00,loja_exemplo,suco,bebidas,1.0,UN,7.82
+S096,sintetico,2025-12-25 10:23:00,loja_exemplo,carne bovina,proteina,1.0,UN,38.11
+S096,sintetico,2025-12-25 10:23:00,loja_exemplo,linguiça,proteina,1.0,UN,18.97
+S096,sintetico,2025-12-25 10:23:00,loja_exemplo,planta,outro,1.0,UN,25.9
+S097,sintetico,2025-12-25 15:07:00,loja_exemplo,pão francês,padaria,1.0,UN,6.1
+S097,sintetico,2025-12-25 15:07:00,loja_exemplo,sobremesa pronta,doces_e_snacks,1.0,UN,5.59
+S097,sintetico,2025-12-25 15:07:00,loja_exemplo,café,mercearia,1.0,UN,17.92
+S097,sintetico,2025-12-25 15:07:00,loja_exemplo,carne bovina,proteina,1.0,UN,37.83
+S097,sintetico,2025-12-25 15:07:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.36
+S097,sintetico,2025-12-25 15:07:00,loja_exemplo,leite,laticinios,1.0,UN,5.4
+S097,sintetico,2025-12-25 15:07:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.63
+S097,sintetico,2025-12-25 15:07:00,loja_exemplo,sacola,utilidades,1.0,UN,0.14
+S098,sintetico,2025-12-31 19:02:00,loja_exemplo,cenoura,hortifruti,1.0,UN,5.11
+S098,sintetico,2025-12-31 19:02:00,loja_exemplo,legumes congelados,congelados,1.0,UN,11.8
+S098,sintetico,2025-12-31 19:02:00,loja_exemplo,pão francês,padaria,1.0,UN,6.39
+S098,sintetico,2025-12-31 19:02:00,loja_exemplo,leite,laticinios,1.0,UN,5.82
+S098,sintetico,2025-12-31 19:02:00,loja_exemplo,farinha de trigo,mercearia,1.0,UN,6.45
+S098,sintetico,2025-12-31 19:02:00,loja_exemplo,margarina,laticinios,1.0,UN,9.0
+S098,sintetico,2025-12-31 19:02:00,loja_exemplo,carne moída,proteina,1.0,UN,28.43
+S098,sintetico,2025-12-31 19:02:00,loja_exemplo,maçã,hortifruti,1.0,UN,9.54
+S098,sintetico,2025-12-31 19:02:00,loja_exemplo,prato descartável,utilidades,1.0,UN,10.15
+S099,sintetico,2025-12-31 20:39:00,loja_exemplo,leite condensado,laticinios,1.0,UN,6.75
+S099,sintetico,2025-12-31 20:39:00,loja_exemplo,morango,hortifruti,1.0,UN,10.37
+S099,sintetico,2025-12-31 20:39:00,loja_exemplo,chá,bebidas,1.0,UN,6.05
+S099,sintetico,2025-12-31 20:39:00,loja_exemplo,legumes congelados,congelados,1.0,UN,12.0
+S099,sintetico,2025-12-31 20:39:00,loja_exemplo,ração de gato,outro,1.0,UN,26.21
+S099,sintetico,2025-12-31 20:39:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.75
+S099,sintetico,2025-12-31 20:39:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,5.54
+S099,sintetico,2025-12-31 20:39:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.26
+S099,sintetico,2025-12-31 20:39:00,loja_exemplo,jornal,outro,1.0,UN,5.08
+S100,sintetico,2026-01-02 08:40:00,loja_exemplo,leite,laticinios,1.0,UN,5.48
+S100,sintetico,2026-01-02 08:40:00,loja_exemplo,macarrão,mercearia,1.0,UN,5.28
+S100,sintetico,2026-01-02 08:40:00,loja_exemplo,pão francês,padaria,1.0,UN,6.42
+S100,sintetico,2026-01-02 08:40:00,loja_exemplo,salsicha,proteina,1.0,UN,13.43
+S100,sintetico,2026-01-02 08:40:00,loja_exemplo,água mineral,bebidas,1.0,UN,3.15
+S100,sintetico,2026-01-02 08:40:00,loja_exemplo,bebida variada,bebidas,1.0,UN,7.06
+S100,sintetico,2026-01-02 08:40:00,loja_exemplo,carne bovina,proteina,1.0,UN,39.17
+S100,sintetico,2026-01-02 08:40:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.57
+S100,sintetico,2026-01-02 08:40:00,loja_exemplo,amaciante,limpeza,1.0,UN,17.96
+S100,sintetico,2026-01-02 08:40:00,loja_exemplo,vinagre,mercearia,1.0,UN,3.39
+S100,sintetico,2026-01-02 08:40:00,loja_exemplo,pão de forma,padaria,1.0,UN,8.58
+S101,sintetico,2026-01-03 18:09:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.41
+S101,sintetico,2026-01-03 18:09:00,loja_exemplo,morango,hortifruti,1.0,UN,9.3
+S101,sintetico,2026-01-03 18:09:00,loja_exemplo,cebola,hortifruti,1.0,UN,4.13
+S101,sintetico,2026-01-03 18:09:00,loja_exemplo,ração de gato,outro,1.0,UN,23.75
+S101,sintetico,2026-01-03 18:09:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.56
+S101,sintetico,2026-01-03 18:09:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,6.13
+S102,sintetico,2026-01-08 11:12:00,loja_exemplo,café,mercearia,1.0,UN,17.91
+S102,sintetico,2026-01-08 11:12:00,loja_exemplo,margarina,laticinios,1.0,UN,9.02
+S102,sintetico,2026-01-08 11:12:00,loja_exemplo,manteiga,laticinios,1.0,UN,12.93
+S102,sintetico,2026-01-08 11:12:00,loja_exemplo,biscoito wafer,doces_e_snacks,1.0,UN,3.97
+S102,sintetico,2026-01-08 11:12:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.52
+S102,sintetico,2026-01-08 11:12:00,loja_exemplo,pão francês,padaria,1.0,UN,6.04
+S103,sintetico,2026-01-14 11:44:00,loja_exemplo,banana,hortifruti,1.0,UN,6.67
+S103,sintetico,2026-01-14 11:44:00,loja_exemplo,sacola,utilidades,1.0,UN,0.15
+S103,sintetico,2026-01-14 11:44:00,loja_exemplo,maçã,hortifruti,1.0,UN,9.5
+S103,sintetico,2026-01-14 11:44:00,loja_exemplo,carne suína,proteina,1.0,UN,25.62
+S103,sintetico,2026-01-14 11:44:00,loja_exemplo,uva,hortifruti,1.0,UN,11.44
+S104,sintetico,2026-01-14 13:18:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.33
+S104,sintetico,2026-01-14 13:18:00,loja_exemplo,sobremesa pronta,doces_e_snacks,1.0,UN,5.71
+S104,sintetico,2026-01-14 13:18:00,loja_exemplo,leite,laticinios,1.0,UN,5.42
+S104,sintetico,2026-01-14 13:18:00,loja_exemplo,ovo,proteina,1.0,UN,13.27
+S104,sintetico,2026-01-14 13:18:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.04
+S104,sintetico,2026-01-14 13:18:00,loja_exemplo,cebola,hortifruti,1.0,UN,4.75
+S105,sintetico,2026-01-16 18:12:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.28
+S105,sintetico,2026-01-16 18:12:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.7
+S105,sintetico,2026-01-16 18:12:00,loja_exemplo,sacola,utilidades,1.0,UN,0.14
+S105,sintetico,2026-01-16 18:12:00,loja_exemplo,artigo de higiene,higiene,1.0,UN,12.61
+S105,sintetico,2026-01-16 18:12:00,loja_exemplo,carne bovina,proteina,1.0,UN,38.4
+S105,sintetico,2026-01-16 18:12:00,loja_exemplo,leite,laticinios,1.0,UN,5.59
+S106,sintetico,2026-01-22 17:13:00,loja_exemplo,carne bovina,proteina,1.0,UN,38.02
+S106,sintetico,2026-01-22 17:13:00,loja_exemplo,planta,outro,1.0,UN,26.45
+S106,sintetico,2026-01-22 17:13:00,loja_exemplo,refeição congelada,congelados,1.0,UN,18.06
+S106,sintetico,2026-01-22 17:13:00,loja_exemplo,pão francês,padaria,1.0,UN,6.08
+S106,sintetico,2026-01-22 17:13:00,loja_exemplo,requeijão,laticinios,1.0,UN,8.43
+S106,sintetico,2026-01-22 17:13:00,loja_exemplo,leite,laticinios,1.0,UN,5.15
+S106,sintetico,2026-01-22 17:13:00,loja_exemplo,cream cheese,laticinios,1.0,UN,10.09
+S107,sintetico,2026-01-28 10:15:00,loja_exemplo,leite,laticinios,1.0,UN,5.16
+S107,sintetico,2026-01-28 10:15:00,loja_exemplo,presunto,proteina,1.0,UN,9.4
+S107,sintetico,2026-01-28 10:15:00,loja_exemplo,leite longa vida,laticinios,1.0,UN,5.19
+S107,sintetico,2026-01-28 10:15:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.88
+S107,sintetico,2026-01-28 10:15:00,loja_exemplo,água mineral,bebidas,1.0,UN,3.0
+S107,sintetico,2026-01-28 10:15:00,loja_exemplo,linguiça,proteina,1.0,UN,21.48
+S107,sintetico,2026-01-28 10:15:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.02
+S107,sintetico,2026-01-28 10:15:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.76
+S108,sintetico,2026-02-02 15:01:00,loja_exemplo,açúcar,mercearia,1.0,UN,4.85
+S108,sintetico,2026-02-02 15:01:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.96
+S108,sintetico,2026-02-02 15:01:00,loja_exemplo,presunto,proteina,1.0,UN,9.01
+S108,sintetico,2026-02-02 15:01:00,loja_exemplo,guardanapo,utilidades,1.0,UN,4.71
+S108,sintetico,2026-02-02 15:01:00,loja_exemplo,sobremesa pronta,doces_e_snacks,1.0,UN,5.67
+S108,sintetico,2026-02-02 15:01:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.68
+S109,sintetico,2026-02-07 16:28:00,loja_exemplo,banana,hortifruti,1.0,UN,6.99
+S109,sintetico,2026-02-07 16:28:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.89
+S109,sintetico,2026-02-07 16:28:00,loja_exemplo,leite,laticinios,1.0,UN,5.9
+S109,sintetico,2026-02-07 16:28:00,loja_exemplo,queijo parmesão,laticinios,1.0,UN,15.6
+S109,sintetico,2026-02-07 16:28:00,loja_exemplo,cerveja lata,bebidas,1.0,UN,4.22
+S109,sintetico,2026-02-07 16:28:00,loja_exemplo,pão francês,padaria,1.0,UN,6.59
+S109,sintetico,2026-02-07 16:28:00,loja_exemplo,fermento,mercearia,1.0,UN,3.75
+S110,sintetico,2026-02-09 08:42:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.65
+S110,sintetico,2026-02-09 08:42:00,loja_exemplo,açúcar,mercearia,1.0,UN,4.75
+S110,sintetico,2026-02-09 08:42:00,loja_exemplo,linguiça,proteina,1.0,UN,18.64
+S110,sintetico,2026-02-09 08:42:00,loja_exemplo,banana,hortifruti,1.0,UN,7.4
+S110,sintetico,2026-02-09 08:42:00,loja_exemplo,chá gelado,bebidas,1.0,UN,6.58
+S110,sintetico,2026-02-09 08:42:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.88
+S110,sintetico,2026-02-09 08:42:00,loja_exemplo,maçã,hortifruti,1.0,UN,9.84
+S110,sintetico,2026-02-09 08:42:00,loja_exemplo,ricota,laticinios,1.0,UN,9.79
+S111,sintetico,2026-02-11 10:30:00,loja_exemplo,carne moída,proteina,1.0,UN,30.54
+S111,sintetico,2026-02-11 10:30:00,loja_exemplo,chiclete,doces_e_snacks,1.0,UN,2.66
+S111,sintetico,2026-02-11 10:30:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.94
+S111,sintetico,2026-02-11 10:30:00,loja_exemplo,queijo parmesão,laticinios,1.0,UN,15.62
+S111,sintetico,2026-02-11 10:30:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.17
+S111,sintetico,2026-02-11 10:30:00,loja_exemplo,leite longa vida,laticinios,1.0,UN,4.95
+S111,sintetico,2026-02-11 10:30:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.58
+S112,sintetico,2026-02-14 18:59:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.85
+S112,sintetico,2026-02-14 18:59:00,loja_exemplo,jornal,outro,1.0,UN,5.13
+S112,sintetico,2026-02-14 18:59:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.07
+S112,sintetico,2026-02-14 18:59:00,loja_exemplo,sobremesa pronta,doces_e_snacks,1.0,UN,5.82
+S112,sintetico,2026-02-14 18:59:00,loja_exemplo,cebola,hortifruti,1.0,UN,4.38
+S112,sintetico,2026-02-14 18:59:00,loja_exemplo,batata congelada,congelados,1.0,UN,18.53
+S112,sintetico,2026-02-14 18:59:00,loja_exemplo,salsicha,proteina,1.0,UN,12.06
+S112,sintetico,2026-02-14 18:59:00,loja_exemplo,pão integral,padaria,1.0,UN,9.46
+S112,sintetico,2026-02-14 18:59:00,loja_exemplo,pão de hot dog,padaria,1.0,UN,7.24
+S112,sintetico,2026-02-14 18:59:00,loja_exemplo,detergente,limpeza,1.0,UN,2.74
+S113,sintetico,2026-02-15 16:16:00,loja_exemplo,creme de leite,laticinios,1.0,UN,3.81
+S113,sintetico,2026-02-15 16:16:00,loja_exemplo,revelação de foto,outro,1.0,UN,15.15
+S113,sintetico,2026-02-15 16:16:00,loja_exemplo,pipoca,doces_e_snacks,1.0,UN,5.19
+S113,sintetico,2026-02-15 16:16:00,loja_exemplo,carne suína,proteina,1.0,UN,23.93
+S113,sintetico,2026-02-15 16:16:00,loja_exemplo,margarina,laticinios,1.0,UN,8.93
+S113,sintetico,2026-02-15 16:16:00,loja_exemplo,carne bovina,proteina,1.0,UN,42.63
+S113,sintetico,2026-02-15 16:16:00,loja_exemplo,manteiga,laticinios,1.0,UN,13.19
+S113,sintetico,2026-02-15 16:16:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.23
+S113,sintetico,2026-02-15 16:16:00,loja_exemplo,água mineral,bebidas,1.0,UN,2.78
+S114,sintetico,2026-02-18 16:06:00,loja_exemplo,cerveja lata,bebidas,1.0,UN,4.6
+S114,sintetico,2026-02-18 16:06:00,loja_exemplo,sobremesa pronta,doces_e_snacks,1.0,UN,5.89
+S114,sintetico,2026-02-18 16:06:00,loja_exemplo,peixe congelado,congelados,1.0,UN,31.93
+S114,sintetico,2026-02-18 16:06:00,loja_exemplo,salgadinho,doces_e_snacks,1.0,UN,9.1
+S114,sintetico,2026-02-18 16:06:00,loja_exemplo,iogurte,laticinios,1.0,UN,3.95
+S114,sintetico,2026-02-18 16:06:00,loja_exemplo,refrigerante,bebidas,1.0,UN,8.33
+S115,sintetico,2026-02-24 15:49:00,loja_exemplo,ração de gato,outro,1.0,UN,25.62
+S115,sintetico,2026-02-24 15:49:00,loja_exemplo,desodorante,higiene,1.0,UN,16.06
+S115,sintetico,2026-02-24 15:49:00,loja_exemplo,peito de peru,proteina,1.0,UN,11.92
+S115,sintetico,2026-02-24 15:49:00,loja_exemplo,ovo,proteina,1.0,UN,14.53
+S115,sintetico,2026-02-24 15:49:00,loja_exemplo,água mineral,bebidas,1.0,UN,3.16
+S115,sintetico,2026-02-24 15:49:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.5
+S115,sintetico,2026-02-24 15:49:00,loja_exemplo,suco,bebidas,1.0,UN,7.95
+S116,sintetico,2026-02-25 10:37:00,loja_exemplo,linguiça,proteina,1.0,UN,18.33
+S116,sintetico,2026-02-25 10:37:00,loja_exemplo,pão francês,padaria,1.0,UN,6.8
+S116,sintetico,2026-02-25 10:37:00,loja_exemplo,refrigerante,bebidas,1.0,UN,8.75
+S116,sintetico,2026-02-25 10:37:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.55
+S116,sintetico,2026-02-25 10:37:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.35
+S116,sintetico,2026-02-25 10:37:00,loja_exemplo,biscoito wafer,doces_e_snacks,1.0,UN,4.03
+S116,sintetico,2026-02-25 10:37:00,loja_exemplo,cerveja lata,bebidas,1.0,UN,4.13
+S116,sintetico,2026-02-25 10:37:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.14
+S116,sintetico,2026-02-25 10:37:00,loja_exemplo,café,mercearia,1.0,UN,19.73
+S116,sintetico,2026-02-25 10:37:00,loja_exemplo,farinha de trigo,mercearia,1.0,UN,5.99
+S117,sintetico,2026-02-27 08:09:00,loja_exemplo,café,mercearia,1.0,UN,19.01
+S117,sintetico,2026-02-27 08:09:00,loja_exemplo,água mineral,bebidas,1.0,UN,3.21
+S117,sintetico,2026-02-27 08:09:00,loja_exemplo,pão de hot dog,padaria,1.0,UN,7.51
+S117,sintetico,2026-02-27 08:09:00,loja_exemplo,carne moída,proteina,1.0,UN,31.6
+S117,sintetico,2026-02-27 08:09:00,loja_exemplo,pão francês,padaria,1.0,UN,6.18
+S117,sintetico,2026-02-27 08:09:00,loja_exemplo,maçã,hortifruti,1.0,UN,10.14
+S117,sintetico,2026-02-27 08:09:00,loja_exemplo,morango,hortifruti,1.0,UN,10.59
+S117,sintetico,2026-02-27 08:09:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,5.87
+S117,sintetico,2026-02-27 08:09:00,loja_exemplo,leite,laticinios,1.0,UN,5.14
+S117,sintetico,2026-02-27 08:09:00,loja_exemplo,leite longa vida,laticinios,1.0,UN,5.24
+S117,sintetico,2026-02-27 08:09:00,loja_exemplo,chocolate,doces_e_snacks,1.0,UN,6.97
+S118,sintetico,2026-02-27 08:33:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,6.05
+S118,sintetico,2026-02-27 08:33:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.59
+S118,sintetico,2026-02-27 08:33:00,loja_exemplo,banana,hortifruti,1.0,UN,7.11
+S118,sintetico,2026-02-27 08:33:00,loja_exemplo,café,mercearia,1.0,UN,18.67
+S118,sintetico,2026-02-27 08:33:00,loja_exemplo,sobremesa pronta,doces_e_snacks,1.0,UN,5.87
+S118,sintetico,2026-02-27 08:33:00,loja_exemplo,suco,bebidas,1.0,UN,7.88
+S118,sintetico,2026-02-27 08:33:00,loja_exemplo,papel toalha,utilidades,1.0,UN,8.44
+S118,sintetico,2026-02-27 08:33:00,loja_exemplo,margarina,laticinios,1.0,UN,8.89
+S119,sintetico,2026-03-02 17:03:00,loja_exemplo,salsicha,proteina,1.0,UN,13.6
+S119,sintetico,2026-03-02 17:03:00,loja_exemplo,morango,hortifruti,1.0,UN,9.65
+S119,sintetico,2026-03-02 17:03:00,loja_exemplo,laranja,hortifruti,1.0,UN,5.8
+S119,sintetico,2026-03-02 17:03:00,loja_exemplo,maçã,hortifruti,1.0,UN,10.59
+S119,sintetico,2026-03-02 17:03:00,loja_exemplo,pão francês,padaria,1.0,UN,6.0
+S119,sintetico,2026-03-02 17:03:00,loja_exemplo,artigo de higiene,higiene,1.0,UN,12.94
+S120,sintetico,2026-03-10 08:44:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.85
+S120,sintetico,2026-03-10 08:44:00,loja_exemplo,pão francês,padaria,1.0,UN,6.7
+S120,sintetico,2026-03-10 08:44:00,loja_exemplo,pão de forma,padaria,1.0,UN,8.03
+S120,sintetico,2026-03-10 08:44:00,loja_exemplo,ovo,proteina,1.0,UN,14.37
+S120,sintetico,2026-03-10 08:44:00,loja_exemplo,banana,hortifruti,1.0,UN,6.85
+S120,sintetico,2026-03-10 08:44:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,6.1
+S121,sintetico,2026-03-11 19:52:00,loja_exemplo,salsicha,proteina,1.0,UN,11.95
+S121,sintetico,2026-03-11 19:52:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,5.95
+S121,sintetico,2026-03-11 19:52:00,loja_exemplo,ovo,proteina,1.0,UN,14.04
+S121,sintetico,2026-03-11 19:52:00,loja_exemplo,filme plástico,utilidades,1.0,UN,7.62
+S121,sintetico,2026-03-11 19:52:00,loja_exemplo,milho verde,mercearia,1.0,UN,4.23
+S121,sintetico,2026-03-11 19:52:00,loja_exemplo,margarina,laticinios,1.0,UN,8.07
+S121,sintetico,2026-03-11 19:52:00,loja_exemplo,barra de cereal,doces_e_snacks,1.0,UN,2.92
+S122,sintetico,2026-03-12 09:28:00,loja_exemplo,salsicha,proteina,1.0,UN,12.07
+S122,sintetico,2026-03-12 09:28:00,loja_exemplo,leite,laticinios,1.0,UN,5.88
+S122,sintetico,2026-03-12 09:28:00,loja_exemplo,planta,outro,1.0,UN,24.52
+S122,sintetico,2026-03-12 09:28:00,loja_exemplo,produto orgânico,hortifruti,1.0,UN,13.54
+S122,sintetico,2026-03-12 09:28:00,loja_exemplo,detergente,limpeza,1.0,UN,3.0
+S123,sintetico,2026-03-13 17:07:00,loja_exemplo,manteiga,laticinios,1.0,UN,12.12
+S123,sintetico,2026-03-13 17:07:00,loja_exemplo,bala,doces_e_snacks,1.0,UN,5.11
+S123,sintetico,2026-03-13 17:07:00,loja_exemplo,cenoura,hortifruti,1.0,UN,5.29
+S123,sintetico,2026-03-13 17:07:00,loja_exemplo,legumes congelados,congelados,1.0,UN,12.16
+S123,sintetico,2026-03-13 17:07:00,loja_exemplo,artigo pet,outro,1.0,UN,19.67
+S123,sintetico,2026-03-13 17:07:00,loja_exemplo,leite,laticinios,1.0,UN,5.43
+S123,sintetico,2026-03-13 17:07:00,loja_exemplo,biscoito wafer,doces_e_snacks,1.0,UN,3.69
+S123,sintetico,2026-03-13 17:07:00,loja_exemplo,sobremesa pronta,doces_e_snacks,1.0,UN,6.02
+S124,sintetico,2026-03-15 18:52:00,loja_exemplo,carne bovina,proteina,1.0,UN,43.05
+S124,sintetico,2026-03-15 18:52:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.97
+S124,sintetico,2026-03-15 18:52:00,loja_exemplo,margarina,laticinios,1.0,UN,7.87
+S124,sintetico,2026-03-15 18:52:00,loja_exemplo,água mineral,bebidas,1.0,UN,3.09
+S124,sintetico,2026-03-15 18:52:00,loja_exemplo,pão francês,padaria,1.0,UN,6.29
+S124,sintetico,2026-03-15 18:52:00,loja_exemplo,batata palha,doces_e_snacks,1.0,UN,9.57
+S125,sintetico,2026-03-23 11:52:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.63
+S125,sintetico,2026-03-23 11:52:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.52
+S125,sintetico,2026-03-23 11:52:00,loja_exemplo,carne bovina,proteina,1.0,UN,42.05
+S125,sintetico,2026-03-23 11:52:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.03
+S125,sintetico,2026-03-23 11:52:00,loja_exemplo,cerveja lata,bebidas,1.0,UN,3.99
+S125,sintetico,2026-03-23 11:52:00,loja_exemplo,sobremesa pronta,doces_e_snacks,1.0,UN,6.31
+S125,sintetico,2026-03-23 11:52:00,loja_exemplo,salada pronta,hortifruti,1.0,UN,7.55
+S125,sintetico,2026-03-23 11:52:00,loja_exemplo,farinha de trigo,mercearia,1.0,UN,6.02
+S125,sintetico,2026-03-23 11:52:00,loja_exemplo,patê de carne,proteina,1.0,UN,7.45
+S126,sintetico,2026-03-24 18:25:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.0
+S126,sintetico,2026-03-24 18:25:00,loja_exemplo,carne moída,proteina,1.0,UN,29.41
+S126,sintetico,2026-03-24 18:25:00,loja_exemplo,margarina,laticinios,1.0,UN,8.42
+S126,sintetico,2026-03-24 18:25:00,loja_exemplo,sacola,utilidades,1.0,UN,0.14
+S126,sintetico,2026-03-24 18:25:00,loja_exemplo,cenoura,hortifruti,1.0,UN,5.36
+S126,sintetico,2026-03-24 18:25:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.29
+S127,sintetico,2026-03-27 15:30:00,loja_exemplo,açúcar,mercearia,1.0,UN,4.74
+S127,sintetico,2026-03-27 15:30:00,loja_exemplo,suco,bebidas,1.0,UN,7.72
+S127,sintetico,2026-03-27 15:30:00,loja_exemplo,presunto,proteina,1.0,UN,9.56
+S127,sintetico,2026-03-27 15:30:00,loja_exemplo,refrigerante,bebidas,1.0,UN,8.41
+S127,sintetico,2026-03-27 15:30:00,loja_exemplo,leite,laticinios,1.0,UN,5.81
+S127,sintetico,2026-03-27 15:30:00,loja_exemplo,queijo parmesão,laticinios,1.0,UN,16.43
+S128,sintetico,2026-04-05 11:45:00,loja_exemplo,cheiro-verde,hortifruti,1.0,UN,3.15
+S128,sintetico,2026-04-05 11:45:00,loja_exemplo,uva,hortifruti,1.0,UN,12.9
+S128,sintetico,2026-04-05 11:45:00,loja_exemplo,creme de leite,laticinios,1.0,UN,4.21
+S128,sintetico,2026-04-05 11:45:00,loja_exemplo,salgado folhado,padaria,1.0,UN,8.03
+S128,sintetico,2026-04-05 11:45:00,loja_exemplo,biscoito wafer,doces_e_snacks,1.0,UN,3.75
+S128,sintetico,2026-04-05 11:45:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.32
+S128,sintetico,2026-04-05 11:45:00,loja_exemplo,leite,laticinios,1.0,UN,5.53
+S128,sintetico,2026-04-05 11:45:00,loja_exemplo,creme dental,higiene,1.0,UN,7.04
+S128,sintetico,2026-04-05 11:45:00,loja_exemplo,produto de limpeza,limpeza,1.0,UN,10.53
+S128,sintetico,2026-04-05 11:45:00,loja_exemplo,legumes congelados,congelados,1.0,UN,12.8
+S128,sintetico,2026-04-05 11:45:00,loja_exemplo,sopa instantânea,mercearia,1.0,UN,4.12
+S128,sintetico,2026-04-05 11:45:00,loja_exemplo,carne bovina,proteina,1.0,UN,39.79
+S128,sintetico,2026-04-05 11:45:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,5.95
+S129,sintetico,2026-04-05 20:13:00,loja_exemplo,requeijão,laticinios,1.0,UN,8.83
+S129,sintetico,2026-04-05 20:13:00,loja_exemplo,chocolate,doces_e_snacks,1.0,UN,6.84
+S129,sintetico,2026-04-05 20:13:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.22
+S129,sintetico,2026-04-05 20:13:00,loja_exemplo,presunto,proteina,1.0,UN,8.32
+S129,sintetico,2026-04-05 20:13:00,loja_exemplo,limpador de banheiro,limpeza,1.0,UN,9.23
+S129,sintetico,2026-04-05 20:13:00,loja_exemplo,queijo especial,laticinios,1.0,UN,26.02
+S129,sintetico,2026-04-05 20:13:00,loja_exemplo,manteiga,laticinios,1.0,UN,12.88
+S130,sintetico,2026-04-11 18:00:00,loja_exemplo,laranja,hortifruti,1.0,UN,6.4
+S130,sintetico,2026-04-11 18:00:00,loja_exemplo,margarina,laticinios,1.0,UN,8.64
+S130,sintetico,2026-04-11 18:00:00,loja_exemplo,iogurte,laticinios,1.0,UN,3.97
+S130,sintetico,2026-04-11 18:00:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.41
+S130,sintetico,2026-04-11 18:00:00,loja_exemplo,pão de forma,padaria,1.0,UN,8.09
+S130,sintetico,2026-04-11 18:00:00,loja_exemplo,legumes congelados,congelados,1.0,UN,12.81
+S131,sintetico,2026-04-15 12:06:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.1
+S131,sintetico,2026-04-15 12:06:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.92
+S131,sintetico,2026-04-15 12:06:00,loja_exemplo,suco,bebidas,1.0,UN,8.55
+S131,sintetico,2026-04-15 12:06:00,loja_exemplo,sacola,utilidades,1.0,UN,0.16
+S131,sintetico,2026-04-15 12:06:00,loja_exemplo,maçã,hortifruti,1.0,UN,9.57
+S131,sintetico,2026-04-15 12:06:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,5.56
+S132,sintetico,2026-04-15 18:05:00,loja_exemplo,salsicha,proteina,1.0,UN,12.19
+S132,sintetico,2026-04-15 18:05:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.28
+S132,sintetico,2026-04-15 18:05:00,loja_exemplo,refrigerante,bebidas,1.0,UN,8.55
+S132,sintetico,2026-04-15 18:05:00,loja_exemplo,pão francês,padaria,1.0,UN,6.57
+S132,sintetico,2026-04-15 18:05:00,loja_exemplo,jornal,outro,1.0,UN,5.33
+S132,sintetico,2026-04-15 18:05:00,loja_exemplo,creme de leite,laticinios,1.0,UN,4.01
+S132,sintetico,2026-04-15 18:05:00,loja_exemplo,cerveja lata,bebidas,1.0,UN,4.38
+S133,sintetico,2026-04-16 18:06:00,loja_exemplo,carne suína,proteina,1.0,UN,23.71
+S133,sintetico,2026-04-16 18:06:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.8
+S133,sintetico,2026-04-16 18:06:00,loja_exemplo,chá gelado,bebidas,1.0,UN,6.61
+S133,sintetico,2026-04-16 18:06:00,loja_exemplo,prato descartável,utilidades,1.0,UN,10.48
+S133,sintetico,2026-04-16 18:06:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.54
+S133,sintetico,2026-04-16 18:06:00,loja_exemplo,detergente,limpeza,1.0,UN,2.72
+S133,sintetico,2026-04-16 18:06:00,loja_exemplo,maionese,mercearia,1.0,UN,8.4
+S134,sintetico,2026-04-21 17:04:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,5.73
+S134,sintetico,2026-04-21 17:04:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.25
+S134,sintetico,2026-04-21 17:04:00,loja_exemplo,linguiça,proteina,1.0,UN,21.32
+S134,sintetico,2026-04-21 17:04:00,loja_exemplo,leite longa vida,laticinios,1.0,UN,4.89
+S134,sintetico,2026-04-21 17:04:00,loja_exemplo,presunto,proteina,1.0,UN,9.29
+S134,sintetico,2026-04-21 17:04:00,loja_exemplo,cream cheese,laticinios,1.0,UN,9.96
+S134,sintetico,2026-04-21 17:04:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.45
+S134,sintetico,2026-04-21 17:04:00,loja_exemplo,óleo,mercearia,1.0,UN,7.76
+S134,sintetico,2026-04-21 17:04:00,loja_exemplo,bala,doces_e_snacks,1.0,UN,5.11
+S135,sintetico,2026-05-07 14:09:00,loja_exemplo,creme de leite,laticinios,1.0,UN,4.1
+S135,sintetico,2026-05-07 14:09:00,loja_exemplo,queijo parmesão,laticinios,1.0,UN,15.73
+S135,sintetico,2026-05-07 14:09:00,loja_exemplo,refrigerante,bebidas,1.0,UN,8.6
+S135,sintetico,2026-05-07 14:09:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,6.2
+S135,sintetico,2026-05-07 14:09:00,loja_exemplo,fermento,mercearia,1.0,UN,3.78
+S136,sintetico,2026-05-10 10:33:00,loja_exemplo,bebida variada,bebidas,1.0,UN,7.48
+S136,sintetico,2026-05-10 10:33:00,loja_exemplo,açúcar,mercearia,1.0,UN,4.74
+S136,sintetico,2026-05-10 10:33:00,loja_exemplo,jornal,outro,1.0,UN,4.69
+S136,sintetico,2026-05-10 10:33:00,loja_exemplo,água mineral,bebidas,1.0,UN,2.99
+S136,sintetico,2026-05-10 10:33:00,loja_exemplo,frango,proteina,1.0,UN,17.96
+S136,sintetico,2026-05-10 10:33:00,loja_exemplo,legumes congelados,congelados,1.0,UN,11.92
+S137,sintetico,2026-05-10 14:37:00,loja_exemplo,revelação de foto,outro,1.0,UN,14.85
+S137,sintetico,2026-05-10 14:37:00,loja_exemplo,cenoura,hortifruti,1.0,UN,5.39
+S137,sintetico,2026-05-10 14:37:00,loja_exemplo,prato pronto,refeicao_fora,1.0,UN,24.85
+S137,sintetico,2026-05-10 14:37:00,loja_exemplo,morango,hortifruti,1.0,UN,9.95
+S137,sintetico,2026-05-10 14:37:00,loja_exemplo,refrigerante,bebidas,1.0,UN,8.88
+S137,sintetico,2026-05-10 14:37:00,loja_exemplo,leite longa vida,laticinios,1.0,UN,4.64
+S137,sintetico,2026-05-10 14:37:00,loja_exemplo,sobremesa pronta,doces_e_snacks,1.0,UN,6.08
+S137,sintetico,2026-05-10 14:37:00,loja_exemplo,guardanapo,utilidades,1.0,UN,4.29
+S138,sintetico,2026-05-10 15:02:00,loja_exemplo,óleo,mercearia,1.0,UN,8.17
+S138,sintetico,2026-05-10 15:02:00,loja_exemplo,suco,bebidas,1.0,UN,7.42
+S138,sintetico,2026-05-10 15:02:00,loja_exemplo,chá gelado,bebidas,1.0,UN,6.99
+S138,sintetico,2026-05-10 15:02:00,loja_exemplo,sacola,utilidades,1.0,UN,0.15
+S138,sintetico,2026-05-10 15:02:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.56
+S138,sintetico,2026-05-10 15:02:00,loja_exemplo,linguiça,proteina,1.0,UN,19.82
+S138,sintetico,2026-05-10 15:02:00,loja_exemplo,bolo pronto,padaria,1.0,UN,8.82
+S139,sintetico,2026-05-11 09:07:00,loja_exemplo,manteiga,laticinios,1.0,UN,13.66
+S139,sintetico,2026-05-11 09:07:00,loja_exemplo,banana,hortifruti,1.0,UN,7.16
+S139,sintetico,2026-05-11 09:07:00,loja_exemplo,óleo,mercearia,1.0,UN,8.35
+S139,sintetico,2026-05-11 09:07:00,loja_exemplo,desodorante,higiene,1.0,UN,15.72
+S139,sintetico,2026-05-11 09:07:00,loja_exemplo,petisco,doces_e_snacks,1.0,UN,8.17
+S139,sintetico,2026-05-11 09:07:00,loja_exemplo,aperitivo,bebidas,1.0,UN,36.89
+S140,sintetico,2026-05-13 14:33:00,loja_exemplo,ovo,proteina,1.0,UN,14.28
+S140,sintetico,2026-05-13 14:33:00,loja_exemplo,queijo mussarela,laticinios,1.0,UN,9.66
+S140,sintetico,2026-05-13 14:33:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.4
+S140,sintetico,2026-05-13 14:33:00,loja_exemplo,cheiro-verde,hortifruti,1.0,UN,3.07
+S140,sintetico,2026-05-13 14:33:00,loja_exemplo,salgado folhado,padaria,1.0,UN,8.05
+S140,sintetico,2026-05-13 14:33:00,loja_exemplo,creme de leite,laticinios,1.0,UN,3.91
+S140,sintetico,2026-05-13 14:33:00,loja_exemplo,atum,mercearia,1.0,UN,9.87
+S140,sintetico,2026-05-13 14:33:00,loja_exemplo,molho de tomate,mercearia,1.0,UN,3.66
+S140,sintetico,2026-05-13 14:33:00,loja_exemplo,chá gelado,bebidas,1.0,UN,6.5
+S141,sintetico,2026-05-14 12:53:00,loja_exemplo,carne bovina,proteina,1.0,UN,41.41
+S141,sintetico,2026-05-14 12:53:00,loja_exemplo,maçã,hortifruti,1.0,UN,9.93
+S141,sintetico,2026-05-14 12:53:00,loja_exemplo,leite,laticinios,1.0,UN,5.24
+S141,sintetico,2026-05-14 12:53:00,loja_exemplo,leite longa vida,laticinios,1.0,UN,5.19
+S141,sintetico,2026-05-14 12:53:00,loja_exemplo,legumes congelados,congelados,1.0,UN,11.2
+S141,sintetico,2026-05-14 12:53:00,loja_exemplo,prato descartável,utilidades,1.0,UN,9.42
+S141,sintetico,2026-05-14 12:53:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.17
+S141,sintetico,2026-05-14 12:53:00,loja_exemplo,ovo,proteina,1.0,UN,14.54
+S142,sintetico,2026-05-15 13:21:00,loja_exemplo,pão pré-assado,padaria,1.0,UN,8.49
+S142,sintetico,2026-05-15 13:21:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.58
+S142,sintetico,2026-05-15 13:21:00,loja_exemplo,refrigerante,bebidas,1.0,UN,8.43
+S142,sintetico,2026-05-15 13:21:00,loja_exemplo,cerveja lata,bebidas,1.0,UN,4.6
+S142,sintetico,2026-05-15 13:21:00,loja_exemplo,salgadinho,doces_e_snacks,1.0,UN,8.49
+S142,sintetico,2026-05-15 13:21:00,loja_exemplo,café,mercearia,1.0,UN,17.99
+S142,sintetico,2026-05-15 13:21:00,loja_exemplo,farinha de trigo,mercearia,1.0,UN,5.79
+S143,sintetico,2026-05-15 14:59:00,loja_exemplo,bolinho,doces_e_snacks,1.0,UN,3.0
+S143,sintetico,2026-05-15 14:59:00,loja_exemplo,vinho tinto,bebidas,1.0,UN,42.34
+S143,sintetico,2026-05-15 14:59:00,loja_exemplo,leite,laticinios,1.0,UN,5.72
+S143,sintetico,2026-05-15 14:59:00,loja_exemplo,farinha de trigo,mercearia,1.0,UN,6.19
+S143,sintetico,2026-05-15 14:59:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.44
+S144,sintetico,2026-05-16 10:03:00,loja_exemplo,salsicha,proteina,1.0,UN,12.61
+S144,sintetico,2026-05-16 10:03:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.87
+S144,sintetico,2026-05-16 10:03:00,loja_exemplo,linguiça,proteina,1.0,UN,18.78
+S144,sintetico,2026-05-16 10:03:00,loja_exemplo,leite,laticinios,1.0,UN,5.29
+S144,sintetico,2026-05-16 10:03:00,loja_exemplo,chá gelado,bebidas,1.0,UN,6.29
+S144,sintetico,2026-05-16 10:03:00,loja_exemplo,jornal,outro,1.0,UN,4.7
+S145,sintetico,2026-05-19 20:03:00,loja_exemplo,frango,proteina,1.0,UN,18.04
+S145,sintetico,2026-05-19 20:03:00,loja_exemplo,sorvete,congelados,1.0,UN,23.65
+S145,sintetico,2026-05-19 20:03:00,loja_exemplo,água mineral,bebidas,1.0,UN,2.78
+S145,sintetico,2026-05-19 20:03:00,loja_exemplo,linguiça,proteina,1.0,UN,19.84
+S145,sintetico,2026-05-19 20:03:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,6.26
+S145,sintetico,2026-05-19 20:03:00,loja_exemplo,prato descartável,utilidades,1.0,UN,10.29
+S145,sintetico,2026-05-19 20:03:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.35
+S145,sintetico,2026-05-19 20:03:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.44
+S146,sintetico,2026-05-20 11:11:00,loja_exemplo,leite,laticinios,1.0,UN,5.77
+S146,sintetico,2026-05-20 11:11:00,loja_exemplo,biscoito wafer,doces_e_snacks,1.0,UN,3.82
+S146,sintetico,2026-05-20 11:11:00,loja_exemplo,chá gelado,bebidas,1.0,UN,6.35
+S146,sintetico,2026-05-20 11:11:00,loja_exemplo,pão francês,padaria,1.0,UN,6.16
+S146,sintetico,2026-05-20 11:11:00,loja_exemplo,carne suína,proteina,1.0,UN,24.77
+S147,sintetico,2026-05-21 13:12:00,loja_exemplo,banana,hortifruti,1.0,UN,6.87
+S147,sintetico,2026-05-21 13:12:00,loja_exemplo,bolo pronto,padaria,1.0,UN,9.1
+S147,sintetico,2026-05-21 13:12:00,loja_exemplo,guardanapo,utilidades,1.0,UN,4.67
+S147,sintetico,2026-05-21 13:12:00,loja_exemplo,sacola,utilidades,1.0,UN,0.15
+S147,sintetico,2026-05-21 13:12:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.58
+S147,sintetico,2026-05-21 13:12:00,loja_exemplo,café,mercearia,1.0,UN,17.78
+S147,sintetico,2026-05-21 13:12:00,loja_exemplo,sorvete,congelados,1.0,UN,22.68
+S147,sintetico,2026-05-21 13:12:00,loja_exemplo,leite longa vida,laticinios,1.0,UN,4.83
+S148,sintetico,2026-05-21 14:00:00,loja_exemplo,banana,hortifruti,1.0,UN,6.84
+S148,sintetico,2026-05-21 14:00:00,loja_exemplo,detergente,limpeza,1.0,UN,2.67
+S148,sintetico,2026-05-21 14:00:00,loja_exemplo,creme de leite,laticinios,1.0,UN,4.16
+S148,sintetico,2026-05-21 14:00:00,loja_exemplo,artigo de higiene,higiene,1.0,UN,13.79
+S148,sintetico,2026-05-21 14:00:00,loja_exemplo,margarina,laticinios,1.0,UN,8.49
+S148,sintetico,2026-05-21 14:00:00,loja_exemplo,água mineral,bebidas,1.0,UN,3.06
+S149,sintetico,2026-05-22 14:42:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.52
+S149,sintetico,2026-05-22 14:42:00,loja_exemplo,chocolate,doces_e_snacks,1.0,UN,7.55
+S149,sintetico,2026-05-22 14:42:00,loja_exemplo,cream cheese,laticinios,1.0,UN,10.08
+S149,sintetico,2026-05-22 14:42:00,loja_exemplo,queijo minas,laticinios,1.0,UN,15.83
+S149,sintetico,2026-05-22 14:42:00,loja_exemplo,água mineral,bebidas,1.0,UN,3.19
+S149,sintetico,2026-05-22 14:42:00,loja_exemplo,pão integral,padaria,1.0,UN,10.46
+S150,sintetico,2026-06-07 13:15:00,loja_exemplo,frango,proteina,1.0,UN,17.79
+S150,sintetico,2026-06-07 13:15:00,loja_exemplo,leite fermentado,laticinios,1.0,UN,7.45
+S150,sintetico,2026-06-07 13:15:00,loja_exemplo,cerveja lata,bebidas,1.0,UN,3.96
+S150,sintetico,2026-06-07 13:15:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.27
+S150,sintetico,2026-06-07 13:15:00,loja_exemplo,cream cheese,laticinios,1.0,UN,9.89
+S150,sintetico,2026-06-07 13:15:00,loja_exemplo,laranja,hortifruti,1.0,UN,5.9
+S150,sintetico,2026-06-07 13:15:00,loja_exemplo,molho de tomate,mercearia,1.0,UN,3.53
+S150,sintetico,2026-06-07 13:15:00,loja_exemplo,vinho tinto,bebidas,1.0,UN,40.23
+S151,sintetico,2026-06-08 20:44:00,loja_exemplo,carne suína,proteina,1.0,UN,26.24
+S151,sintetico,2026-06-08 20:44:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.34
+S151,sintetico,2026-06-08 20:44:00,loja_exemplo,cream cheese,laticinios,1.0,UN,9.46
+S151,sintetico,2026-06-08 20:44:00,loja_exemplo,leite,laticinios,1.0,UN,5.75
+S151,sintetico,2026-06-08 20:44:00,loja_exemplo,leite fermentado,laticinios,1.0,UN,8.43
+S151,sintetico,2026-06-08 20:44:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.63
+S151,sintetico,2026-06-08 20:44:00,loja_exemplo,banana,hortifruti,1.0,UN,7.41
+S151,sintetico,2026-06-08 20:44:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.55
+S152,sintetico,2026-06-09 11:11:00,loja_exemplo,morango,hortifruti,1.0,UN,9.69
+S152,sintetico,2026-06-09 11:11:00,loja_exemplo,pão de forma,padaria,1.0,UN,8.36
+S152,sintetico,2026-06-09 11:11:00,loja_exemplo,pão francês,padaria,1.0,UN,6.26
+S152,sintetico,2026-06-09 11:11:00,loja_exemplo,salgadinho,doces_e_snacks,1.0,UN,9.14
+S152,sintetico,2026-06-09 11:11:00,loja_exemplo,banana,hortifruti,1.0,UN,7.48
+S152,sintetico,2026-06-09 11:11:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.68
+S152,sintetico,2026-06-09 11:11:00,loja_exemplo,sobremesa pronta,doces_e_snacks,1.0,UN,6.04
+S153,sintetico,2026-06-12 08:04:00,loja_exemplo,pão integral,padaria,1.0,UN,9.66
+S153,sintetico,2026-06-12 08:04:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.06
+S153,sintetico,2026-06-12 08:04:00,loja_exemplo,água mineral,bebidas,1.0,UN,2.84
+S153,sintetico,2026-06-12 08:04:00,loja_exemplo,café,mercearia,1.0,UN,17.56
+S153,sintetico,2026-06-12 08:04:00,loja_exemplo,cenoura,hortifruti,1.0,UN,5.35
+S153,sintetico,2026-06-12 08:04:00,loja_exemplo,carne bovina,proteina,1.0,UN,39.28
+S154,sintetico,2026-06-15 16:26:00,loja_exemplo,pão francês,padaria,1.0,UN,6.85
+S154,sintetico,2026-06-15 16:26:00,loja_exemplo,café,mercearia,1.0,UN,19.45
+S154,sintetico,2026-06-15 16:26:00,loja_exemplo,conserva,mercearia,1.0,UN,8.55
+S154,sintetico,2026-06-15 16:26:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.11
+S154,sintetico,2026-06-15 16:26:00,loja_exemplo,pão integral,padaria,1.0,UN,10.49
+S154,sintetico,2026-06-15 16:26:00,loja_exemplo,açúcar,mercearia,1.0,UN,4.8
+S154,sintetico,2026-06-15 16:26:00,loja_exemplo,adubo,outro,1.0,UN,15.89
+S154,sintetico,2026-06-15 16:26:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.04
+S154,sintetico,2026-06-15 16:26:00,loja_exemplo,chocolate premium,doces_e_snacks,1.0,UN,15.32
+S155,sintetico,2026-06-18 11:55:00,loja_exemplo,leite condensado,laticinios,1.0,UN,7.34
+S155,sintetico,2026-06-18 11:55:00,loja_exemplo,sacola,utilidades,1.0,UN,0.14
+S155,sintetico,2026-06-18 11:55:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.81
+S155,sintetico,2026-06-18 11:55:00,loja_exemplo,biscoito wafer,doces_e_snacks,1.0,UN,4.29
+S155,sintetico,2026-06-18 11:55:00,loja_exemplo,carne suína,proteina,1.0,UN,23.96
+S155,sintetico,2026-06-18 11:55:00,loja_exemplo,carne moída,proteina,1.0,UN,29.56
+S155,sintetico,2026-06-18 11:55:00,loja_exemplo,leite,laticinios,1.0,UN,5.43
+S155,sintetico,2026-06-18 11:55:00,loja_exemplo,suco,bebidas,1.0,UN,7.67
+S156,sintetico,2026-06-19 15:38:00,loja_exemplo,linguiça,proteina,1.0,UN,20.78
+S156,sintetico,2026-06-19 15:38:00,loja_exemplo,laranja,hortifruti,1.0,UN,6.25
+S156,sintetico,2026-06-19 15:38:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.73
+S156,sintetico,2026-06-19 15:38:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.52
+S156,sintetico,2026-06-19 15:38:00,loja_exemplo,creme de leite,laticinios,1.0,UN,3.81
+S156,sintetico,2026-06-19 15:38:00,loja_exemplo,guardanapo,utilidades,1.0,UN,4.13
+S156,sintetico,2026-06-19 15:38:00,loja_exemplo,atum,mercearia,1.0,UN,10.1
+S156,sintetico,2026-06-19 15:38:00,loja_exemplo,pão de forma,padaria,1.0,UN,9.16
+S156,sintetico,2026-06-19 15:38:00,loja_exemplo,biscoito wafer,doces_e_snacks,1.0,UN,3.7
+S157,sintetico,2026-06-21 11:31:00,loja_exemplo,cream cheese,laticinios,1.0,UN,9.44
+S157,sintetico,2026-06-21 11:31:00,loja_exemplo,pipoca,doces_e_snacks,1.0,UN,5.01
+S157,sintetico,2026-06-21 11:31:00,loja_exemplo,peixe congelado,congelados,1.0,UN,31.38
+S157,sintetico,2026-06-21 11:31:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.31
+S157,sintetico,2026-06-21 11:31:00,loja_exemplo,legumes congelados,congelados,1.0,UN,11.7
+S157,sintetico,2026-06-21 11:31:00,loja_exemplo,morango,hortifruti,1.0,UN,10.38
+S157,sintetico,2026-06-21 11:31:00,loja_exemplo,manteiga,laticinios,1.0,UN,12.72
+S158,sintetico,2026-06-22 16:53:00,loja_exemplo,banana,hortifruti,1.0,UN,6.64
+S158,sintetico,2026-06-22 16:53:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.75
+S158,sintetico,2026-06-22 16:53:00,loja_exemplo,bala,doces_e_snacks,1.0,UN,4.92
+S158,sintetico,2026-06-22 16:53:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.28
+S158,sintetico,2026-06-22 16:53:00,loja_exemplo,pão francês,padaria,1.0,UN,6.88
+S158,sintetico,2026-06-22 16:53:00,loja_exemplo,cream cheese,laticinios,1.0,UN,10.13
+S158,sintetico,2026-06-22 16:53:00,loja_exemplo,creme de leite,laticinios,1.0,UN,4.11
+S158,sintetico,2026-06-22 16:53:00,loja_exemplo,guardanapo,utilidades,1.0,UN,4.84
+S158,sintetico,2026-06-22 16:53:00,loja_exemplo,refrigerante,bebidas,1.0,UN,8.86
+S159,sintetico,2026-06-23 11:13:00,loja_exemplo,sal,mercearia,1.0,UN,2.94
+S159,sintetico,2026-06-23 11:13:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.58
+S159,sintetico,2026-06-23 11:13:00,loja_exemplo,pão francês,padaria,1.0,UN,6.24
+S159,sintetico,2026-06-23 11:13:00,loja_exemplo,leite,laticinios,1.0,UN,5.69
+S159,sintetico,2026-06-23 11:13:00,loja_exemplo,patê de carne,proteina,1.0,UN,7.27
+S159,sintetico,2026-06-23 11:13:00,loja_exemplo,sacola,utilidades,1.0,UN,0.14
+S159,sintetico,2026-06-23 11:13:00,loja_exemplo,ovo,proteina,1.0,UN,13.92
+S160,sintetico,2026-06-28 08:11:00,loja_exemplo,maçã,hortifruti,1.0,UN,9.51
+S160,sintetico,2026-06-28 08:11:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.74
+S160,sintetico,2026-06-28 08:11:00,loja_exemplo,refrigerante,bebidas,1.0,UN,8.94
+S160,sintetico,2026-06-28 08:11:00,loja_exemplo,artigo de higiene,higiene,1.0,UN,12.47
+S160,sintetico,2026-06-28 08:11:00,loja_exemplo,biscoito wafer,doces_e_snacks,1.0,UN,4.18
+S160,sintetico,2026-06-28 08:11:00,loja_exemplo,espumante,bebidas,1.0,UN,47.83
+S161,sintetico,2026-06-29 09:40:00,loja_exemplo,presunto,proteina,1.0,UN,9.33
+S161,sintetico,2026-06-29 09:40:00,loja_exemplo,conserva,mercearia,1.0,UN,8.65
+S161,sintetico,2026-06-29 09:40:00,loja_exemplo,jornal,outro,1.0,UN,4.82
+S161,sintetico,2026-06-29 09:40:00,loja_exemplo,salgadinho,doces_e_snacks,1.0,UN,8.64
+S161,sintetico,2026-06-29 09:40:00,loja_exemplo,leite fermentado,laticinios,1.0,UN,7.52
+S161,sintetico,2026-06-29 09:40:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.53
+S161,sintetico,2026-06-29 09:40:00,loja_exemplo,creme de leite,laticinios,1.0,UN,3.93
+S162,sintetico,2026-06-29 17:13:00,loja_exemplo,maçã,hortifruti,1.0,UN,9.55
+S162,sintetico,2026-06-29 17:13:00,loja_exemplo,morango,hortifruti,1.0,UN,10.54
+S162,sintetico,2026-06-29 17:13:00,loja_exemplo,cerveja lata,bebidas,1.0,UN,4.22
+S162,sintetico,2026-06-29 17:13:00,loja_exemplo,ovo,proteina,1.0,UN,12.95
+S162,sintetico,2026-06-29 17:13:00,loja_exemplo,creme de leite,laticinios,1.0,UN,3.77
+S162,sintetico,2026-06-29 17:13:00,loja_exemplo,lava-louças,limpeza,1.0,UN,5.1
+S163,sintetico,2026-07-02 13:57:00,loja_exemplo,linguiça,proteina,1.0,UN,20.8
+S163,sintetico,2026-07-02 13:57:00,loja_exemplo,leite,laticinios,1.0,UN,5.24
+S163,sintetico,2026-07-02 13:57:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,6.39
+S163,sintetico,2026-07-02 13:57:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.53
+S163,sintetico,2026-07-02 13:57:00,loja_exemplo,carne bovina,proteina,1.0,UN,42.12
+S164,sintetico,2026-07-03 17:33:00,loja_exemplo,laranja,hortifruti,1.0,UN,5.73
+S164,sintetico,2026-07-03 17:33:00,loja_exemplo,cebola,hortifruti,1.0,UN,4.17
+S164,sintetico,2026-07-03 17:33:00,loja_exemplo,suco,bebidas,1.0,UN,8.46
+S164,sintetico,2026-07-03 17:33:00,loja_exemplo,detergente,limpeza,1.0,UN,2.7
+S164,sintetico,2026-07-03 17:33:00,loja_exemplo,leite,laticinios,1.0,UN,5.59
+S164,sintetico,2026-07-03 17:33:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.36
+S165,sintetico,2026-07-06 11:06:00,loja_exemplo,salsicha,proteina,1.0,UN,12.13
+S165,sintetico,2026-07-06 11:06:00,loja_exemplo,água mineral,bebidas,1.0,UN,3.12
+S165,sintetico,2026-07-06 11:06:00,loja_exemplo,carne bovina,proteina,1.0,UN,42.7
+S165,sintetico,2026-07-06 11:06:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.23
+S165,sintetico,2026-07-06 11:06:00,loja_exemplo,bebida variada,bebidas,1.0,UN,6.92
+S166,sintetico,2026-07-14 16:58:00,loja_exemplo,sobremesa pronta,doces_e_snacks,1.0,UN,6.35
+S166,sintetico,2026-07-14 16:58:00,loja_exemplo,carne moída,proteina,1.0,UN,30.03
+S166,sintetico,2026-07-14 16:58:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.34
+S166,sintetico,2026-07-14 16:58:00,loja_exemplo,manteiga,laticinios,1.0,UN,13.66
+S166,sintetico,2026-07-14 16:58:00,loja_exemplo,banana,hortifruti,1.0,UN,7.27
+S166,sintetico,2026-07-14 16:58:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.25
+S166,sintetico,2026-07-14 16:58:00,loja_exemplo,margarina,laticinios,1.0,UN,7.97
+S167,sintetico,2026-07-20 13:36:00,loja_exemplo,laranja,hortifruti,1.0,UN,5.74
+S167,sintetico,2026-07-20 13:36:00,loja_exemplo,chocolate,doces_e_snacks,1.0,UN,6.99
+S167,sintetico,2026-07-20 13:36:00,loja_exemplo,bala,doces_e_snacks,1.0,UN,4.99
+S167,sintetico,2026-07-20 13:36:00,loja_exemplo,pão de hot dog,padaria,1.0,UN,7.08
+S167,sintetico,2026-07-20 13:36:00,loja_exemplo,legumes congelados,congelados,1.0,UN,11.7
+S167,sintetico,2026-07-20 13:36:00,loja_exemplo,linguiça,proteina,1.0,UN,20.81
+S167,sintetico,2026-07-20 13:36:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,6.39
+S167,sintetico,2026-07-20 13:36:00,loja_exemplo,leite,laticinios,1.0,UN,5.27
+S168,sintetico,2026-07-20 17:35:00,loja_exemplo,manteiga,laticinios,1.0,UN,13.48
+S168,sintetico,2026-07-20 17:35:00,loja_exemplo,morango,hortifruti,1.0,UN,10.27
+S168,sintetico,2026-07-20 17:35:00,loja_exemplo,cereal matinal,mercearia,1.0,UN,14.96
+S168,sintetico,2026-07-20 17:35:00,loja_exemplo,maçã,hortifruti,1.0,UN,9.49
+S168,sintetico,2026-07-20 17:35:00,loja_exemplo,mostarda,mercearia,1.0,UN,6.27
+S168,sintetico,2026-07-20 17:35:00,loja_exemplo,leite,laticinios,1.0,UN,5.89
+S168,sintetico,2026-07-20 17:35:00,loja_exemplo,banana,hortifruti,1.0,UN,7.24
+S168,sintetico,2026-07-20 17:35:00,loja_exemplo,cerveja lata,bebidas,1.0,UN,4.58
+S168,sintetico,2026-07-20 17:35:00,loja_exemplo,artigo de higiene,higiene,1.0,UN,13.9
+S169,sintetico,2026-07-26 08:34:00,loja_exemplo,banana,hortifruti,1.0,UN,6.82
+S169,sintetico,2026-07-26 08:34:00,loja_exemplo,sacola,utilidades,1.0,UN,0.15
+S169,sintetico,2026-07-26 08:34:00,loja_exemplo,bebida variada,bebidas,1.0,UN,6.96
+S169,sintetico,2026-07-26 08:34:00,loja_exemplo,leite,laticinios,1.0,UN,5.92
+S169,sintetico,2026-07-26 08:34:00,loja_exemplo,leite fermentado,laticinios,1.0,UN,7.47
+S169,sintetico,2026-07-26 08:34:00,loja_exemplo,suco,bebidas,1.0,UN,7.88
+S169,sintetico,2026-07-26 08:34:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.88
+S169,sintetico,2026-07-26 08:34:00,loja_exemplo,laranja,hortifruti,1.0,UN,5.78
+S170,sintetico,2026-08-02 13:48:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.31
+S170,sintetico,2026-08-02 13:48:00,loja_exemplo,creme de leite,laticinios,1.0,UN,3.92
+S170,sintetico,2026-08-02 13:48:00,loja_exemplo,café,mercearia,1.0,UN,20.35
+S170,sintetico,2026-08-02 13:48:00,loja_exemplo,pão francês,padaria,1.0,UN,6.9
+S170,sintetico,2026-08-02 13:48:00,loja_exemplo,sacola,utilidades,1.0,UN,0.15
+S171,sintetico,2026-08-03 09:55:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.77
+S171,sintetico,2026-08-03 09:55:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.86
+S171,sintetico,2026-08-03 09:55:00,loja_exemplo,maçã,hortifruti,1.0,UN,10.16
+S171,sintetico,2026-08-03 09:55:00,loja_exemplo,leite,laticinios,1.0,UN,5.63
+S171,sintetico,2026-08-03 09:55:00,loja_exemplo,margarina,laticinios,1.0,UN,8.94
+S171,sintetico,2026-08-03 09:55:00,loja_exemplo,carne bovina,proteina,1.0,UN,36.86
+S171,sintetico,2026-08-03 09:55:00,loja_exemplo,detergente,limpeza,1.0,UN,2.67
+S171,sintetico,2026-08-03 09:55:00,loja_exemplo,pão de hot dog,padaria,1.0,UN,7.23
+S171,sintetico,2026-08-03 09:55:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,6.05
+S171,sintetico,2026-08-03 09:55:00,loja_exemplo,refrigerante,bebidas,1.0,UN,8.98
+S171,sintetico,2026-08-03 09:55:00,loja_exemplo,jornal,outro,1.0,UN,4.64
+S172,sintetico,2026-08-05 15:52:00,loja_exemplo,leite longa vida,laticinios,1.0,UN,4.87
+S172,sintetico,2026-08-05 15:52:00,loja_exemplo,creme de leite,laticinios,1.0,UN,4.22
+S172,sintetico,2026-08-05 15:52:00,loja_exemplo,pêssego em calda,mercearia,1.0,UN,11.93
+S172,sintetico,2026-08-05 15:52:00,loja_exemplo,pão integral,padaria,1.0,UN,9.82
+S172,sintetico,2026-08-05 15:52:00,loja_exemplo,detergente,limpeza,1.0,UN,2.99
+S172,sintetico,2026-08-05 15:52:00,loja_exemplo,jornal,outro,1.0,UN,4.64
+S172,sintetico,2026-08-05 15:52:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.26
+S172,sintetico,2026-08-05 15:52:00,loja_exemplo,ketchup,mercearia,1.0,UN,7.68
+S173,sintetico,2026-08-06 15:21:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.42
+S173,sintetico,2026-08-06 15:21:00,loja_exemplo,água mineral,bebidas,1.0,UN,3.11
+S173,sintetico,2026-08-06 15:21:00,loja_exemplo,cenoura,hortifruti,1.0,UN,5.3
+S173,sintetico,2026-08-06 15:21:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.16
+S173,sintetico,2026-08-06 15:21:00,loja_exemplo,carne bovina,proteina,1.0,UN,40.1
+S173,sintetico,2026-08-06 15:21:00,loja_exemplo,café,mercearia,1.0,UN,19.74
+S174,sintetico,2026-08-09 19:49:00,loja_exemplo,refrigerante,bebidas,1.0,UN,8.62
+S174,sintetico,2026-08-09 19:49:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.52
+S174,sintetico,2026-08-09 19:49:00,loja_exemplo,salgado folhado,padaria,1.0,UN,6.93
+S174,sintetico,2026-08-09 19:49:00,loja_exemplo,pão francês,padaria,1.0,UN,6.98
+S174,sintetico,2026-08-09 19:49:00,loja_exemplo,carne suína,proteina,1.0,UN,25.74
+S174,sintetico,2026-08-09 19:49:00,loja_exemplo,sorvete,congelados,1.0,UN,23.4
+S175,sintetico,2026-08-11 20:57:00,loja_exemplo,maçã,hortifruti,1.0,UN,10.38
+S175,sintetico,2026-08-11 20:57:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.04
+S175,sintetico,2026-08-11 20:57:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.27
+S175,sintetico,2026-08-11 20:57:00,loja_exemplo,uva,hortifruti,1.0,UN,11.89
+S175,sintetico,2026-08-11 20:57:00,loja_exemplo,leite,laticinios,1.0,UN,5.61
+S175,sintetico,2026-08-11 20:57:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.14
+S176,sintetico,2026-08-13 18:53:00,loja_exemplo,pão francês,padaria,1.0,UN,6.9
+S176,sintetico,2026-08-13 18:53:00,loja_exemplo,banana,hortifruti,1.0,UN,7.34
+S176,sintetico,2026-08-13 18:53:00,loja_exemplo,sal,mercearia,1.0,UN,2.92
+S176,sintetico,2026-08-13 18:53:00,loja_exemplo,manteiga,laticinios,1.0,UN,13.15
+S176,sintetico,2026-08-13 18:53:00,loja_exemplo,leite,laticinios,1.0,UN,5.17
+S176,sintetico,2026-08-13 18:53:00,loja_exemplo,milho verde,mercearia,1.0,UN,4.83
+S176,sintetico,2026-08-13 18:53:00,loja_exemplo,ovo,proteina,1.0,UN,14.89
+S176,sintetico,2026-08-13 18:53:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.58
+S176,sintetico,2026-08-13 18:53:00,loja_exemplo,sacola,utilidades,1.0,UN,0.15
+S176,sintetico,2026-08-13 18:53:00,loja_exemplo,cerveja lata,bebidas,1.0,UN,4.06
+S176,sintetico,2026-08-13 18:53:00,loja_exemplo,pão de forma,padaria,1.0,UN,8.1
+S177,sintetico,2026-08-25 15:39:00,loja_exemplo,frango,proteina,1.0,UN,16.73
+S177,sintetico,2026-08-25 15:39:00,loja_exemplo,prato pronto,refeicao_fora,1.0,UN,23.39
+S177,sintetico,2026-08-25 15:39:00,loja_exemplo,pão francês,padaria,1.0,UN,6.05
+S177,sintetico,2026-08-25 15:39:00,loja_exemplo,manteiga,laticinios,1.0,UN,14.01
+S177,sintetico,2026-08-25 15:39:00,loja_exemplo,cheiro-verde,hortifruti,1.0,UN,2.79
+S177,sintetico,2026-08-25 15:39:00,loja_exemplo,pão de forma,padaria,1.0,UN,7.99
+S177,sintetico,2026-08-25 15:39:00,loja_exemplo,requeijão,laticinios,1.0,UN,9.46
+S177,sintetico,2026-08-25 15:39:00,loja_exemplo,ração de cachorro,outro,1.0,UN,30.28
+S177,sintetico,2026-08-25 15:39:00,loja_exemplo,batata congelada,congelados,1.0,UN,19.73
+S177,sintetico,2026-08-25 15:39:00,loja_exemplo,cebola,hortifruti,1.0,UN,4.58
+S177,sintetico,2026-08-25 15:39:00,loja_exemplo,banana,hortifruti,1.0,UN,7.42
+S177,sintetico,2026-08-25 15:39:00,loja_exemplo,sacola,utilidades,1.0,UN,0.15
+S177,sintetico,2026-08-25 15:39:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.93
+S178,sintetico,2026-09-08 14:36:00,loja_exemplo,carne moída,proteina,1.0,UN,30.92
+S178,sintetico,2026-09-08 14:36:00,loja_exemplo,manteiga,laticinios,1.0,UN,12.88
+S178,sintetico,2026-09-08 14:36:00,loja_exemplo,cheiro-verde,hortifruti,1.0,UN,2.92
+S178,sintetico,2026-09-08 14:36:00,loja_exemplo,cerveja lata,bebidas,1.0,UN,4.27
+S178,sintetico,2026-09-08 14:36:00,loja_exemplo,salsicha,proteina,1.0,UN,12.22
+S178,sintetico,2026-09-08 14:36:00,loja_exemplo,ketchup,mercearia,1.0,UN,8.37
+S179,sintetico,2026-09-20 16:31:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.13
+S179,sintetico,2026-09-20 16:31:00,loja_exemplo,ovo,proteina,1.0,UN,13.21
+S179,sintetico,2026-09-20 16:31:00,loja_exemplo,artigo de higiene,higiene,1.0,UN,12.38
+S179,sintetico,2026-09-20 16:31:00,loja_exemplo,sobremesa pronta,doces_e_snacks,1.0,UN,6.32
+S179,sintetico,2026-09-20 16:31:00,loja_exemplo,cerveja lata,bebidas,1.0,UN,4.17
+S179,sintetico,2026-09-20 16:31:00,loja_exemplo,suco,bebidas,1.0,UN,8.23
+S180,sintetico,2026-09-22 13:48:00,loja_exemplo,cebola,hortifruti,1.0,UN,4.75
+S180,sintetico,2026-09-22 13:48:00,loja_exemplo,vinagre,mercearia,1.0,UN,3.25
+S180,sintetico,2026-09-22 13:48:00,loja_exemplo,linguiça,proteina,1.0,UN,20.74
+S180,sintetico,2026-09-22 13:48:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.29
+S180,sintetico,2026-09-22 13:48:00,loja_exemplo,leite,laticinios,1.0,UN,5.24
+S180,sintetico,2026-09-22 13:48:00,loja_exemplo,chocolate premium,doces_e_snacks,1.0,UN,15.35
+S181,sintetico,2026-09-23 15:41:00,loja_exemplo,pão francês,padaria,1.0,UN,6.93
+S181,sintetico,2026-09-23 15:41:00,loja_exemplo,produto sazonal,outro,1.0,UN,19.25
+S181,sintetico,2026-09-23 15:41:00,loja_exemplo,margarina,laticinios,1.0,UN,8.58
+S181,sintetico,2026-09-23 15:41:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,5.79
+S181,sintetico,2026-09-23 15:41:00,loja_exemplo,leite,laticinios,1.0,UN,5.54
+S181,sintetico,2026-09-23 15:41:00,loja_exemplo,refeição congelada,congelados,1.0,UN,17.23
+S181,sintetico,2026-09-23 15:41:00,loja_exemplo,geleia,mercearia,1.0,UN,13.13
+S182,sintetico,2026-09-24 11:20:00,loja_exemplo,jornal,outro,1.0,UN,5.1
+S182,sintetico,2026-09-24 11:20:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.06
+S182,sintetico,2026-09-24 11:20:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.18
+S182,sintetico,2026-09-24 11:20:00,loja_exemplo,leite,laticinios,1.0,UN,5.64
+S182,sintetico,2026-09-24 11:20:00,loja_exemplo,cenoura,hortifruti,1.0,UN,5.14
+S183,sintetico,2026-09-30 14:47:00,loja_exemplo,pipoca,doces_e_snacks,1.0,UN,4.65
+S183,sintetico,2026-09-30 14:47:00,loja_exemplo,prato descartável,utilidades,1.0,UN,9.82
+S183,sintetico,2026-09-30 14:47:00,loja_exemplo,leite,laticinios,1.0,UN,5.41
+S183,sintetico,2026-09-30 14:47:00,loja_exemplo,vinho tinto,bebidas,1.0,UN,37.26
+S183,sintetico,2026-09-30 14:47:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.5
+S183,sintetico,2026-09-30 14:47:00,loja_exemplo,refeição congelada,congelados,1.0,UN,16.74
+S183,sintetico,2026-09-30 14:47:00,loja_exemplo,prato pronto,refeicao_fora,1.0,UN,25.87
+S183,sintetico,2026-09-30 14:47:00,loja_exemplo,chocolate,doces_e_snacks,1.0,UN,6.7
+S183,sintetico,2026-09-30 14:47:00,loja_exemplo,salada pronta,hortifruti,1.0,UN,8.41
+S183,sintetico,2026-09-30 14:47:00,loja_exemplo,guardanapo,utilidades,1.0,UN,4.52
+S183,sintetico,2026-09-30 14:47:00,loja_exemplo,salgadinho,doces_e_snacks,1.0,UN,9.36
+S184,sintetico,2026-09-30 15:26:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.97
+S184,sintetico,2026-09-30 15:26:00,loja_exemplo,pão pré-assado,padaria,1.0,UN,7.99
+S184,sintetico,2026-09-30 15:26:00,loja_exemplo,leite,laticinios,1.0,UN,5.6
+S184,sintetico,2026-09-30 15:26:00,loja_exemplo,sacola,utilidades,1.0,UN,0.16
+S184,sintetico,2026-09-30 15:26:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.48
+S184,sintetico,2026-09-30 15:26:00,loja_exemplo,banana,hortifruti,1.0,UN,7.02
+S184,sintetico,2026-09-30 15:26:00,loja_exemplo,bolinho,doces_e_snacks,1.0,UN,3.04
+S185,sintetico,2026-10-04 10:49:00,loja_exemplo,carne suína,proteina,1.0,UN,25.85
+S185,sintetico,2026-10-04 10:49:00,loja_exemplo,leite,laticinios,1.0,UN,5.11
+S185,sintetico,2026-10-04 10:49:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.01
+S185,sintetico,2026-10-04 10:49:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.87
+S185,sintetico,2026-10-04 10:49:00,loja_exemplo,carne bovina,proteina,1.0,UN,42.59
+S186,sintetico,2026-10-04 13:33:00,loja_exemplo,leite fermentado,laticinios,1.0,UN,7.98
+S186,sintetico,2026-10-04 13:33:00,loja_exemplo,tempero,mercearia,1.0,UN,4.96
+S186,sintetico,2026-10-04 13:33:00,loja_exemplo,leite,laticinios,1.0,UN,5.9
+S186,sintetico,2026-10-04 13:33:00,loja_exemplo,sorvete,congelados,1.0,UN,22.72
+S186,sintetico,2026-10-04 13:33:00,loja_exemplo,sobremesa pronta,doces_e_snacks,1.0,UN,5.68
+S186,sintetico,2026-10-04 13:33:00,loja_exemplo,banana,hortifruti,1.0,UN,6.67
+S187,sintetico,2026-10-04 16:11:00,loja_exemplo,pão francês,padaria,1.0,UN,6.08
+S187,sintetico,2026-10-04 16:11:00,loja_exemplo,uva,hortifruti,1.0,UN,11.03
+S187,sintetico,2026-10-04 16:11:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.24
+S187,sintetico,2026-10-04 16:11:00,loja_exemplo,leite,laticinios,1.0,UN,5.73
+S187,sintetico,2026-10-04 16:11:00,loja_exemplo,peixe,proteina,1.0,UN,41.39
+S187,sintetico,2026-10-04 16:11:00,loja_exemplo,conserva,mercearia,1.0,UN,8.32
+S187,sintetico,2026-10-04 16:11:00,loja_exemplo,queijo parmesão,laticinios,1.0,UN,16.08
+S187,sintetico,2026-10-04 16:11:00,loja_exemplo,maçã,hortifruti,1.0,UN,9.44
+S187,sintetico,2026-10-04 16:11:00,loja_exemplo,chocolate premium,doces_e_snacks,1.0,UN,15.95
+S187,sintetico,2026-10-04 16:11:00,loja_exemplo,aperitivo,bebidas,1.0,UN,33.04
+S187,sintetico,2026-10-04 16:11:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.17
+S188,sintetico,2026-10-11 20:44:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.29
+S188,sintetico,2026-10-11 20:44:00,loja_exemplo,suco,bebidas,1.0,UN,8.17
+S188,sintetico,2026-10-11 20:44:00,loja_exemplo,carne suína,proteina,1.0,UN,24.55
+S188,sintetico,2026-10-11 20:44:00,loja_exemplo,atum,mercearia,1.0,UN,10.41
+S188,sintetico,2026-10-11 20:44:00,loja_exemplo,banana,hortifruti,1.0,UN,6.69
+S188,sintetico,2026-10-11 20:44:00,loja_exemplo,linguiça,proteina,1.0,UN,21.19
+S188,sintetico,2026-10-11 20:44:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.99
+S188,sintetico,2026-10-11 20:44:00,loja_exemplo,queijo cremoso,laticinios,1.0,UN,7.8
+S189,sintetico,2026-10-12 19:50:00,loja_exemplo,água mineral,bebidas,1.0,UN,3.16
+S189,sintetico,2026-10-12 19:50:00,loja_exemplo,salgado folhado,padaria,1.0,UN,8.1
+S189,sintetico,2026-10-12 19:50:00,loja_exemplo,açúcar,mercearia,1.0,UN,4.77
+S189,sintetico,2026-10-12 19:50:00,loja_exemplo,bala,doces_e_snacks,1.0,UN,4.82
+S189,sintetico,2026-10-12 19:50:00,loja_exemplo,coalhada,laticinios,1.0,UN,6.23
+S189,sintetico,2026-10-12 19:50:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,5.76
+S189,sintetico,2026-10-12 19:50:00,loja_exemplo,carne moída,proteina,1.0,UN,30.29
+S189,sintetico,2026-10-12 19:50:00,loja_exemplo,creme de avelã,doces_e_snacks,1.0,UN,18.23
+S190,sintetico,2026-10-13 18:55:00,loja_exemplo,salgado folhado,padaria,1.0,UN,8.09
+S190,sintetico,2026-10-13 18:55:00,loja_exemplo,cream cheese,laticinios,1.0,UN,9.94
+S190,sintetico,2026-10-13 18:55:00,loja_exemplo,planta,outro,1.0,UN,25.45
+S190,sintetico,2026-10-13 18:55:00,loja_exemplo,aperitivo,bebidas,1.0,UN,36.91
+S190,sintetico,2026-10-13 18:55:00,loja_exemplo,sobremesa pronta,doces_e_snacks,1.0,UN,6.4
+S190,sintetico,2026-10-13 18:55:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.48
+S191,sintetico,2026-10-14 10:55:00,loja_exemplo,leite,laticinios,1.0,UN,5.52
+S191,sintetico,2026-10-14 10:55:00,loja_exemplo,ovo,proteina,1.0,UN,14.74
+S191,sintetico,2026-10-14 10:55:00,loja_exemplo,cenoura,hortifruti,1.0,UN,4.83
+S191,sintetico,2026-10-14 10:55:00,loja_exemplo,cebola,hortifruti,1.0,UN,4.45
+S191,sintetico,2026-10-14 10:55:00,loja_exemplo,legumes congelados,congelados,1.0,UN,12.82
+S191,sintetico,2026-10-14 10:55:00,loja_exemplo,vinho tinto,bebidas,1.0,UN,43.0
+S192,sintetico,2026-10-15 13:55:00,loja_exemplo,maçã,hortifruti,1.0,UN,10.64
+S192,sintetico,2026-10-15 13:55:00,loja_exemplo,banana,hortifruti,1.0,UN,7.32
+S192,sintetico,2026-10-15 13:55:00,loja_exemplo,linguiça,proteina,1.0,UN,19.16
+S192,sintetico,2026-10-15 13:55:00,loja_exemplo,leite,laticinios,1.0,UN,5.33
+S192,sintetico,2026-10-15 13:55:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,8.97
+S192,sintetico,2026-10-15 13:55:00,loja_exemplo,guardanapo,utilidades,1.0,UN,4.53
+S193,sintetico,2026-10-19 10:01:00,loja_exemplo,sorvete,congelados,1.0,UN,22.92
+S193,sintetico,2026-10-19 10:01:00,loja_exemplo,leite,laticinios,1.0,UN,5.61
+S193,sintetico,2026-10-19 10:01:00,loja_exemplo,banana,hortifruti,1.0,UN,6.89
+S193,sintetico,2026-10-19 10:01:00,loja_exemplo,cream cheese,laticinios,1.0,UN,10.29
+S193,sintetico,2026-10-19 10:01:00,loja_exemplo,sacola,utilidades,1.0,UN,0.15
+S193,sintetico,2026-10-19 10:01:00,loja_exemplo,pão francês,padaria,1.0,UN,6.32
+S194,sintetico,2026-10-20 13:50:00,loja_exemplo,cerveja lata,bebidas,1.0,UN,4.03
+S194,sintetico,2026-10-20 13:50:00,loja_exemplo,leite longa vida,laticinios,1.0,UN,4.74
+S194,sintetico,2026-10-20 13:50:00,loja_exemplo,cenoura,hortifruti,1.0,UN,5.27
+S194,sintetico,2026-10-20 13:50:00,loja_exemplo,leite,laticinios,1.0,UN,5.44
+S194,sintetico,2026-10-20 13:50:00,loja_exemplo,presunto,proteina,1.0,UN,8.51
+S194,sintetico,2026-10-20 13:50:00,loja_exemplo,milho verde,mercearia,1.0,UN,4.68
+S195,sintetico,2026-10-20 18:39:00,loja_exemplo,leite,laticinios,1.0,UN,5.54
+S195,sintetico,2026-10-20 18:39:00,loja_exemplo,salgadinho,doces_e_snacks,1.0,UN,8.3
+S195,sintetico,2026-10-20 18:39:00,loja_exemplo,margarina,laticinios,1.0,UN,8.24
+S195,sintetico,2026-10-20 18:39:00,loja_exemplo,carne bovina,proteina,1.0,UN,37.84
+S195,sintetico,2026-10-20 18:39:00,loja_exemplo,chá gelado,bebidas,1.0,UN,6.65
+S195,sintetico,2026-10-20 18:39:00,loja_exemplo,salada pronta,hortifruti,1.0,UN,7.7
+S195,sintetico,2026-10-20 18:39:00,loja_exemplo,sacola,utilidades,1.0,UN,0.14
+S195,sintetico,2026-10-20 18:39:00,loja_exemplo,leite fermentado,laticinios,1.0,UN,7.42
+S196,sintetico,2026-10-21 09:12:00,loja_exemplo,suco,bebidas,1.0,UN,8.09
+S196,sintetico,2026-10-21 09:12:00,loja_exemplo,ração de gato,outro,1.0,UN,22.99
+S196,sintetico,2026-10-21 09:12:00,loja_exemplo,torrada,padaria,1.0,UN,6.85
+S196,sintetico,2026-10-21 09:12:00,loja_exemplo,sobremesa congelada,congelados,1.0,UN,14.08
+S196,sintetico,2026-10-21 09:12:00,loja_exemplo,sacola,utilidades,1.0,UN,0.15
+S196,sintetico,2026-10-21 09:12:00,loja_exemplo,cerveja lata,bebidas,1.0,UN,4.25
+S196,sintetico,2026-10-21 09:12:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.25
+S196,sintetico,2026-10-21 09:12:00,loja_exemplo,frango,proteina,1.0,UN,16.67
+S196,sintetico,2026-10-21 09:12:00,loja_exemplo,água mineral,bebidas,1.0,UN,3.13
+S196,sintetico,2026-10-21 09:12:00,loja_exemplo,leite,laticinios,1.0,UN,5.84
+S196,sintetico,2026-10-21 09:12:00,loja_exemplo,farinha de trigo,mercearia,1.0,UN,5.52
+S196,sintetico,2026-10-21 09:12:00,loja_exemplo,detergente,limpeza,1.0,UN,2.65
+S197,sintetico,2026-10-25 13:04:00,loja_exemplo,pão francês,padaria,1.0,UN,6.92
+S197,sintetico,2026-10-25 13:04:00,loja_exemplo,ovo,proteina,1.0,UN,14.1
+S197,sintetico,2026-10-25 13:04:00,loja_exemplo,água mineral,bebidas,1.0,UN,2.82
+S197,sintetico,2026-10-25 13:04:00,loja_exemplo,castanha,doces_e_snacks,1.0,UN,18.95
+S197,sintetico,2026-10-25 13:04:00,loja_exemplo,refrigerante,bebidas,1.0,UN,9.22
+S197,sintetico,2026-10-25 13:04:00,loja_exemplo,morango,hortifruti,1.0,UN,10.35
+S198,sintetico,2026-10-26 14:50:00,loja_exemplo,linguiça,proteina,1.0,UN,20.22
+S198,sintetico,2026-10-26 14:50:00,loja_exemplo,água mineral,bebidas,1.0,UN,3.21
+S198,sintetico,2026-10-26 14:50:00,loja_exemplo,chá gelado,bebidas,1.0,UN,6.48
+S198,sintetico,2026-10-26 14:50:00,loja_exemplo,queijo parmesão,laticinios,1.0,UN,15.39
+S198,sintetico,2026-10-26 14:50:00,loja_exemplo,cheiro-verde,hortifruti,1.0,UN,2.98
+S198,sintetico,2026-10-26 14:50:00,loja_exemplo,açúcar,mercearia,1.0,UN,4.88
+S198,sintetico,2026-10-26 14:50:00,loja_exemplo,cerveja lata,bebidas,1.0,UN,4.1
+S198,sintetico,2026-10-26 14:50:00,loja_exemplo,sorvete,congelados,1.0,UN,21.24
+S198,sintetico,2026-10-26 14:50:00,loja_exemplo,jornal,outro,1.0,UN,4.88
+S198,sintetico,2026-10-26 14:50:00,loja_exemplo,salgado folhado,padaria,1.0,UN,7.75
+S198,sintetico,2026-10-26 14:50:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,5.53
+S199,sintetico,2026-11-07 13:26:00,loja_exemplo,carne bovina,proteina,1.0,UN,39.51
+S199,sintetico,2026-11-07 13:26:00,loja_exemplo,maionese,mercearia,1.0,UN,9.2
+S199,sintetico,2026-11-07 13:26:00,loja_exemplo,legumes variados,hortifruti,1.0,UN,9.06
+S199,sintetico,2026-11-07 13:26:00,loja_exemplo,pão francês,padaria,1.0,UN,6.79
+S199,sintetico,2026-11-07 13:26:00,loja_exemplo,cerveja long neck,bebidas,1.0,UN,6.29
+S199,sintetico,2026-11-07 13:26:00,loja_exemplo,bolo pronto,padaria,1.0,UN,9.81
+S199,sintetico,2026-11-07 13:26:00,loja_exemplo,vinagre,mercearia,1.0,UN,3.27
+S199,sintetico,2026-11-07 13:26:00,loja_exemplo,planta,outro,1.0,UN,24.8
+S200,sintetico,2026-11-14 09:17:00,loja_exemplo,iogurte,laticinios,1.0,UN,4.36
+S200,sintetico,2026-11-14 09:17:00,loja_exemplo,pão francês,padaria,1.0,UN,6.24
+S200,sintetico,2026-11-14 09:17:00,loja_exemplo,salsicha,proteina,1.0,UN,11.96
+S200,sintetico,2026-11-14 09:17:00,loja_exemplo,salgadinho,doces_e_snacks,1.0,UN,8.59
+S200,sintetico,2026-11-14 09:17:00,loja_exemplo,produto de limpeza,limpeza,1.0,UN,9.83
+S200,sintetico,2026-11-14 09:17:00,loja_exemplo,leite,laticinios,1.0,UN,5.41
+S200,sintetico,2026-11-14 09:17:00,loja_exemplo,biscoito wafer,doces_e_snacks,1.0,UN,3.78

@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[oc]
+.venv
+.pytest_cache/
+
+# Segredos e dados pessoais (nunca versionar): chaves de NFC-e têm o CNPJ da loja,
+# as notas salvas têm CPF parcial, endereço e o histórico de compras bruto.
+.env
+data/
+outputs/

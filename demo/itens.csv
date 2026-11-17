@@ -1,0 +1,320 @@
+compra,fonte,emissao,loja,produto_padrao,categoria_padrao,quantidade,unidade,valor_total
+C001,kaggle,2024-02-03,loja_?,limão,hortifruti,0.164,KG,0.82
+C001,kaggle,2024-02-03,loja_?,banana,hortifruti,1.816,KG,14.51
+C001,kaggle,2024-02-03,loja_?,jiló,hortifruti,0.18,KG,1.44
+C001,kaggle,2024-02-03,loja_?,limão,hortifruti,0.168,KG,0.84
+C001,kaggle,2024-02-03,loja_?,maçã,hortifruti,0.542,KG,10.29
+C001,kaggle,2024-02-03,loja_?,diversos,outro,1.0,UN,6.55
+C002,kaggle,2024-02-08,loja_?,refrigerante,bebidas,1.0,UN,6.0
+C002,kaggle,2024-02-08,loja_?,hot dog,refeicao_fora,1.0,UN,19.0
+C002,kaggle,2024-02-08,loja_?,hot dog,refeicao_fora,1.0,UN,16.0
+C002,kaggle,2024-02-08,loja_?,bacon,refeicao_fora,1.0,UN,5.0
+C003,kaggle,2024-07-02,loja_?,quiche,refeicao_fora,1.0,UN,12.0
+C004,kaggle,2024-10-14,loja_?,abobrinha,hortifruti,0.992,KG,4.95
+C004,kaggle,2024-10-14,loja_?,mamão,hortifruti,1.0,UN,12.0
+C004,kaggle,2024-10-14,loja_?,tomate,hortifruti,0.41,KG,2.87
+C004,kaggle,2024-10-14,loja_?,banana,hortifruti,1.2,KG,8.39
+C005,kaggle,2025-02-07,loja_?,banana,hortifruti,1.086,KG,7.59
+C005,kaggle,2025-02-07,loja_?,mamão,hortifruti,0.92,KG,7.81
+C005,kaggle,2025-02-07,loja_?,abobrinha,hortifruti,0.898,KG,6.28
+C006,kaggle,2025-02-13,loja_?,banana,hortifruti,1.404,KG,9.81
+C006,kaggle,2025-02-13,loja_?,chuchu,hortifruti,0.514,KG,2.82
+C006,kaggle,2025-02-13,loja_?,pepino,hortifruti,0.316,KG,1.89
+C006,kaggle,2025-02-13,loja_?,tomate,hortifruti,0.336,KG,2.01
+C006,kaggle,2025-02-13,loja_?,alface,hortifruti,1.0,UN,2.49
+C006,kaggle,2025-02-13,loja_?,cenoura,hortifruti,0.45,KG,3.15
+C006,kaggle,2025-02-13,loja_?,couve-flor,hortifruti,1.0,UN,9.99
+C006,kaggle,2025-02-13,loja_?,banana,hortifruti,1.04,KG,7.27
+C006,kaggle,2025-02-13,loja_?,maçã,hortifruti,0.876,KG,9.63
+C006,kaggle,2025-02-13,loja_?,mamão,hortifruti,1.328,KG,13.27
+C007,kaggle,2025-02-15,loja_?,repolho,hortifruti,0.902,KG,3.6
+C007,kaggle,2025-02-15,loja_?,pimentão,hortifruti,0.47,KG,6.11
+C007,kaggle,2025-02-15,loja_?,chuchu,hortifruti,0.666,KG,3.66
+C007,kaggle,2025-02-15,loja_?,banana,hortifruti,3.118,KG,21.79
+C007,kaggle,2025-02-15,loja_?,hortifruti,hortifruti,1.964,KG,3.91
+C007,kaggle,2025-02-15,loja_?,hortifruti,hortifruti,0.504,KG,1.0
+C007,kaggle,2025-02-15,loja_?,alface,hortifruti,1.0,UN,2.49
+C007,kaggle,2025-02-15,loja_?,queijo minas,laticinios,1.0,UN,17.99
+C008,kaggle,2025-02-20,loja_?,brócolis,hortifruti,1.0,UN,4.49
+C008,kaggle,2025-02-20,loja_?,brócolis,hortifruti,1.0,UN,4.49
+C008,kaggle,2025-02-20,loja_?,couve-flor,hortifruti,1.0,UN,8.99
+C008,kaggle,2025-02-20,loja_?,mamão,hortifruti,1.778,KG,17.76
+C008,kaggle,2025-02-20,loja_?,banana,hortifruti,1.314,KG,9.18
+C008,kaggle,2025-02-20,loja_?,tomate,hortifruti,0.322,KG,3.54
+C009,kaggle,2025-03-04,loja_?,refrigerante,bebidas,1.0,UN,5.99
+C009,kaggle,2025-03-04,loja_?,abobrinha,hortifruti,0.826,KG,5.77
+C009,kaggle,2025-03-04,loja_?,chuchu,hortifruti,0.892,KG,6.24
+C009,kaggle,2025-03-04,loja_?,pepino,hortifruti,0.226,KG,1.35
+C009,kaggle,2025-03-04,loja_?,batata,hortifruti,1.166,KG,3.49
+C009,kaggle,2025-03-04,loja_?,inhame,hortifruti,0.452,KG,3.16
+C009,kaggle,2025-03-04,loja_?,beterraba,hortifruti,0.16,KG,1.12
+C009,kaggle,2025-03-04,loja_?,maçã,hortifruti,0.73,KG,9.48
+C009,kaggle,2025-03-04,loja_?,alface,hortifruti,1.0,UN,2.49
+C009,kaggle,2025-03-04,loja_?,couve,hortifruti,2.0,UN,5.98
+C009,kaggle,2025-03-04,loja_?,alface,hortifruti,1.0,UN,2.49
+C009,kaggle,2025-03-04,loja_?,alho-poró,hortifruti,1.0,UN,4.49
+C009,kaggle,2025-03-04,loja_?,hortifruti,hortifruti,2.098,KG,4.18
+C009,kaggle,2025-03-04,loja_?,abacate,hortifruti,0.374,KG,2.61
+C009,kaggle,2025-03-04,loja_?,banana,hortifruti,1.0,KG,6.99
+C010,pessoal,2026-02-05,loja_C,batata,hortifruti,0.822,KG,4.1
+C010,pessoal,2026-02-05,loja_C,pepino,hortifruti,0.594,KG,7.12
+C010,pessoal,2026-02-05,loja_C,leite,laticinios,1.0,UN,3.79
+C010,pessoal,2026-02-05,loja_C,queijo mussarela,laticinios,1.0,UN,5.97
+C010,pessoal,2026-02-05,loja_C,café solúvel,mercearia,1.0,UN,8.99
+C010,pessoal,2026-02-05,loja_C,mostarda,mercearia,1.0,UN,5.59
+C010,pessoal,2026-02-05,loja_C,molho shoyo,mercearia,3.0,UN,7.77
+C010,pessoal,2026-02-05,loja_C,pão francês,padaria,0.384,KG,7.14
+C010,pessoal,2026-02-05,loja_C,peito de peru,proteina,0.118,KG,7.54
+C010,pessoal,2026-02-05,loja_C,fraldinha,proteina,1.458,KG,62.68
+C011,pessoal,2026-02-09,loja_C,suco,bebidas,1.0,UN,6.29
+C011,pessoal,2026-02-09,loja_C,wafer de chocolate,doces_e_snacks,1.0,UN,3.29
+C011,pessoal,2026-02-09,loja_C,chocolate,doces_e_snacks,1.0,UN,3.89
+C011,pessoal,2026-02-09,loja_C,chocolate,doces_e_snacks,1.0,UN,3.99
+C011,pessoal,2026-02-09,loja_C,chocolate,doces_e_snacks,1.0,UN,9.79
+C011,pessoal,2026-02-09,loja_C,repolho roxo,hortifruti,1.0,UN,10.49
+C011,pessoal,2026-02-09,loja_C,batata,hortifruti,0.542,KG,2.7
+C011,pessoal,2026-02-09,loja_C,couve,hortifruti,1.0,UN,5.99
+C011,pessoal,2026-02-09,loja_C,macarrão instantâneo,mercearia,1.0,UN,5.49
+C011,pessoal,2026-02-09,loja_C,pão francês,padaria,0.3,KG,5.58
+C011,pessoal,2026-02-09,loja_C,pão francês,padaria,0.36,KG,8.96
+C011,pessoal,2026-02-09,loja_C,salgado folhado,padaria,2.0,UN,15.98
+C011,pessoal,2026-02-09,loja_C,carne bovina,proteina,0.344,KG,21.15
+C012,pessoal,2026-02-24,loja_K,desodorante,higiene,1.0,PC,44.9
+C012,pessoal,2026-02-24,loja_K,sabonete,higiene,1.0,PC,23.9
+C012,pessoal,2026-02-24,loja_K,shampoo,higiene,1.0,PC,25.9
+C012,pessoal,2026-02-24,loja_K,máscara capilar,higiene,1.0,PC,67.9
+C012,pessoal,2026-02-24,loja_K,creme corporal,higiene,1.0,PC,69.9
+C012,pessoal,2026-02-24,loja_K,óleo corporal,higiene,1.0,PC,57.9
+C012,pessoal,2026-02-24,loja_K,spray íntimo,higiene,1.0,PC,44.9
+C013,pessoal,2026-02-24,loja_C,morango,hortifruti,2.0,UN,13.98
+C013,pessoal,2026-02-24,loja_C,sopa instantânea,mercearia,1.0,UN,8.19
+C013,pessoal,2026-02-24,loja_C,pão francês,padaria,0.216,KG,4.02
+C014,pessoal,2026-02-24,loja_L,item de farmácia,farmacia,1.0,UN,12.9
+C015,pessoal,2026-03-13,loja_C,café,mercearia,1.0,UN,27.9
+C015,pessoal,2026-03-13,loja_C,molho de soja,mercearia,2.0,UN,7.98
+C015,pessoal,2026-03-13,loja_C,pão francês,padaria,0.146,KG,2.71
+C015,pessoal,2026-03-13,loja_C,maminha,proteina,0.518,KG,29.0
+C016,pessoal,2026-03-28,loja_P,creme hidratante corporal,higiene,1.0,PC,59.9
+C016,pessoal,2026-03-28,loja_P,sabonete líquido,higiene,1.0,PC,58.9
+C016,pessoal,2026-03-28,loja_P,desodorante aerossol,higiene,1.0,PC,39.9
+C016,pessoal,2026-03-28,loja_P,envelope de presente,utilidades,1.0,PC,5.9
+C017,pessoal,2026-03-28,loja_A,copo,utilidades,1.0,UN,28.95
+C018,pessoal,2026-03-28,loja_O,lava-louças,limpeza,1.0,UN,25.99
+C018,pessoal,2026-03-28,loja_O,café,mercearia,1.0,UN,39.99
+C018,pessoal,2026-03-28,loja_O,pão de queijo,padaria,0.082,KG,5.66
+C019,pessoal,2026-03-31,loja_B,refrigerante,bebidas,1.0,UN,7.9
+C019,pessoal,2026-03-31,loja_B,refrigerante,bebidas,1.0,UN,7.9
+C019,pessoal,2026-03-31,loja_B,contra filé,refeicao_fora,1.0,UN,86.88
+C019,pessoal,2026-03-31,loja_B,batata frita,refeicao_fora,1.0,UN,0.01
+C019,pessoal,2026-03-31,loja_B,molho,refeicao_fora,1.0,UN,0.01
+C019,pessoal,2026-03-31,loja_B,coqueteleira,utilidades,1.0,UN,50.0
+C020,pessoal,2026-03-31,loja_N,acendedor de fogão,utilidades,1.0,UN,14.9
+C021,pessoal,2026-04-01,loja_C,ovo de páscoa,doces_e_snacks,1.0,UN,69.99
+C021,pessoal,2026-04-01,loja_C,ovo de páscoa,doces_e_snacks,1.0,UN,66.99
+C021,pessoal,2026-04-01,loja_C,sabonete líquido,higiene,1.0,UN,14.99
+C021,pessoal,2026-04-01,loja_C,mistura para bolo,mercearia,1.0,UN,9.09
+C022,pessoal,2026-04-07,loja_C,leite desnatado,laticinios,1.0,UN,5.29
+C022,pessoal,2026-04-07,loja_C,maionese,mercearia,1.0,UN,8.69
+C022,pessoal,2026-04-07,loja_C,milho verde,mercearia,1.0,UN,2.99
+C022,pessoal,2026-04-07,loja_C,açúcar refinado,mercearia,1.0,UN,3.19
+C022,pessoal,2026-04-07,loja_C,sopa instantânea,mercearia,3.0,UN,20.07
+C022,pessoal,2026-04-07,loja_C,molho de tomate,mercearia,1.0,UN,3.09
+C022,pessoal,2026-04-07,loja_C,batata palha,mercearia,1.0,UN,10.89
+C022,pessoal,2026-04-07,loja_C,pão francês,padaria,0.376,KG,6.99
+C023,pessoal,2026-05-21,loja_C,chocolate,doces_e_snacks,1.0,UN,3.29
+C023,pessoal,2026-05-21,loja_C,chocolate,doces_e_snacks,1.0,UN,7.99
+C023,pessoal,2026-05-21,loja_C,óleo corporal,higiene,1.0,UN,18.99
+C023,pessoal,2026-05-21,loja_C,brócolis,hortifruti,1.0,UN,12.89
+C023,pessoal,2026-05-21,loja_C,legumes para sopa,hortifruti,1.0,UN,12.59
+C023,pessoal,2026-05-21,loja_C,abóbora cabotiá,hortifruti,1.0,UN,6.2
+C023,pessoal,2026-05-21,loja_C,leite condensado,laticinios,1.0,UN,6.89
+C023,pessoal,2026-05-21,loja_C,ketchup,mercearia,1.0,UN,7.79
+C023,pessoal,2026-05-21,loja_C,macarrão instantâneo,mercearia,1.0,UN,6.09
+C023,pessoal,2026-05-21,loja_C,milho verde,mercearia,1.0,UN,3.99
+C023,pessoal,2026-05-21,loja_C,fermento biológico,mercearia,2.0,UN,6.38
+C023,pessoal,2026-05-21,loja_C,baguete,padaria,1.0,UN,9.9
+C023,pessoal,2026-05-21,loja_C,muffin,padaria,0.296,KG,11.81
+C024,pessoal,2026-05-21,loja_C,café,bebidas,1.0,UN,7.99
+C024,pessoal,2026-05-21,loja_C,coxinha,refeicao_fora,1.0,UN,7.29
+C025,pessoal,2026-09-14,loja_D,item de farmácia,farmacia,1.0,UN,11.59
+C025,pessoal,2026-09-14,loja_D,item de farmácia,farmacia,2.0,UN,19.98
+C026,pessoal,2026-09-15,loja_E,mocassim,vestuario,1.0,PAR,139.99
+C027,pessoal,2026-09-15,loja_F,barra de chocolate,doces_e_snacks,1.0,UN,4.99
+C027,pessoal,2026-09-15,loja_F,trufa,doces_e_snacks,1.0,UN,4.99
+C027,pessoal,2026-09-15,loja_F,trufa,doces_e_snacks,1.0,UN,5.99
+C027,pessoal,2026-09-15,loja_F,trufa,doces_e_snacks,1.0,UN,4.99
+C027,pessoal,2026-09-15,loja_F,trufa,doces_e_snacks,1.0,UN,4.99
+C027,pessoal,2026-09-15,loja_F,trufa,doces_e_snacks,1.0,UN,5.99
+C027,pessoal,2026-09-15,loja_F,trufa,doces_e_snacks,1.0,UN,3.49
+C028,pessoal,2026-09-26,loja_G,shampoo a seco,higiene,1.0,UN,25.99
+C029,pessoal,2026-09-26,loja_H,sabonete líquido,higiene,1.0,UNID,22.98
+C029,pessoal,2026-09-26,loja_H,manga,hortifruti,1.1401,KG,7.73
+C029,pessoal,2026-09-26,loja_H,creme de leite,laticinios,1.0,UNID,2.58
+C029,pessoal,2026-09-26,loja_H,leite condensado,laticinios,2.0,UNID,11.36
+C029,pessoal,2026-09-26,loja_H,vinagre de maçã,mercearia,1.0,UNID,22.98
+C029,pessoal,2026-09-26,loja_H,sacola,utilidades,1.0,PACOTE,0.35
+C030,pessoal,2026-10-13,loja_I,bombom,doces_e_snacks,1.0,UN,3.6
+C030,pessoal,2026-10-13,loja_I,wafer de chocolate,doces_e_snacks,1.0,UN,3.95
+C030,pessoal,2026-10-13,loja_I,item de farmácia,farmacia,2.0,UN,46.58
+C031,pessoal,2026-10-28,loja_J,suco,bebidas,1.0,UN,8.99
+C031,pessoal,2026-10-28,loja_J,comida por quilo,refeicao_fora,0.432,KG,42.33
+C032,pessoal,2026-10-28,loja_J,comida por quilo,refeicao_fora,0.616,KG,60.36
+C033,pessoal,2026-10-28,loja_C,banana,hortifruti,0.638,KG,6.32
+C033,pessoal,2026-10-28,loja_C,ovo,proteina,1.0,UN,13.99
+C034,pessoal,2026-11-10,loja_C,ovo,proteina,1.0,UN,13.99
+C035,kaggle,,loja_?,linhaça,mercearia,0.224,KG,4.48
+C035,kaggle,,loja_?,castanha de caju,mercearia,0.214,KG,19.26
+C036,kaggle,,loja_?,água com gás,bebidas,1.0,UN,10.0
+C037,kaggle,,loja_?,água mineral,bebidas,1.0,UN,6.0
+C037,kaggle,,loja_?,refrigerante,bebidas,1.0,UN,10.0
+C038,kaggle,,loja_?,cascão de sorvete,doces_e_snacks,1.0,UN,8.5
+C039,kaggle,,loja_?,refrigerante,bebidas,1.0,UN,4.69
+C039,kaggle,,loja_?,energético,bebidas,1.0,UN,7.99
+C039,kaggle,,loja_?,cerveja,bebidas,2.0,UN,9.98
+C039,kaggle,,loja_?,biscoito,doces_e_snacks,5.0,UN,19.95
+C039,kaggle,,loja_?,papel higiênico,higiene,1.0,UN,17.59
+C039,kaggle,,loja_?,creme,higiene,2.0,UN,17.98
+C039,kaggle,,loja_?,alho,hortifruti,0.085,KG,1.95
+C039,kaggle,,loja_?,espinafre,hortifruti,1.0,UN,4.99
+C039,kaggle,,loja_?,alface,hortifruti,1.0,UN,5.49
+C039,kaggle,,loja_?,leite,laticinios,2.0,UN,11.98
+C039,kaggle,,loja_?,margarina,laticinios,1.0,UN,14.39
+C039,kaggle,,loja_?,inseticida,limpeza,1.0,UN,16.99
+C039,kaggle,,loja_?,limpador multiuso,limpeza,1.0,UN,14.99
+C039,kaggle,,loja_?,pão de forma,padaria,1.0,UN,12.39
+C039,kaggle,,loja_?,pão,padaria,1.0,UN,12.39
+C039,kaggle,,loja_?,pão de queijo,padaria,0.265,KG,9.27
+C039,kaggle,,loja_?,frango,proteina,4.0,UN,71.96
+C040,kaggle,,loja_?,energético,bebidas,1.0,UN,7.99
+C040,kaggle,,loja_?,cerveja,bebidas,1.0,UN,7.99
+C040,kaggle,,loja_?,biscoito,doces_e_snacks,5.0,UN,19.95
+C040,kaggle,,loja_?,biscoito,doces_e_snacks,3.0,UN,11.97
+C040,kaggle,,loja_?,biscoito,doces_e_snacks,1.0,UN,3.99
+C040,kaggle,,loja_?,biscoito,doces_e_snacks,4.0,UN,15.96
+C040,kaggle,,loja_?,chocolate,doces_e_snacks,2.0,UN,2.38
+C040,kaggle,,loja_?,chocolate,doces_e_snacks,2.0,UN,2.7
+C040,kaggle,,loja_?,espinafre,hortifruti,1.0,UN,4.99
+C040,kaggle,,loja_?,creme de ricota,laticinios,1.0,UN,8.99
+C040,kaggle,,loja_?,leite,laticinios,2.0,UN,11.98
+C040,kaggle,,loja_?,pão de forma,padaria,1.0,UN,12.39
+C040,kaggle,,loja_?,pão de forma,padaria,1.0,UN,12.39
+C040,kaggle,,loja_?,pão de queijo,padaria,0.295,KG,10.32
+C040,kaggle,,loja_?,frango,proteina,2.0,UN,33.58
+C041,kaggle,,loja_?,chá mate,bebidas,1.0,UN,7.99
+C041,kaggle,,loja_?,creme de ricota,laticinios,2.0,UN,17.98
+C041,kaggle,,loja_?,pão,padaria,1.0,UN,12.39
+C041,kaggle,,loja_?,pão de queijo,padaria,0.25,KG,8.75
+C041,kaggle,,loja_?,ovo,proteina,3.0,UN,44.97
+C041,kaggle,,loja_?,gás de cozinha,utilidades,1.0,UN,18.9
+C042,kaggle,,loja_?,chá de hibisco,mercearia,0.1,KG,8.0
+C042,kaggle,,loja_?,páprica doce,mercearia,0.196,KG,5.88
+C042,kaggle,,loja_?,sal rosa,mercearia,0.354,KG,3.54
+C043,kaggle,,loja_?,tomate,hortifruti,1.104,KG,6.61
+C043,kaggle,,loja_?,tomate,hortifruti,3.28,KG,19.65
+C043,kaggle,,loja_?,cebola,hortifruti,1.626,KG,12.99
+C043,kaggle,,loja_?,limão,hortifruti,0.608,KG,3.03
+C043,kaggle,,loja_?,pimentão verde,hortifruti,1.06,KG,7.41
+C044,kaggle,,loja_?,cerveja,bebidas,1.0,UN,9.99
+C044,kaggle,,loja_?,chá,bebidas,1.0,UN,6.9
+C044,kaggle,,loja_?,chocolate,doces_e_snacks,1.0,UN,3.75
+C044,kaggle,,loja_?,creme dental,higiene,1.0,UN,10.39
+C044,kaggle,,loja_?,papel higiênico,higiene,1.0,UN,15.99
+C044,kaggle,,loja_?,cebola,hortifruti,0.23,KG,2.07
+C044,kaggle,,loja_?,margarina,laticinios,1.0,UN,14.39
+C044,kaggle,,loja_?,creme de ricota,laticinios,1.0,UN,8.59
+C044,kaggle,,loja_?,leite,laticinios,3.0,UN,17.97
+C044,kaggle,,loja_?,lava-louças,limpeza,1.0,UN,8.99
+C044,kaggle,,loja_?,adoçante,mercearia,1.0,UN,14.99
+C044,kaggle,,loja_?,pão,padaria,2.0,UN,18.58
+C044,kaggle,,loja_?,pão de queijo,padaria,0.265,KG,9.27
+C044,kaggle,,loja_?,filé de peito de frango,proteina,2.0,UN,35.8
+C045,kaggle,,loja_?,cerveja,bebidas,3.0,UN,11.94
+C045,kaggle,,loja_?,energético,bebidas,1.0,UN,7.99
+C045,kaggle,,loja_?,chá mate,bebidas,1.0,UN,7.69
+C045,kaggle,,loja_?,chocolate,doces_e_snacks,2.0,UN,2.98
+C045,kaggle,,loja_?,cebola,hortifruti,0.19,KG,1.52
+C045,kaggle,,loja_?,alho,hortifruti,0.07,KG,1.82
+C045,kaggle,,loja_?,creme de ricota,laticinios,1.0,UN,8.59
+C045,kaggle,,loja_?,arroz,mercearia,1.0,UN,6.89
+C045,kaggle,,loja_?,café,mercearia,1.0,UN,16.49
+C045,kaggle,,loja_?,pão de queijo,padaria,0.325,KG,11.37
+C045,kaggle,,loja_?,pão de forma,padaria,1.0,UN,12.39
+C045,kaggle,,loja_?,pão de trigo,padaria,1.0,UN,12.39
+C045,kaggle,,loja_?,filé de peito de frango,proteina,2.0,UN,35.98
+C046,kaggle,,loja_?,cerveja,bebidas,1.0,UN,4.99
+C046,kaggle,,loja_?,cerveja,bebidas,1.0,UN,13.99
+C046,kaggle,,loja_?,biscoito,doces_e_snacks,1.0,UN,3.99
+C046,kaggle,,loja_?,biscoito,doces_e_snacks,2.0,UN,7.98
+C046,kaggle,,loja_?,biscoito,doces_e_snacks,2.0,UN,7.98
+C046,kaggle,,loja_?,biscoito,doces_e_snacks,2.0,UN,7.78
+C046,kaggle,,loja_?,alface,hortifruti,1.0,UN,3.99
+C046,kaggle,,loja_?,leite,laticinios,3.0,UN,17.97
+C046,kaggle,,loja_?,creme de ricota,laticinios,1.0,UN,8.99
+C046,kaggle,,loja_?,azeite,mercearia,1.0,UN,43.9
+C046,kaggle,,loja_?,ketchup,mercearia,1.0,UN,10.89
+C046,kaggle,,loja_?,pão,padaria,2.0,UN,10.58
+C046,kaggle,,loja_?,pão de queijo,padaria,0.275,KG,9.62
+C046,kaggle,,loja_?,frango,proteina,2.0,UN,35.98
+C046,kaggle,,loja_?,papel alumínio,utilidades,1.0,UN,5.49
+C046,kaggle,,loja_?,toalha,utilidades,1.0,UN,8.9
+C047,kaggle,,loja_?,cerveja,bebidas,2.0,UN,9.98
+C047,kaggle,,loja_?,cerveja,bebidas,1.0,UN,5.99
+C047,kaggle,,loja_?,biscoito,doces_e_snacks,3.0,UN,11.97
+C047,kaggle,,loja_?,biscoito,doces_e_snacks,3.0,UN,11.97
+C047,kaggle,,loja_?,cookie,doces_e_snacks,6.0,UN,11.88
+C047,kaggle,,loja_?,creme dental,higiene,1.0,UN,9.99
+C047,kaggle,,loja_?,papel higiênico,higiene,1.0,UN,17.59
+C047,kaggle,,loja_?,creme de ricota,laticinios,1.0,UN,8.99
+C047,kaggle,,loja_?,café,mercearia,1.0,UN,14.98
+C047,kaggle,,loja_?,pão de trigo,padaria,1.0,UN,9.89
+C047,kaggle,,loja_?,pão de trigo,padaria,1.0,UN,9.89
+C047,kaggle,,loja_?,pão de queijo,padaria,0.27,KG,9.45
+C048,kaggle,,loja_?,cerveja,bebidas,1.0,UN,13.99
+C048,kaggle,,loja_?,cerveja,bebidas,2.0,UN,10.58
+C048,kaggle,,loja_?,refrigerante,bebidas,1.0,UN,4.69
+C048,kaggle,,loja_?,leite,laticinios,2.0,UN,11.98
+C048,kaggle,,loja_?,amaciante,limpeza,1.0,UN,8.99
+C048,kaggle,,loja_?,cera,limpeza,1.0,UN,16.99
+C048,kaggle,,loja_?,arroz,mercearia,1.0,UN,5.99
+C048,kaggle,,loja_?,café,mercearia,1.0,UN,15.98
+C048,kaggle,,loja_?,outro,outro,2.0,UN,24.78
+C048,kaggle,,loja_?,pão de queijo,padaria,0.285,KG,9.97
+C049,kaggle,,loja_?,água mineral,bebidas,1.0,UN,1.1
+C049,kaggle,,loja_?,água mineral,bebidas,1.0,UN,16.49
+C049,kaggle,,loja_?,bombom,doces_e_snacks,1.0,UN,1.49
+C049,kaggle,,loja_?,bombom,doces_e_snacks,1.0,UN,1.49
+C049,kaggle,,loja_?,banana,hortifruti,0.98,KG,5.38
+C050,kaggle,,loja_?,chá,bebidas,1.0,UN,12.0
+C050,kaggle,,loja_?,suco,bebidas,1.0,UN,12.0
+C050,kaggle,,loja_?,prato japonês,refeicao_fora,1.0,UN,5.0
+C050,kaggle,,loja_?,prato japonês,refeicao_fora,1.0,UN,42.0
+C050,kaggle,,loja_?,taxa de serviço,refeicao_fora,1.0,UN,7.1
+C051,kaggle,,loja_?,água sem gás,bebidas,1.0,UN,8.5
+C051,kaggle,,loja_?,café mocha,refeicao_fora,1.0,UN,19.99
+C051,kaggle,,loja_?,café,refeicao_fora,1.0,UN,0.01
+C052,kaggle,,loja_?,lanche,refeicao_fora,1.0,UN,18.5
+C052,kaggle,,loja_?,batata frita,refeicao_fora,1.0,UN,12.9
+C053,kaggle,,loja_?,açaí,doces_e_snacks,1.0,UN,23.9
+C054,kaggle,,loja_?,refrigerante,bebidas,1.0,UN,9.9
+C054,kaggle,,loja_?,empada,padaria,1.0,UN,8.5
+C054,kaggle,,loja_?,empada,padaria,1.0,UN,8.5
+C055,kaggle,,loja_?,abóbora japonesa,hortifruti,1.326,KG,5.29
+C055,kaggle,,loja_?,carne,proteina,1.0,UN,11.9
+C055,kaggle,,loja_?,carne,proteina,2.0,UN,27.8
+C056,kaggle,,loja_?,mamão formosa,hortifruti,1.42,KG,9.93
+C057,kaggle,,loja_?,cebola,hortifruti,0.295,KG,1.47
+C057,kaggle,,loja_?,batata,hortifruti,1.055,KG,5.26
+C057,kaggle,,loja_?,mamão formosa,hortifruti,0.7,KG,4.89
+C057,kaggle,,loja_?,ovo,proteina,1.0,UN,18.99
+C058,kaggle,,loja_?,mamão,hortifruti,0.99,KG,11.87
+C058,kaggle,,loja_?,banana,hortifruti,1.91,KG,17.17
+C058,kaggle,,loja_?,batata,hortifruti,1.84,KG,12.86
+C058,kaggle,,loja_?,leite,laticinios,5.0,UN,28.95
+C058,kaggle,,loja_?,macarrão instantâneo,mercearia,2.0,UN,4.58
+C058,kaggle,,loja_?,ovo,proteina,1.0,UN,18.99
+C058,kaggle,,loja_?,ovo,proteina,1.0,UN,18.99
+C059,kaggle,,loja_?,mamão,hortifruti,1.72,KG,17.01
+C059,kaggle,,loja_?,alho,hortifruti,0.13,KG,3.25
+C059,kaggle,,loja_?,carne bovina,proteina,2.0,UN,27.96
+C059,kaggle,,loja_?,filé de frango,proteina,2.0,UN,29.98
+C059,kaggle,,loja_?,ovo,proteina,1.0,UN,19.9

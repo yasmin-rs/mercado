@@ -1,0 +1,34 @@
+{
+ "meta": "emagrecer",
+ "modelo": "gemini/gemini-3.5-flash-lite",
+ "analise": {
+  "diagnostico": "Analisando seu histórico de 01/2025 a 11/2026 com gasto total de R$ 14.743,60 e média mensal de R$ 641,03, notamos que a categoria de bebidas representa R$ 1.933,16 (13,1% do total), com destaque para R$ 398,19 gastos com refrigerante. A categoria de doces_e_snacks soma R$ 682,37 (4,6%).",
+  "pontos_positivos": [
+   "Boa frequência de compra na categoria hortifruti, totalizando R$ 2.026,76 (13,7% do orçamento).",
+   "Consumo recorrente de itens essenciais como legumes variados com gasto médio de R$ 9,16 a cada 9,4 dias.",
+   "Baixo gasto registrado na categoria refeicao_fora, somando R$ 122,79 (0,8% do total)."
+  ],
+  "sugestoes": [
+   {
+    "titulo": "Reduzir o consumo de refrigerantes",
+    "acao": "Diminuir a frequência de compra do produto refrigerante para ajudar a atingir sua meta de menos bebidas açucaradas.",
+    "evidencia": "refrigerante",
+    "economia_mensal_estimada": 5.19
+   },
+   {
+    "titulo": "Controlar os gastos com doces e snacks",
+    "acao": "Reduzir o volume de compras na categoria doces_e_snacks, alinhando-se à meta de consumir menos doces e snacks.",
+    "evidencia": "doces_e_snacks",
+    "economia_mensal_estimada": 8.9
+   },
+   {
+    "titulo": "Diminuir o consumo de bebidas em geral",
+    "acao": "Rever os gastos na categoria bebidas para auxiliar na perda de peso e controle de bebidas açucaradas.",
+    "evidencia": "bebidas",
+    "economia_mensal_estimada": 25.21
+   }
+  ],
+  "alerta": "Para orientações sobre emagrecimento, reeducação alimentar ou dietas, consulte sempre um profissional de saúde qualificado."
+ },
+ "descartes": []
+}

@@ -1,0 +1,34 @@
+{
+ "meta": "economizar",
+ "modelo": "gemini/gemini-3.5-flash-lite",
+ "analise": {
+  "diagnostico": "Analisando o período de 01/2025 a 11/2026, seu gasto total foi de R$ 14.743,60, com uma média mensal de R$ 641,03. A categoria 'proteina' é a que mais pesa no orçamento, representando 26.8% dos gastos (R$ 3.952,67 no total), seguida por 'laticinios' com 15.3% (R$ 2.253,59).",
+  "pontos_positivos": [
+   "Você mantém um registro consistente de compras ao longo de 23 meses.",
+   "O gasto com categorias essenciais de limpeza e utilidades é proporcionalmente baixo, representando apenas 0.8% e 1.2% do total, respectivamente.",
+   "Há um consumo frequente de itens saudáveis, como observado nos 71 registros de 'legumes variados'."
+  ],
+  "sugestoes": [
+   {
+    "titulo": "Reduzir o impacto da carne bovina",
+    "acao": "Como a carne bovina é o produto que mais pesa no seu orçamento (R$ 1.360,51 gastos), experimente intercalar com outras opções proteicas já presentes nas suas compras, como ovos ou carne suína, sem deixar de comer o que gosta.",
+    "evidencia": "carne bovina",
+    "economia_mensal_estimada": 17.74
+   },
+   {
+    "titulo": "Ajustar a frequência de refrigerantes",
+    "acao": "Você compra refrigerante em média a cada 15.6 dias, totalizando R$ 398,19 no período. Tente espaçar um pouco mais essas compras para reduzir o gasto mensal nessa categoria de bebidas.",
+    "evidencia": "refrigerante",
+    "economia_mensal_estimada": 5.19
+   },
+   {
+    "titulo": "Monitorar os gastos com laticínios",
+    "acao": "A categoria de laticínios representa 15.3% das suas despesas (R$ 2.253,59). Avalie substituir pontualmente algumas marcas ou pesquisar promoções em itens recorrentes como o leite.",
+    "evidencia": "laticinios",
+    "economia_mensal_estimada": 19.59
+   }
+  ],
+  "alerta": null
+ },
+ "descartes": []
+}

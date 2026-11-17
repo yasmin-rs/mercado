@@ -1,0 +1,34 @@
+{
+ "meta": "emagrecer",
+ "modelo": "gemini/gemini-3.5-flash-lite",
+ "analise": {
+  "diagnostico": "Analisando seu histórico de 02/2026 a 11/2026, você registrou R$ 1952.46 em 25 compras ao longo de 7 meses. Para apoiar sua meta de emagrecer, vale notar que a categoria doces_e_snacks representou R$ 212.2 (10.9% do gasto) e refeicao_fora somou R$ 196.88 (10.1%). Além disso, itens específicos como ovo de páscoa totalizaram R$ 136.98 e comida por quilo chegou a R$ 102.69.",
+  "pontos_positivos": [
+   "Você manteve gastos moderados na categoria hortifrúti, totalizando R$ 90.11 no período.",
+   "O consumo da categoria bebidas ficou controlado em R$ 39.07, representando apenas 2.0% do total.",
+   "A categoria laticinios teve um registro enxuto de R$ 35.88, somando 1.8% do gasto geral."
+  ],
+  "sugestoes": [
+   {
+    "titulo": "Reduzir gastos com doces e snacks",
+    "acao": "Para ajudar na sua meta de consumir menos doces e snacks, reduza as compras dessa categoria, que teve um gasto mensal estimado de R$ 30.31.",
+    "evidencia": "doces_e_snacks",
+    "economia_mensal_estimada": 15.0
+   },
+   {
+    "titulo": "Diminuir refeições fora de casa",
+    "acao": "Diminua a frequência em restaurantes e o consumo de itens como comida por quilo, que pesaram R$ 102.69 no período.",
+    "evidencia": "refeicao_fora",
+    "economia_mensal_estimada": 14.0
+   },
+   {
+    "titulo": "Controlar a compra de ovos de páscoa e chocolates",
+    "acao": "Substitua ou evite gastos pontuais elevados em doces, como os R$ 136.98 investidos em ovo de páscoa.",
+    "evidencia": "ovo de páscoa",
+    "economia_mensal_estimada": 9.0
+   }
+  ],
+  "alerta": "Para orientações sobre emagrecimento, reeducação alimentar ou dietas, procure sempre a orientação de um profissional de saúde qualificado."
+ },
+ "descartes": []
+}

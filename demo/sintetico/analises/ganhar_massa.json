@@ -1,0 +1,34 @@
+{
+ "meta": "ganhar_massa",
+ "modelo": "gemini/gemini-3.5-flash-lite",
+ "analise": {
+  "diagnostico": "No período avaliado, seu gasto total foi de R$ 14.743,60, com uma média de R$ 641,03 por mês. A categoria proteina lidera seus gastos com 26,8% do total (R$ 3.952,67), destacando-se itens como carne bovina (R$ 1.360,51) e linguiça (R$ 680,92), o que está alinhado com sua meta. No entanto, há espaço para otimizar o orçamento redirecionando valores gastos em bebidas como refrigerante (R$ 398,19).",
+  "pontos_positivos": [
+   "Forte investimento na categoria proteina, que representa 26,8% do seu orçamento total.",
+   "Boa frequência de compra de hortifrúti, incluindo legumes variados com gasto médio de R$ 9,16.",
+   "Constância no consumo de laticínios essenciais, como o leite, comprado a cada 8,6 dias em média."
+  ],
+  "sugestoes": [
+   {
+    "titulo": "Otimizar o consumo de carne bovina",
+    "acao": "Mantenha o foco em proteínas para sua meta, mas avalie alternar a carne bovina com opções de menor custo por quilo ou aumentar a proporção de ovos.",
+    "evidencia": "carne bovina",
+    "economia_mensal_estimada": 17.74
+   },
+   {
+    "titulo": "Reduzir gastos com refrigerante",
+    "acao": "Diminua a frequência de compra de refrigerantes para liberar recursos para alimentos mais densos em nutrientes para ganho de massa.",
+    "evidencia": "refrigerante",
+    "economia_mensal_estimada": 5.19
+   },
+   {
+    "titulo": "Ajustar o orçamento na categoria bebidas",
+    "acao": "Reduza os gastos gerais da categoria bebidas para focar o orçamento em itens que apoiem diretamente suas refeições completas.",
+    "evidencia": "bebidas",
+    "economia_mensal_estimada": 25.21
+   }
+  ],
+  "alerta": "Para orientações específicas sobre dieta, ganho de massa muscular e necessidades nutricionais, consulte sempre um profissional de saúde qualificado."
+ },
+ "descartes": []
+}

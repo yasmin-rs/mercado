@@ -1,0 +1,168 @@
+item,produto,categoria,preco
+whole milk,leite,laticinios,5.49
+other vegetables,legumes variados,hortifruti,8.90
+rolls/buns,pão francês,padaria,6.50
+soda,refrigerante,bebidas,8.99
+yogurt,iogurte,laticinios,4.29
+root vegetables,cenoura,hortifruti,4.99
+tropical fruit,banana,hortifruti,6.99
+bottled water,água mineral,bebidas,2.99
+sausage,linguiça,proteina,19.90
+citrus fruit,laranja,hortifruti,5.99
+pastry,salgado folhado,padaria,7.50
+pip fruit,maçã,hortifruti,9.99
+shopping bags,sacola,utilidades,0.15
+canned beer,cerveja lata,bebidas,4.29
+bottled beer,cerveja long neck,bebidas,5.99
+whipped/sour cream,creme de leite,laticinios,3.99
+newspapers,jornal,outro,5.00
+frankfurter,salsicha,proteina,12.90
+brown bread,pão integral,padaria,9.99
+pork,carne suína,proteina,24.90
+domestic eggs,ovo,proteina,13.99
+butter,manteiga,laticinios,12.99
+fruit/vegetable juice,suco,bebidas,7.99
+beef,carne bovina,proteina,39.90
+curd,coalhada,laticinios,6.49
+margarine,margarina,laticinios,8.49
+coffee,café,mercearia,18.90
+frozen vegetables,legumes congelados,congelados,11.90
+chicken,frango,proteina,17.90
+white bread,pão de forma,padaria,8.49
+cream cheese ,cream cheese,laticinios,9.90
+chocolate,chocolate,doces_e_snacks,6.99
+dessert,sobremesa pronta,doces_e_snacks,5.99
+napkins,guardanapo,utilidades,4.49
+berries,morango,hortifruti,9.99
+hamburger meat,carne moída,proteina,29.90
+UHT-milk,leite longa vida,laticinios,4.99
+onions,cebola,hortifruti,4.49
+salty snack,salgadinho,doces_e_snacks,8.99
+waffles,biscoito wafer,doces_e_snacks,3.99
+long life bakery product,bolo pronto,padaria,9.49
+sugar,açúcar,mercearia,4.99
+butter milk,leite fermentado,laticinios,7.99
+ham,presunto,proteina,8.90
+meat,carne bovina,proteina,39.90
+frozen meals,refeição congelada,congelados,16.90
+beverages,bebida variada,bebidas,6.99
+specialty chocolate,chocolate premium,doces_e_snacks,14.90
+misc. beverages,chá gelado,bebidas,6.49
+ice cream,sorvete,congelados,22.90
+oil,óleo,mercearia,7.99
+hard cheese,queijo parmesão,laticinios,15.90
+grapes,uva,hortifruti,11.99
+candy,bala,doces_e_snacks,4.99
+sliced cheese,queijo mussarela,laticinios,9.90
+specialty bar,barra de cereal,doces_e_snacks,2.99
+hygiene articles,artigo de higiene,higiene,12.90
+chewing gum,chiclete,doces_e_snacks,2.49
+cat food,ração de gato,outro,24.90
+white wine,vinho branco,bebidas,39.90
+herbs,cheiro-verde,hortifruti,2.99
+red/blush wine,vinho tinto,bebidas,39.90
+processed cheese,requeijão,laticinios,8.99
+soft cheese,queijo minas,laticinios,14.90
+flour,farinha de trigo,mercearia,5.99
+semi-finished bread,pão pré-assado,padaria,7.99
+dishes,prato descartável,utilidades,9.90
+pickled vegetables,conserva,mercearia,8.99
+detergent,detergente,limpeza,2.79
+packaged fruit/vegetables,salada pronta,hortifruti,7.99
+baking powder,fermento,mercearia,3.99
+pasta,macarrão,mercearia,5.49
+pot plants,planta,outro,24.90
+canned fish,atum,mercearia,9.99
+seasonal products,produto sazonal,outro,19.90
+liquor,destilado,bebidas,49.90
+frozen fish,peixe congelado,congelados,29.90
+spread cheese,queijo cremoso,laticinios,7.49
+condensed milk,leite condensado,laticinios,6.99
+cake bar,bolinho,doces_e_snacks,2.99
+frozen dessert,sobremesa congelada,congelados,14.90
+mustard,mostarda,mercearia,5.99
+salt,sal,mercearia,2.99
+pet care,artigo pet,outro,19.90
+roll products ,pão de hot dog,padaria,6.99
+canned vegetables,milho verde,mercearia,4.49
+turkey,peito de peru,proteina,12.90
+photo/film,revelação de foto,outro,15.00
+mayonnaise,maionese,mercearia,8.99
+cling film/bags,filme plástico,utilidades,7.99
+dish cleaner,lava-louças,limpeza,4.99
+specialty cheese,queijo especial,laticinios,24.90
+frozen potato products,batata congelada,congelados,18.90
+flower (seeds),semente,outro,6.90
+sweet spreads,creme de avelã,doces_e_snacks,16.90
+liquor (appetizer),aperitivo,bebidas,34.90
+dog food,ração de cachorro,outro,29.90
+candles,vela,utilidades,8.90
+finished products,prato pronto,refeicao_fora,24.90
+instant coffee,café solúvel,mercearia,16.90
+zwieback,torrada,padaria,6.49
+chocolate marshmallow,bombom,doces_e_snacks,9.99
+Instant food products,macarrão instantâneo,mercearia,2.49
+vinegar,vinagre,mercearia,3.49
+liver loaf,patê,proteina,6.99
+rice,arroz,mercearia,24.90
+popcorn,pipoca,doces_e_snacks,4.99
+soups,sopa instantânea,mercearia,3.99
+curd cheese,ricota,laticinios,9.90
+sparkling wine,espumante,bebidas,44.90
+house keeping products,produto de limpeza,limpeza,9.90
+sauces,molho de tomate,mercearia,3.49
+cereals,cereal matinal,mercearia,14.90
+softener,amaciante,limpeza,17.90
+female sanitary products,absorvente,higiene,8.99
+spices,tempero,mercearia,4.99
+brandy,conhaque,bebidas,39.90
+male cosmetics,desodorante,higiene,15.90
+meat spreads,patê de carne,proteina,6.99
+jam,geleia,mercearia,12.90
+dental care,creme dental,higiene,6.99
+nuts/prunes,castanha,doces_e_snacks,19.90
+rum,rum,bebidas,49.90
+ketchup,ketchup,mercearia,7.99
+cleaner,limpador multiuso,limpeza,6.99
+kitchen towels,papel toalha,utilidades,8.99
+specialty fat,gordura vegetal,mercearia,9.90
+fish,peixe,proteina,39.90
+light bulbs,lâmpada,utilidades,12.90
+artif. sweetener,adoçante,mercearia,9.99
+snack products,petisco,doces_e_snacks,7.99
+tea,chá,bebidas,5.99
+potato products,batata palha,doces_e_snacks,8.99
+abrasive cleaner,saponáceo,limpeza,6.49
+tidbits,amendoim,doces_e_snacks,6.99
+organic sausage,linguiça orgânica,proteina,29.90
+nut snack,mix de castanhas,doces_e_snacks,12.90
+syrup,xarope de groselha,bebidas,9.90
+canned fruit,pêssego em calda,mercearia,12.90
+soap,sabonete,higiene,2.99
+skin care,hidratante,higiene,19.90
+prosecco,prosecco,bebidas,59.90
+cookware,utensílio de cozinha,utilidades,29.90
+bathroom cleaner,limpador de banheiro,limpeza,9.90
+pudding powder,pó para pudim,mercearia,4.99
+flower soil/fertilizer,adubo,outro,14.90
+cocoa drinks,achocolatado,bebidas,9.99
+ready soups,sopa pronta,mercearia,11.90
+cooking chocolate,chocolate em pó,mercearia,12.90
+honey,mel,mercearia,24.90
+cream,creme de leite fresco,laticinios,12.90
+specialty vegetables,cogumelo,hortifruti,14.90
+frozen fruits,polpa de fruta,congelados,9.99
+organic products,produto orgânico,hortifruti,12.90
+hair spray,spray para cabelo,higiene,24.90
+liqueur,licor,bebidas,44.90
+decalcifier,removedor de calcário,limpeza,14.90
+whisky,uísque,bebidas,99.90
+salad dressing,molho para salada,mercearia,9.90
+frozen chicken,frango congelado,congelados,22.90
+make up remover,demaquilante,higiene,19.90
+toilet cleaner,desinfetante sanitário,limpeza,7.99
+rubbing alcohol,álcool,limpeza,8.99
+bags,saco de lixo,limpeza,9.99
+baby cosmetics,produto infantil,higiene,19.90
+kitchen utensil,utensílio de cozinha,utilidades,29.90
+preservation products,pote,utilidades,14.90

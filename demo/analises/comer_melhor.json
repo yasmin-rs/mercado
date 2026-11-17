@@ -1,0 +1,34 @@
+{
+ "meta": "comer_melhor",
+ "modelo": "gemini/gemini-3.5-flash-lite",
+ "analise": {
+  "diagnostico": "Analisando seu histórico de 02/2026 a 11/2026 com gasto total de R$ 1952.46, vemos que a categoria hortifrúti representa apenas 4.6% (R$ 90.11), enquanto doces_e_snacks somam 10.9% (R$ 212.20). Para comer de forma mais saudável, precisamos inverter essa proporção e investir mais em comida de verdade.",
+  "pontos_positivos": [
+   "Você consome ovos regularmente, com compra recorrente a cada 13.0 dias, o que é uma boa fonte de proteína.",
+   "A categoria hortifrúti está presente nas suas compras, somando R$ 90.11 no período.",
+   "Você mantém registros frequentes das suas compras, totalizando 25 registros em 7 meses."
+  ],
+  "sugestoes": [
+   {
+    "titulo": "Reduzir gastos com doces e snacks",
+    "acao": "Diminua a compra de itens como ovo de páscoa e chocolate para liberar orçamento e espaço para alimentos frescos.",
+    "evidencia": "doces_e_snacks",
+    "economia_mensal_estimada": 15.0
+   },
+   {
+    "titulo": "Aumentar o investimento em hortifrúti",
+    "acao": "Direcione parte do valor gasto em snacks para comprar mais frutas, legumes e verduras, fortalecendo sua meta de comer comida de verdade.",
+    "evidencia": "hortifruti",
+    "economia_mensal_estimada": null
+   },
+   {
+    "titulo": "Substituir ultraprocessados da mercearia",
+    "acao": "Reduza a frequência de itens como macarrão instantâneo e sopa instantânea, optando por preparos caseiros.",
+    "evidencia": "mercearia",
+    "economia_mensal_estimada": 10.0
+   }
+  ],
+  "alerta": "Para orientações específicas sobre dieta e saúde ao buscar comer de forma mais saudável, procure a orientação de um profissional adequado, como um nutricionista ou médico."
+ },
+ "descartes": []
+}

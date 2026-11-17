@@ -1,0 +1,34 @@
+{
+ "meta": "ganhar_massa",
+ "modelo": "gemini/gemini-3.5-flash-lite",
+ "analise": {
+  "diagnostico": "No período de 02/2026 a 11/2026, com 25 compras registradas, o seu gasto total foi de R$ 1952.46 (média de R$ 278.92 por mês com notas). A categoria higiene é a que mais pesa no orçamento, representando 29.5% do total (R$ 576.95), enquanto a categoria proteina representa 7.6% (R$ 148.35). Para a sua meta de ganhar massa muscular, convém realocar recursos para priorizar fontes de proteína.",
+  "pontos_positivos": [
+   "Você registra suas compras regularmente, somando 25 registros em 7 meses.",
+   "Há consumo frequente de itens como ovo, o que apoia o aporte proteico.",
+   "Boa variedade de categorias registradas no período."
+  ],
+  "sugestoes": [
+   {
+    "titulo": "Reduzir gastos em doces_e_snacks para focar em proteína",
+    "acao": "Diminua a compra de itens como ovo de páscoa e chocolate para redirecionar esse valor para a categoria proteina e apoiar o ganho de massa muscular.",
+    "evidencia": "doces_e_snacks",
+    "economia_mensal_estimada": 10.0
+   },
+   {
+    "titulo": "Otimizar o orçamento da categoria higiene",
+    "acao": "Como a categoria higiene consome R$ 576.95 do seu total, avalie reduzir gastos pontuais para liberar verba para alimentação rica em nutrientes.",
+    "evidencia": "higiene",
+    "economia_mensal_estimada": 20.0
+   },
+   {
+    "titulo": "Aumentar o investimento na categoria proteina",
+    "acao": "Direcione parte dos valores economizados para comprar mais carnes e ovos, essenciais para a sua meta de ganhar massa muscular.",
+    "evidencia": "proteina",
+    "economia_mensal_estimada": null
+   }
+  ],
+  "alerta": "Para orientações específicas sobre dieta, ganho de massa muscular e cardápio ideal para o seu objetivo, procure um nutricionista ou profissional de saúde qualificado."
+ },
+ "descartes": []
+}

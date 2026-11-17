@@ -1,0 +1,34 @@
+{
+ "meta": "economizar",
+ "modelo": "gemini/gemini-3.5-flash-lite",
+ "analise": {
+  "diagnostico": "Entre 02/2026 a 11/2026, seu gasto total foi de R$ 1952.46, com média de R$ 278.92 por mês com notas. A categoria higiene foi a que mais pesou, representando 29.5% do total (R$ 576.95), seguida por mercearia com 11.1% (R$ 217.14) e doces_e_snacks com 10.9% (R$ 212.2). Como sua meta é gastar menos sem passar vontade, podemos ajustar pontos específicos sem cortar o que você gosta.",
+  "pontos_positivos": [
+   "Você mantém um registro consistente de suas compras em 7 meses analisados.",
+   "Categorias como limpeza representam apenas 1.3% do gasto total (R$ 25.99), mostrando bom controle em itens básicos.",
+   "O consumo de hortifrúti e laticínios está equilibrado com os demais gastos do período."
+  ],
+  "sugestoes": [
+   {
+    "titulo": "Ajuste em Higiene",
+    "acao": "Reduza o volume de compras na categoria higiene, que concentra o maior gasto do período (R$ 576.95), avaliando marcas alternativas para produtos como sabonete líquido.",
+    "evidencia": "higiene",
+    "economia_mensal_estimada": 24.72
+   },
+   {
+    "titulo": "Controle de Doces e Snacks",
+    "acao": "Para manter a vontade sem exagerar, monitore os gastos na categoria doces_e_snacks (R$ 212.20 no total), planejando melhor a compra de itens como ovo de páscoa.",
+    "evidencia": "doces_e_snacks",
+    "economia_mensal_estimada": 9.09
+   },
+   {
+    "titulo": "Atenção ao Vestuário",
+    "acao": "Avalie compras pontuais na categoria vestuario, como o gasto registrado com mocassim, para liberar orçamento para o mercado.",
+    "evidencia": "vestuario",
+    "economia_mensal_estimada": 6.0
+   }
+  ],
+  "alerta": null
+ },
+ "descartes": []
+}

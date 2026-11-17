@@ -1,0 +1,34 @@
+{
+ "meta": "comer_melhor",
+ "modelo": "gemini/gemini-3.5-flash-lite",
+ "analise": {
+  "diagnostico": "Analisando seu histórico de 23 meses com um gasto total de R$ 14.743,60 (média de R$ 641,03 por mês), sua maior categoria de despesa é proteina, somando R$ 3.952,67 (26,8% do total). Para atingir sua meta de comer mais comida de verdade e menos ultraprocessados, vale notar a presença de itens como refrigerante, que teve um gasto de R$ 398,19, e salsicha, com R$ 342,45.",
+  "pontos_positivos": [
+   "Você compra legumes variados com frequência alta, a cada 9,4 dias em média, mostrando bom hábito de consumo de hortifrúti.",
+   "O consumo de leite é recorrente, a cada 8,6 dias, integrando sua cesta básica de laticínios.",
+   "Há compras regulares de maçã e banana, reforçando a presença de frutas na sua rotina."
+  ],
+  "sugestoes": [
+   {
+    "titulo": "Reduzir o consumo de bebidas açucaradas",
+    "acao": "Diminua a compra de refrigerantes para abrir espaço para sucos naturais ou água.",
+    "evidencia": "refrigerante",
+    "economia_mensal_estimada": 5.19
+   },
+   {
+    "titulo": "Substituir embutidos por proteínas in natura",
+    "acao": "Reduza a aquisição de salsicha e priorize carnes menos processadas.",
+    "evidencia": "salsicha",
+    "economia_mensal_estimada": 4.47
+   },
+   {
+    "titulo": "Aumentar o investimento em hortifrúti fresco",
+    "acao": "Direcione parte do orçamento de categorias menos saudáveis para reforçar a compra de legumes variados.",
+    "evidencia": "hortifruti",
+    "economia_mensal_estimada": null
+   }
+  ],
+  "alerta": "Para orientações específicas sobre mudanças na alimentação e saúde, consulte um profissional qualificado."
+ },
+ "descartes": []
+}
