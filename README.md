@@ -2,7 +2,7 @@
 
 **Uma foto da notinha do mercado vira histórico de gastos, previsão do que está acabando e uma análise dos hábitos de compra de acordo com uma meta (economizar, comer melhor, ganhar massa, emagrecer).**
 
-🔗 **Demo ao vivo:** [LINK_DA_DEMO](LINK_DA_DEMO) · Projeto irmão: [Central de operações de reviews com IA](https://central-reviews-ai.streamlit.app/)
+🔗 **Demo ao vivo:** [assistente-compras-ai.streamlit.app](https://assistente-compras-ai.streamlit.app/) · Projeto irmão: [Central de operações de reviews com IA](https://central-reviews-ai.streamlit.app/)
 
 ---
 

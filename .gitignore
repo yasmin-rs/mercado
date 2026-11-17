@@ -9,3 +9,6 @@ __pycache__/
 .env
 data/
 outputs/
+
+# segredos do Streamlit local (a chave fica no .env ou nos Secrets do Streamlit Cloud)
+.streamlit/secrets.toml

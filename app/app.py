@@ -54,7 +54,9 @@ LIMITE_LEITURAS_DEMO = 3  # por sessão: protege a cota gratuita da API na demo 
 TEM_CHAVE_API = bool(os.getenv("GEMINI_API_KEY"))
 MODELO = os.getenv("MODEL_NAME", "gemini/gemini-3.5-flash-lite")
 
-AZUL = "#2a78d6"
+# barras em tons de rosa: quanto maior o valor, mais escuro
+ROSA_CLARO, ROSA_ESCURO = "#f2a7c3", "#b3124f"
+ESCALA_ROSA = alt.Scale(range=[ROSA_CLARO, ROSA_ESCURO])
 VERDE = "#1f9d6b"
 ROTULOS_CATEGORIA = {
     "hortifruti": "Hortifrúti", "proteina": "Proteína", "laticinios": "Laticínios", "padaria": "Padaria",
@@ -78,9 +80,10 @@ def barras(df: pd.DataFrame, categoria: str, valor: str, ordenar: bool = True) -
         x=alt.X(f"{valor}:Q", title=None, axis=alt.Axis(format=".0f", grid=True, tickCount=4)),
         tooltip=[alt.Tooltip(f"{categoria}:N", title=""), alt.Tooltip(f"{valor}:Q", title="R$", format=",.2f")],
     )
-    return (base.mark_bar(cornerRadiusEnd=4, height=16, color=AZUL)
+    return (base.mark_bar(cornerRadiusEnd=4, height=16).encode(
+                color=alt.Color(f"{valor}:Q", scale=ESCALA_ROSA, legend=None))
             + base.mark_text(align="left", dx=4, fontWeight=600).encode(text=alt.Text(f"{valor}:Q", format=".0f"))
-            ).properties(height=max(120, 26 * len(df)))
+            ).properties(height=max(120, 28 * len(df)))
 
 
 @st.cache_data
@@ -100,13 +103,30 @@ def carregar_historico(_versao: float, demo: bool, perfil: str = "meu"):
 
 
 # ---------------------------------------------------------------- cabeçalho
-st.title("🛒 Assistente de compras")
-st.caption("Suas notas fiscais viram histórico de gastos, categorias, a previsão do que está acabando "
-           "e uma análise com IA de acordo com a sua meta.")
+st.markdown("""<style>
+.cabecalho { background: linear-gradient(120deg, #7d0a37 0%, #b3124f 45%, #e0457f 100%); color: #fff;
+             border-radius: 18px; padding: 26px 30px 22px; margin: 0 0 1rem; }
+.cabecalho h1 { color: #fff; font-size: 2.1rem; margin: 0 0 4px; padding: 0; }
+.cabecalho p { color: #ffe3ee; margin: 0 0 16px; font-size: .98rem; }
+.cabecalho .etapas { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.cabecalho .etapa { background: rgba(255,255,255,.16); border: 1px solid rgba(255,255,255,.28);
+                    border-radius: 999px; padding: 4px 12px; font-size: .85rem; font-weight: 600; }
+.cabecalho .seta { color: #ffc2d8; }
+</style>
+<div class="cabecalho">
+  <h1>🛒 Assistente de compras</h1>
+  <p>Suas notas fiscais viram histórico de gastos, a previsão do que está acabando
+     e uma análise com IA de acordo com a sua meta.</p>
+  <div class="etapas">
+    <span class="etapa">📷 Foto da nota</span><span class="seta">→</span>
+    <span class="etapa">📊 Histórico</span><span class="seta">→</span>
+    <span class="etapa">🧺 Despensa e lista</span><span class="seta">→</span>
+    <span class="etapa">🎯 Análise com IA</span>
+  </div>
+</div>""", unsafe_allow_html=True)
 if MODO_DEMO:
-    st.info("**Modo demonstração.** O histórico é o da autora (+ notas públicas de exemplo), anonimizado: só "
-            "produtos padronizados, lojas como apelidos e farmácia sem nome do item. Você pode testar a leitura de uma nota sua, mas nada é salvo.",
-            icon="👀")
+    st.info("**Modo demonstração.** Os dados abaixo são públicos e anonimizados. Você pode testar a leitura de "
+            "uma nota sua, mas nada é salvo.", icon="")
 
 PERFIS = {"meu": "👤 Meu histórico", "sintetico": "🧪 Perfil sintético (2 anos)"}
 perfil = st.segmented_control("Ver dados de", list(PERFIS), format_func=PERFIS.get, default="sintetico",
@@ -116,6 +136,9 @@ if SINTETICO:
     st.caption("**Perfil sintético**: uma pessoa fictícia com 200 idas ao mercado entre 01/2025 e 11/2026, montada a "
                "partir de cestas reais do dataset público *Groceries* (Kaggle, GPL 2). Datas e preços são simulados; "
                "serve para mostrar a análise de longo prazo. Nada aqui se mistura com o seu histórico.")
+elif MODO_DEMO:
+    st.caption("**Histórico da autora** (+ notas públicas de exemplo), anonimizado: só produtos padronizados, "
+               "lojas como apelidos e farmácia sem nome do item.")
 
 todos_itens = carregar_historico(st.session_state.get("versao", 0.0), MODO_DEMO, perfil)
 itens = todos_itens
@@ -232,7 +255,8 @@ with aba_historico:
             y=alt.Y("valor_total:Q", title=None, axis=alt.Axis(format=".0f", tickCount=4)),
             tooltip=[alt.Tooltip("mes:T", title="Mês", format="%m/%Y"),
                      alt.Tooltip("valor_total:Q", title="R$", format=",.2f")])
-        st.altair_chart((meses.mark_bar(cornerRadiusEnd=4, width=22, color=AZUL)
+        st.altair_chart((meses.mark_bar(cornerRadiusEnd=4, width=22).encode(
+                             color=alt.Color("valor_total:Q", scale=ESCALA_ROSA, legend=None))
                          + meses.mark_text(dy=-8, fontWeight=600).encode(text=alt.Text("valor_total:Q", format=".0f"))
                          ).properties(height=240), width="stretch")
         st.caption("Meses sem barra = sem notas registradas, não necessariamente sem compras.")
@@ -416,27 +440,33 @@ with aba_produtos:
 
 
 # ---------------------------------------------------------------- análise com IA
+def sem_formula(texto: str) -> str:
+    """Escapa o cifrão: no markdown do Streamlit, "R$ 10 ... R$ 20" vira fórmula matemática."""
+    return texto.replace("$", "\\$")
+
+
 def mostrar_analise(resultado: dict) -> None:
     analise = resultado["analise"]
-    st.markdown(f"#### Diagnóstico\n{analise['diagnostico']}")
+    st.markdown(f"#### Diagnóstico\n{sem_formula(analise['diagnostico'])}")
     if analise["pontos_positivos"]:
-        st.markdown("**O que já está bom**\n" + "\n".join(f"- {p}" for p in analise["pontos_positivos"]))
+        st.markdown("**O que já está bom**\n"
+                    + "\n".join(f"- {sem_formula(p)}" for p in analise["pontos_positivos"]))
     sugestoes = analise["sugestoes"]
     economia = sum(s["economia_mensal_estimada"] or 0 for s in sugestoes)
     if economia:
         st.metric("Economia possível (estimativa da IA, conferida em código)", f"{reais(economia)} / mês")
     for coluna, s in zip(st.columns(max(1, len(sugestoes))), sugestoes):
         with coluna.container(border=True):
-            st.markdown(f"**{s['titulo']}**")
-            st.write(s["acao"])
+            st.markdown(f"**{sem_formula(s['titulo'])}**")
+            st.markdown(sem_formula(s["acao"]))
             rotulo = ROTULOS_CATEGORIA.get(s["evidencia"], s["evidencia"])
             extra = f" · ~{reais(s['economia_mensal_estimada'])}/mês" if s["economia_mensal_estimada"] else ""
             st.caption(f"Base: {rotulo}{extra}")
     if analise.get("alerta"):
-        st.warning(analise["alerta"])
+        st.warning(sem_formula(analise["alerta"]))
     if resultado["descartes"]:
         with st.expander(f"{len(resultado['descartes'])} sugestão(ões) descartada(s) pela conferência"):
-            st.markdown("\n".join(f"- {d}" for d in resultado["descartes"]))
+            st.markdown("\n".join(f"- {sem_formula(d)}" for d in resultado["descartes"]))
     st.caption(f"Gerado por {resultado['modelo']}. Sugestões de consumo, não orientação médica ou nutricional.")
 
 
@@ -461,8 +491,8 @@ with aba_ia:
             st.metric("Gasto médio por mês com notas", reais(resumo["gasto_medio_por_mes_com_notas"]))
             principais = pd.DataFrame(resumo["categorias"]).head(6)
             principais["categoria"] = principais["categoria"].map(ROTULOS_CATEGORIA)
-            st.altair_chart(barras(principais, "categoria", "gasto_mensal_estimado")
-                            .properties(title="R$ por mês, por categoria"), width="stretch")
+            st.markdown("**R\\$ por mês, por categoria**")
+            st.altair_chart(barras(principais, "categoria", "gasto_mensal_estimado"), width="stretch")
             with st.expander("O que a IA recebe"):
                 st.caption("Só este resumo agregado: nenhuma loja, nota ou nome bruto de produto.")
                 st.json(resumo, expanded=False)
